@@ -1,4 +1,3 @@
-﻿
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bda739927fb39c94c7020475e3ae6110:81001b9e5c7e03e3b945adce2bca8e0e
@@ -17572,12 +17571,6 @@ https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/English/Sixty.Minu
 #EXTINF:-1 type="movie" group-title="FS-First" tvg-logo="https://i.ibb.co/mFd7BVY/s-l1600.jpg", Monkey Man (2024)
 #EXTVLCOPT:http-referrer=https://emturbovid.com/
 https://cdn118.brnowy.com/data/9/A8/66294eebdb5f6/66294eebdb5f6720.m3u8
-#EXTINF:-1 type="movie" group-title="FS-First" tvg-logo="https://i.ibb.co/HqqjPwf/MV5-BMz-Qw-Ym-Yy-OWQt-NTky-OS00-Zj-Ji-LWEx-MGEt-Yjdm-NTIx-Njli-NDBi-Xk-Ey-Xk-Fqc-Gde-QXVy-ODgz-Mzg2.jpg", Shaitaan SD (2024)
-#EXTVLCOPT:http-referrer=https://emturbovid.com/
-https://cdn119.alexandmu.com/data/8/FA/66374d775a656/66374d775a656480.m3u8
-#EXTINF:-1 type="movie" group-title="FS-First" tvg-logo="https://i.ibb.co/HqqjPwf/MV5-BMz-Qw-Ym-Yy-OWQt-NTky-OS00-Zj-Ji-LWEx-MGEt-Yjdm-NTIx-Njli-NDBi-Xk-Ey-Xk-Fqc-Gde-QXVy-ODgz-Mzg2.jpg", Shaitaan HD (2024)
-#EXTVLCOPT:http-referrer=https://emturbovid.com/
-https://cdn113.dylancyp.com/data/1/CC/66374d775a656/66374d775a656720.m3u8
   
 #EXTINF:-1 type="movie" group-title="FS-First" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s2tP3R39ZWo8CN90GuBTMvmXiBW.jpg", The Warriorr (2022)
 https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EeZpYFWOIDJIgX9iptX_7xwBuK0_acpvUP6vK98DcViwBQ
@@ -18302,6 +18295,9 @@ https://www.dropbox.com/scl/fi/c6bzc5imeubo8fxxjha78/e6.mp4?rlkey=3pa0bnz45xvm8e
 #EXTINF:-1 tvg-id="" tvg-name="One Cent Thief" tvg-logo="https://www.dropbox.com/scl/fi/67pi0ks39pg9gl8b5fuw8/17385620303387820707320026529581.jpg?rlkey=etd46zbwofa5a2xx3lh86z4su&st=5j9du8aw&dl=1" group-title="FS-Drama",One Cent Thief E7
 https://www.dropbox.com/scl/fi/x15yeqjvfarjl0n0cst99/e7.mp4?rlkey=j1depdt8gxpphi4wiigb125e7&st=p68yw8sp&dl=1
 
+#EXTINF:-1 tvg-id="" tvg-name="One Cent Thief" tvg-logo="https://www.dropbox.com/scl/fi/67pi0ks39pg9gl8b5fuw8/17385620303387820707320026529581.jpg?rlkey=etd46zbwofa5a2xx3lh86z4su&st=5j9du8aw&dl=1" group-title="FS-Drama",One Cent Thief E8
+https://www.dropbox.com/scl/fi/0opcbmk4bg5k8sd0vacrh/e8.mp4?rlkey=gon352mu07njvk41u7u3b9wvr&st=7gst62f2&dl=1
+
 ############### JEJAK RASUL
 
 #EXTINF:-1 tvg-id="" tvg-name="Jejak Rasul" tvg-logo="https://www.dropbox.com/scl/fi/7bbejqcta4l5u9vfpian8/17409893421303431544163032173194.jpg?rlkey=3qpqfz0q1e1sh7h8agfkdg4su&st=vlwc452l&dl=1" group-title="FS-Drama",Jejak Rasul: Ulama Pewaris Rasul E1
@@ -18380,6 +18376,33 @@ https://www.dropbox.com/scl/fi/x9cc2xez5hi8q02suynr2/e18.mp4?rlkey=6xzm0aeqf5j3c
 
 #EXTINF:-1 tvg-id="" tvg-name="Dia Imamku" tvg-logo="https://www.dropbox.com/scl/fi/awqhc0ylwx5xqkimj5v7e/17405749521381503486683851185905.jpg?rlkey=z28betsu13l9xys2shdhgqgy9&st=47il8lkx&dl=1" group-title="FS-Drama",Dia Imamku E19
 https://www.dropbox.com/scl/fi/293ttussdtihh1dgdtqy5/e19.mp4?rlkey=outulp8tvv2xw5c8z110czg14&st=xhtak5lt&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Dia Imamku" tvg-logo="https://www.dropbox.com/scl/fi/awqhc0ylwx5xqkimj5v7e/17405749521381503486683851185905.jpg?rlkey=z28betsu13l9xys2shdhgqgy9&st=47il8lkx&dl=1" group-title="FS-Drama",Dia Imamku E20
+https://www.dropbox.com/scl/fi/tgekltyp0ufo7estli72x/e20.mp4?rlkey=jfo3gc0yi5vrmp76tohu74sb2&st=nh51pse3&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Dia Imamku" tvg-logo="https://www.dropbox.com/scl/fi/awqhc0ylwx5xqkimj5v7e/17405749521381503486683851185905.jpg?rlkey=z28betsu13l9xys2shdhgqgy9&st=47il8lkx&dl=1" group-title="FS-Drama",Dia Imamku E21
+https://www.dropbox.com/scl/fi/qi6l9olwh3jof3s1z0w80/e21.mp4?rlkey=gij13fbf6dozhn4bdenxg35y9&st=2bnrbish&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Dia Imamku" tvg-logo="https://www.dropbox.com/scl/fi/awqhc0ylwx5xqkimj5v7e/17405749521381503486683851185905.jpg?rlkey=z28betsu13l9xys2shdhgqgy9&st=47il8lkx&dl=1" group-title="FS-Drama",Dia Imamku E22
+https://www.dropbox.com/scl/fi/vuwcp24qgudz11nirl5cw/e22.mp4?rlkey=eo3fxx7koedf674pqvhqtqldh&st=6z8opmf9&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Dia Imamku" tvg-logo="https://www.dropbox.com/scl/fi/awqhc0ylwx5xqkimj5v7e/17405749521381503486683851185905.jpg?rlkey=z28betsu13l9xys2shdhgqgy9&st=47il8lkx&dl=1" group-title="FS-Drama",Dia Imamku E23
+https://www.dropbox.com/scl/fi/h7ocx68c4t3ig51v8b4lh/e23.mp4?rlkey=v3c788xuin8b8pr1wdzpd7pi0&st=pphe6em4&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Dia Imamku" tvg-logo="https://www.dropbox.com/scl/fi/awqhc0ylwx5xqkimj5v7e/17405749521381503486683851185905.jpg?rlkey=z28betsu13l9xys2shdhgqgy9&st=47il8lkx&dl=1" group-title="FS-Drama",Dia Imamku E24
+https://www.dropbox.com/scl/fi/trdzk0s0k7dpjczjmntun/e24.mp4?rlkey=ateflaz6jn3204mar5uc48022&st=m3scudhd&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Dia Imamku" tvg-logo="https://www.dropbox.com/scl/fi/awqhc0ylwx5xqkimj5v7e/17405749521381503486683851185905.jpg?rlkey=z28betsu13l9xys2shdhgqgy9&st=47il8lkx&dl=1" group-title="FS-Drama",Dia Imamku E25
+https://www.dropbox.com/scl/fi/9r1vqwfqhun8v8hd9uuj5/e25.mp4?rlkey=dbrgzusox9pxtgh66f7v8pb33&st=hnqwm3x7&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Dia Imamku" tvg-logo="https://www.dropbox.com/scl/fi/awqhc0ylwx5xqkimj5v7e/17405749521381503486683851185905.jpg?rlkey=z28betsu13l9xys2shdhgqgy9&st=47il8lkx&dl=1" group-title="FS-Drama",Dia Imamku E26
+https://www.dropbox.com/scl/fi/51duuoi0t2qfvm0eub6zj/e26.mp4?rlkey=iefs5xqmgy17r231mez63dzgd&st=chu9oli1&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Dia Imamku" tvg-logo="https://www.dropbox.com/scl/fi/awqhc0ylwx5xqkimj5v7e/17405749521381503486683851185905.jpg?rlkey=z28betsu13l9xys2shdhgqgy9&st=47il8lkx&dl=1" group-title="FS-Drama",Dia Imamku E27
+https://www.dropbox.com/scl/fi/fr44uouu5x5twmb00rp80/e27.mp4?rlkey=guntxvz0is5xhac2sb9r8k5g7&st=zheou64i&dl=1
+
+
+
 ############################### BIDAAH
 
 #EXTINF:-1 tvg-id="" tvg-name="Bidaah" tvg-logo="https://www.dropbox.com/scl/fi/7p16h8j9dlz8b7ylahq0o/17417048424764233342855231588260.jpg?rlkey=puzjt6h01fh4bskqu5jyg8uz2&st=vlmqn9th&dl=1" group-title="FS-Drama",Bidaah E1
@@ -18400,6 +18423,23 @@ https://www.dropbox.com/scl/fi/o719cyqnmprhiwxv6fbsi/e5.mp4?rlkey=iwohni1qc3c99s
 #EXTINF:-1 tvg-id="" tvg-name="Bidaah" tvg-logo="https://www.dropbox.com/scl/fi/7p16h8j9dlz8b7ylahq0o/17417048424764233342855231588260.jpg?rlkey=puzjt6h01fh4bskqu5jyg8uz2&st=vlmqn9th&dl=1" group-title="FS-Drama",Bidaah E6
 https://www.dropbox.com/scl/fi/uk9jjw7cyg3gpsa93d36u/e6.mp4?rlkey=42nj2585bvdvp1bs2xb3kf104&st=sb8urwdn&dl=1
 
+#EXTINF:-1 tvg-id="" tvg-name="Bidaah" tvg-logo="https://www.dropbox.com/scl/fi/7p16h8j9dlz8b7ylahq0o/17417048424764233342855231588260.jpg?rlkey=puzjt6h01fh4bskqu5jyg8uz2&st=vlmqn9th&dl=1" group-title="FS-Drama",Bidaah E7
+https://www.dropbox.com/scl/fi/t10i60clxudbst318crjg/e7.mp4?rlkey=j9alygjdo9x8ymcirmikhfgbj&st=yu0rx289&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Bidaah" tvg-logo="https://www.dropbox.com/scl/fi/7p16h8j9dlz8b7ylahq0o/17417048424764233342855231588260.jpg?rlkey=puzjt6h01fh4bskqu5jyg8uz2&st=vlmqn9th&dl=1" group-title="FS-Drama",Bidaah E8
+https://www.dropbox.com/scl/fi/9ixczfmjvn46zqng7w9o7/e8.mp4?rlkey=4g0b24pny88sgiq4t7itgn9x2&st=j0x5iwr6&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Bidaah" tvg-logo="https://www.dropbox.com/scl/fi/7p16h8j9dlz8b7ylahq0o/17417048424764233342855231588260.jpg?rlkey=puzjt6h01fh4bskqu5jyg8uz2&st=vlmqn9th&dl=1" group-title="FS-Drama",Bidaah E9
+https://www.dropbox.com/scl/fi/d2477nzqi47vw3rcgdyl2/4_5981150806206846390.mp4?rlkey=yawwrec211xpfxaia7hdk9cmv&st=ds44arlq&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Bidaah" tvg-logo="https://www.dropbox.com/scl/fi/7p16h8j9dlz8b7ylahq0o/17417048424764233342855231588260.jpg?rlkey=puzjt6h01fh4bskqu5jyg8uz2&st=vlmqn9th&dl=1" group-title="FS-Drama",Bidaah E10
+https://www.dropbox.com/scl/fi/btghn91i4gmnw9qon0ovu/e10.mp4?rlkey=le4embwsdjl9ybnryb05dbq68&st=nj30jq12&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Bidaah" tvg-logo="https://www.dropbox.com/scl/fi/7p16h8j9dlz8b7ylahq0o/17417048424764233342855231588260.jpg?rlkey=puzjt6h01fh4bskqu5jyg8uz2&st=vlmqn9th&dl=1" group-title="FS-Drama",Bidaah E11
+https://www.dropbox.com/scl/fi/gmoj2sbm5t5xnze9lm852/e11.mp4?rlkey=mwguym6g3xvcc7bz0gwjkqi20&st=g3q8xdi4&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Bidaah" tvg-logo="https://www.dropbox.com/scl/fi/7p16h8j9dlz8b7ylahq0o/17417048424764233342855231588260.jpg?rlkey=puzjt6h01fh4bskqu5jyg8uz2&st=vlmqn9th&dl=1" group-title="FS-Drama",Bidaah E12
+https://www.dropbox.com/scl/fi/ymezleyyen6li7kpwdr64/e12.mp4?rlkey=0vihipfioiwp8f2xaa8489l1d&st=whla4lmv&dl=1
 
 ############################## SERIBU TAHUN
 
@@ -18414,6 +18454,19 @@ https://www.dropbox.com/scl/fi/aoiqvc9673kso7tflgxgf/e3.mp4?rlkey=z7vxtd4ogny5v6
 
 #EXTINF:-1 tvg-id="" tvg-name="Seribu Tahun" tvg-logo="https://www.dropbox.com/scl/fi/4dd1rtnn61e2yyxamjoc9/17420148646621506476308781262488.jpg?rlkey=5lhhzrak2btr2zuamcem71xqq&st=ctb3iyve&dl=1" group-title="FS-Drama",Seribu Tahun E4
 https://www.dropbox.com/scl/fi/t1alqq9npazpgwgx17q6p/e4.mp4?rlkey=sawdp492b5u9j5v3d16qn12xq&st=kuw4dj1h&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Seribu Tahun" tvg-logo="https://www.dropbox.com/scl/fi/4dd1rtnn61e2yyxamjoc9/17420148646621506476308781262488.jpg?rlkey=5lhhzrak2btr2zuamcem71xqq&st=ctb3iyve&dl=1" group-title="FS-Drama",Seribu Tahun E5
+https://www.dropbox.com/scl/fi/bo4e8ssafppiuwna69053/e5.mp4?rlkey=g26kky1x23hr3buicm2r7lh76&st=z0x0wues&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Seribu Tahun" tvg-logo="https://www.dropbox.com/scl/fi/4dd1rtnn61e2yyxamjoc9/17420148646621506476308781262488.jpg?rlkey=5lhhzrak2btr2zuamcem71xqq&st=ctb3iyve&dl=1" group-title="FS-Drama",Seribu Tahun E6
+https://www.dropbox.com/scl/fi/sklojo1d4x0udo5bjmvny/e6.mp4?rlkey=bmwiryyqvkjcfpusymkrj37t7&st=2s85a0rs&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Seribu Tahun" tvg-logo="https://www.dropbox.com/scl/fi/4dd1rtnn61e2yyxamjoc9/17420148646621506476308781262488.jpg?rlkey=5lhhzrak2btr2zuamcem71xqq&st=ctb3iyve&dl=1" group-title="FS-Drama",Seribu Tahun E7
+https://www.dropbox.com/scl/fi/fszu9i9l2kdjw9sxvg7wk/e7.mp4?rlkey=e1co3v7oj3eg96pls7pvpw390&st=bk5ahras&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Seribu Tahun" tvg-logo="https://www.dropbox.com/scl/fi/4dd1rtnn61e2yyxamjoc9/17420148646621506476308781262488.jpg?rlkey=5lhhzrak2btr2zuamcem71xqq&st=ctb3iyve&dl=1" group-title="FS-Drama",Seribu Tahun E8
+https://www.dropbox.com/scl/fi/7qtbp03e8dsir5o8aacmh/e8.mp4?rlkey=u382qjy30mmq7m0j66qn7avfc&st=f9tclva3&dl=1
+
 
 ############################### KELUARGA ITU
 
@@ -18431,6 +18484,43 @@ https://www.dropbox.com/scl/fi/ic39a4p2wfl17wln3gs17/e4.mp4?rlkey=a3cb02k1zoa6tk
 
 #EXTINF:-1 tvg-id="" tvg-name="Keluarga Itu" tvg-logo="https://www.dropbox.com/scl/fi/a75nof9om6klfm4e7e8t4/17424008728786885121415162008649.jpg?rlkey=b645vie7mb7untq9d1fu03thd&st=2qzcaidq&dl=1" group-title="FS-Drama",Keluarga Itu E5
 https://www.dropbox.com/scl/fi/7597lgmxr5zbn3uh7tw3m/e5.mp4?rlkey=bivd88n21cd3kbxy1v75a6nma&st=pdi3wznf&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Keluarga Itu" tvg-logo="https://www.dropbox.com/scl/fi/a75nof9om6klfm4e7e8t4/17424008728786885121415162008649.jpg?rlkey=b645vie7mb7untq9d1fu03thd&st=2qzcaidq&dl=1" group-title="FS-Drama",Keluarga Itu E6
+https://www.dropbox.com/scl/fi/sp51lf9gcy5rlth0wp5ai/e6.mp4?rlkey=d5h69azqclksqylvpf35rjmrl&st=h0tdmr99&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Keluarga Itu" tvg-logo="https://www.dropbox.com/scl/fi/a75nof9om6klfm4e7e8t4/17424008728786885121415162008649.jpg?rlkey=b645vie7mb7untq9d1fu03thd&st=2qzcaidq&dl=1" group-title="FS-Drama",Keluarga Itu E7
+https://www.dropbox.com/scl/fi/0kz0f2mstnm0zrezc7559/e7.mp4?rlkey=zz4b31sxuohdsoeptjithhh9x&st=uspx6l7g&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Keluarga Itu" tvg-logo="https://www.dropbox.com/scl/fi/a75nof9om6klfm4e7e8t4/17424008728786885121415162008649.jpg?rlkey=b645vie7mb7untq9d1fu03thd&st=2qzcaidq&dl=1" group-title="FS-Drama",Keluarga Itu E8
+https://www.dropbox.com/scl/fi/frxktcy425w72lxfze33t/e8.mp4?rlkey=19wrglwg9ujku08nwul3zx03a&st=xff7f221&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Keluarga Itu" tvg-logo="https://www.dropbox.com/scl/fi/a75nof9om6klfm4e7e8t4/17424008728786885121415162008649.jpg?rlkey=b645vie7mb7untq9d1fu03thd&st=2qzcaidq&dl=1" group-title="FS-Drama",Keluarga Itu E9
+https://www.dropbox.com/scl/fi/4y6axqrgfwimx7045l6oh/e9.mp4?rlkey=86s9lyfbua2fm5bufm5yx85vg&st=xl70babq&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Keluarga Itu" tvg-logo="https://www.dropbox.com/scl/fi/a75nof9om6klfm4e7e8t4/17424008728786885121415162008649.jpg?rlkey=b645vie7mb7untq9d1fu03thd&st=2qzcaidq&dl=1" group-title="FS-Drama",Keluarga Itu E10
+https://www.dropbox.com/scl/fi/tu2ccbc2xb8nqbk52rvyn/e10.mp4?rlkey=shazi8d2vrpoq2xyxlcipxzpw&st=lhra0srf&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Keluarga Itu" tvg-logo="https://www.dropbox.com/scl/fi/a75nof9om6klfm4e7e8t4/17424008728786885121415162008649.jpg?rlkey=b645vie7mb7untq9d1fu03thd&st=2qzcaidq&dl=1" group-title="FS-Drama",Keluarga Itu E11
+https://www.dropbox.com/scl/fi/baw0t027x03e5irjm61t6/e11.mp4?rlkey=h0nr0w29gb4sov7qe8xcf5utb&st=z1tsrena&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Keluarga Itu" tvg-logo="https://www.dropbox.com/scl/fi/a75nof9om6klfm4e7e8t4/17424008728786885121415162008649.jpg?rlkey=b645vie7mb7untq9d1fu03thd&st=2qzcaidq&dl=1" group-title="FS-Drama",Keluarga Itu E12
+https://www.dropbox.com/scl/fi/906g7dzivznmsc6lp5o31/e12.mp4?rlkey=d0ncrm3g0okylyr0etd86pvjp&st=xb9vuszm&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Keluarga Itu" tvg-logo="https://www.dropbox.com/scl/fi/a75nof9om6klfm4e7e8t4/17424008728786885121415162008649.jpg?rlkey=b645vie7mb7untq9d1fu03thd&st=2qzcaidq&dl=1" group-title="FS-Drama",Keluarga Itu E13
+https://www.dropbox.com/scl/fi/cmok1szhshy2pgs1uc13x/e13.mp4?rlkey=v807t4ndyvredmkqyn433qr03&st=2oazmfiu&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Keluarga Itu" tvg-logo="https://www.dropbox.com/scl/fi/a75nof9om6klfm4e7e8t4/17424008728786885121415162008649.jpg?rlkey=b645vie7mb7untq9d1fu03thd&st=2qzcaidq&dl=1" group-title="FS-Drama",Keluarga Itu E14
+https://www.dropbox.com/scl/fi/zce7g5pmsabpi6ktgziwr/e14.mp4?rlkey=45721vo6mktrybdln22yps364&st=67xvsjee&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Keluarga Itu" tvg-logo="https://www.dropbox.com/scl/fi/a75nof9om6klfm4e7e8t4/17424008728786885121415162008649.jpg?rlkey=b645vie7mb7untq9d1fu03thd&st=2qzcaidq&dl=1" group-title="FS-Drama",Keluarga Itu E15
+https://www.dropbox.com/scl/fi/3hkvjwyuhzwz80jopbzdi/e15.mp4?rlkey=w5vjbox68lkbood9966dr285i&st=63vow2p1&dl=1
+
+
+######################## ONE 172
+
+#EXTINF:-1 type="movie" group-title="ONE 172 Latest Match" tvg-logo="https://www.dropbox.com/scl/fi/bmwnph16k1e3aklep6k1g/17427494296301146868231700561222.jpg?rlkey=9wwxnozwz6x5xh3ij563w7th6&st=bpe6s6s1&dl=1",Takeru VS Rodtang
+https://www.dropbox.com/scl/fi/s4cf94rk83k5drfgtgqvv/ONE-172_-Takeru-vs.-Rodtang-_-First-2-Fights-720P_HD.mp4?rlkey=0z5qs44l59jpwzfdgaof9yk3n&st=8ls21do9&dl=1
+
 
 ############################### TOP NETFLIX
 
@@ -18534,8 +18624,9 @@ https://www.dropbox.com/scl/fi/q39y5npcxq722fhawllrq/ipar-adalah-maut.mp4?rlkey=
 https://www.dropbox.com/scl/fi/g9w4d60scgbebs53zdthd/the-electric-state.mp4?rlkey=daazvfc6i99lxdwimz5d65lsw&st=vb69cxt7&dl=1
 
 #EXTINF:-1 type="movie" group-title="FS-Top Netflix (Malaysia)" tvg-logo="https://www.dropbox.com/scl/fi/jlsf9sttar9rnv4th50m0/17422212666896620957670181574685.jpg?rlkey=4isvfqjo6cuxg60j2nkhj4i7q&st=iuovnt5t&dl=1",Santet Segoro Pitu 2024
-https://www.dropbox.com/scl/fi/l06d40yxqbpn03o2i2rp0/santet-segoro-pitu-hd.mkv?rlkey=224zgg7o7b54qapsow7odz5ka&st=dz6emx08&dl=1
-https://www.dropbox.com/scl/fi/zjoqsrf731m65a5kquvq6/santet-segoro-pitu.mkv?rlkey=j2qotezfklr1rk3gz7ey91joe&st=vfu1vfk6&dl=1
+#https://www.dropbox.com/scl/fi/rjm663b1zg3q656k5wz94/Santet-Segoro-Pitu-2024-_-Indonesian-Movies.mp4?rlkey=857v6xsc55ptcbg17fg4ms8wg&st=sblzrd0z&dl=1
+https://www.dropbox.com/scl/fi/pe1njof7ttaru231uxyvc/santet-segoro-pitu-eng.mp4?rlkey=92wiskjwjaak8ygm5hhpnv1m2&st=46xql2xa&dl=1
+https://www.dropbox.com/scl/fi/zjoqsrf731m65a5kquvq6/santet-segoro-pitu.mp4?rlkey=j2qotezfklr1rk3gz7ey91joe&st=y93brtf4&dl=1
 
 #EXTINF:-1 type="movie" group-title="FS-Top Netflix (Malaysia)" tvg-logo="https://www.dropbox.com/scl/fi/5sorbdo06vb6rl2qv2nb8/17422960143301757153956485707757.jpg?rlkey=r9cg3de5oi101m8jm1no7fa0e&st=jovc3tg3&dl=1",Baik Punya Ah Long 2024
 https://www.dropbox.com/scl/fi/ukugjgmectznvhslbglu2/baik-punya-ahlong.mp4?rlkey=1ggcntxcnpbkqgq011dvj2tlk&st=q5banyf2&dl=1
@@ -18551,3 +18642,25 @@ https://www.dropbox.com/scl/fi/jl67w6f26k51xmw1mqs9j/sinden-gaib.mp4?rlkey=cbmqd
 
 #EXTINF:-1 type="movie" group-title="FS-Top Netflix (Malaysia)" tvg-logo="https://www.dropbox.com/scl/fi/fs1awrtg99q3p4d8ja9ef/17424080635984384031438176179920.jpg?rlkey=cosb622se9hvnwkft1u8qjmk8&st=7v2x6io8&dl=1",Devils Stay 2024
 https://www.dropbox.com/scl/fi/b6tv8sc8hw0f4pjfv7pe3/devils-stay.mp4?rlkey=sv7tr24ay9pc814ycjwzh9o9p&st=ruzd6bmz&dl=1
+
+#EXTINF:-1 type="movie" group-title="FS-Top Netflix (Malaysia)" tvg-logo="https://www.dropbox.com/scl/fi/qird6l0rzoracacnjdypm/17424936716008805728590407592372.jpg?rlkey=i9a082w3i42e59kbrotsca7x2&st=9s393tkv&dl=1",Khel Khel Mein 2024
+https://www.dropbox.com/scl/fi/o5xwkfb9xkyvxc0fbdqfa/khel-khel-mein.mp4?rlkey=44tdjywinxa6l7d2w681ofmer&st=e6afj61f&dl=1
+
+#EXTINF:-1 type="movie" group-title="FS-Top Netflix (Malaysia)" tvg-logo="https://www.dropbox.com/scl/fi/4fubuiep77akfu3ylr05x/17425018254208348805183514848838.jpg?rlkey=l7j9u0h4sflhcgjolmmmhacb8&st=vesgcdli&dl=1",Wanita Ahli Neraka 2024
+https://www.dropbox.com/scl/fi/m7qnvaritlafa6y4gayl8/wanita-ahli-neraka.mp4?rlkey=x08xe315iymmvfutyv791xphc&st=bqqd6qir&dl=1
+
+#EXTINF:-1 type="movie" group-title="FS-Top Netflix (Malaysia)" tvg-logo="https://www.dropbox.com/scl/fi/3q0dyrbffyzdnuu8i9os1/17425506670864865118720225077261.jpg?rlkey=80eay42y7wdnfxielcfdioahn&st=c42eue15&dl=1",Lembayung 2024
+https://www.dropbox.com/scl/fi/9zzcob6u7x9vxbnij5ofd/lembayung.mp4?rlkey=hj2qifnqkd1dzbnytcu6dn4nv&st=j7rgladr&dl=1
+
+#EXTINF:-1 type="movie" group-title="FS-Top Netflix (Malaysia)" tvg-logo="https://www.dropbox.com/scl/fi/kpdvcsmsjt775ijg4mngb/1742629832902190461851064253509.jpg?rlkey=0pjxh6bk9r760yf9zimqsck08&st=0zrw1c1f&dl=1",Sky Force 2025
+https://www.dropbox.com/scl/fi/xqrwjy3ojmjyzh4li425l/skyforce.mp4?rlkey=x86bhfwbmh6oaiajuamvwzo3m&st=lotlolx1&dl=1
+
+#EXTINF:-1 type="movie" group-title="FS-Top Netflix (Malaysia)" tvg-logo="https://www.dropbox.com/scl/fi/ti072gzwagnjs6t9xmzwj/17426345713738507195582382823547.jpg?rlkey=t6scxo8bbdoldq2n8gmlgrw48&st=hyimmfh5&dl=1",Pushpa: The Rise-Part 01
+https://www.dropbox.com/scl/fi/dc1m8cdr408028apv7e1k/pushpa-the-rise-part-1.mp4?rlkey=gaxejihvkyv3dn2jaicmu1063&st=tx4sog61&dl=1
+
+#EXTINF:-1 type="movie" group-title="FS-Top Netflix (Malaysia)" tvg-logo="https://www.dropbox.com/scl/fi/jq4fwhr56qj45ihci1d43/17427481466116167486660813978351.jpg?rlkey=pqj8lsm27ag73xpb1avebwqih&st=1c8pa6d5&dl=1",Kuasa Gelap 2024
+https://www.dropbox.com/scl/fi/0889kae0btmrrenopp10x/kuasa-gelap.mp4?rlkey=x8hz9l5xdomqj91v5xn5vgcxe&st=b2jofryg&dl=1
+
+#EXTINF:-1 type="movie" group-title="FS-Top Netflix (Malaysia)" tvg-logo="https://www.dropbox.com/scl/fi/hj65h7dzv6dm05odzzz0c/17436509832155515934084073120614.jpg?rlkey=0s1ndbtsfuhb320idnh9r4c0g&st=ismuqi6d&dl=1",Shaitaan 2024
+https://www.dropbox.com/scl/fi/sjdwn2zgg1uhm0qjsvbbr/Shaitaan.mp4?rlkey=hyeqag7bvb0jrruvk4i7sa9jn&st=eq4f7ioe&dl=1
+
