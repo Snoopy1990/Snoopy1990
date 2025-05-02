@@ -18914,16 +18914,5 @@ https://www.dropbox.com/scl/fi/vkck1qfbtz8fl0kyce7sj/sorop.mp4?rlkey=wope26nnzwa
 #https://www.dropbox.com/scl/fi/9tcf71o21lgs4dqek0yfj/modal-nekad.mp4?rlkey=qrkfuu2y1v5z00ivp5b087zth&st=eiq0rdtb&dl=1
 
 
-########################## SEDUT
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="FS-Top Netflix" group-logo="" tvg-logo="https://get.perfecttv.net/first/harimaumerah.jpg", Harimau Merah (2025)
-#KODIPROP:inputstream=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDYxNjg2NzAsImlzcyI6IlZSIiwiZXhwIjoxNzQ2MjI1MDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiMWRlODIwNjEtOTg4NC00MTNjLTg1NmUtMWFmYTk0NTg2YTlhIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiOWMwYzg5YTVjNDI0MTU0ZjYxY2ViZGFmN2YwOWI3ODgtMzNjYjE1NTExOWIxN2ExMDBiOWYtMyJ9.eYu4aIjiBFUrX13QE7lB2z7qdRPsAtCsjvkqUsJS9TQ"}
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cdcbbd9ef8f95d04b6c74d7160e4934b:af594494af4d9738c8d69fd10ea3b85c
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=harimaumerah
-
 
 
