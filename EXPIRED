@@ -1,1 +1,19 @@
 #EXTM3U url-tvg="https://azimabid00.github.io/epg/astro_epg.xml,https://azimabid00.github.io/epg/unifi_epg.xml,https://bit.ly/pondan-epg,https://github.com/Jerrie-Aries/EPG/blob/master/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://www.bevy.be/bevyfiles/indonesia.xml, https://i.mjh.nz/PlutoTV/us.xml, https://raw.githubusercontent.com/samleong123/rtm-live/refs/heads/main/rtmklik.xml" refresh="1440" billed-msg="ACCOUNT EXPIRED" 
+
+###########GUIDELINES###############
+ 
+#EXTINF:-1 group-logo="https://i.ibb.co/Cs222LD/fslogo-preview.png"
+#EXTINF:-1 type="Movies" tvg-logo="https://i.ibb.co/6W55D3S/OTTNav.png" group-title="(( OTT GUIDELINES & SETUP ))",CHANGE SUBTITLES
+https://tinyurl.com/y9xb55wk
+ 
+#EXTINF:-1 type="Movies" tvg-logo="https://i.ibb.co/6W55D3S/OTTNav.png" group-title="(( OTT GUIDELINES & SETUP ))",RELOAD PROVIDER
+https://tinyurl.com/57ntwtuk
+ 
+#EXTINF:-1 type="Movies" tvg-logo="https://i.ibb.co/6W55D3S/OTTNav.png" group-title="(( OTT GUIDELINES & SETUP ))",RELOAD EPG TELEGUIDE 
+https://tinyurl.com/2p8fx4pp
+ 
+#EXTINF:-1 type="Movies" tvg-logo="https://i.ibb.co/6W55D3S/OTTNav.png" group-title="(( OTT GUIDELINES & SETUP ))",RELOAD MEDIA LIBRARY 
+https://tinyurl.com/n46rf3vw
+ 
+#EXTINF:-1 type="Movies" tvg-logo="https://i.ibb.co/6W55D3S/OTTNav.png" group-title="(( OTT GUIDELINES & SETUP ))",OPEN CHANNEL IN EXTERNAL PLAYER (VLC)
+https://tinyurl.com/bdfjyt84
