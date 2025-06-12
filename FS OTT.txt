@@ -1,3 +1,6 @@
+#EXTINF:-1 type="" tvg-logo="https://i.ibb.co/6W55D3S/OTT-Navigator-logo-removebg-prev.png" group-title="",CARA OPEN IN EXTERNAL PLAYER
+https://www.dropbox.com/scl/fi/x2quppnwlxdemo0uo21dm/cara-guna-vlc.mp4?rlkey=t8li3z3u4qwwoupahbs5ku6ut&st=aq81etnn&dl=1
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bda739927fb39c94c7020475e3ae6110:81001b9e5c7e03e3b945adce2bca8e0e
 #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JPJXT_IVP_LAND_171x96_5044C_2024313_17232.jpg" group-title="FS-First", 10 Tips Tipu Bini
@@ -11666,15 +11669,6 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/38dcc8b9-
 #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KGNZR_IVP_LAND_432x243_69276_2024321_17286.jpg" group-title="AOTG", Run Baby Run
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/bc4f6f90-d326-5660-9d17-5888e90ea4ed/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e5f9b04f676fba43e8ea687b866a2610:2dabcf512fa19883746ff256babc5c77
-#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JCZOU_IVP_LAND_432x243_3B037_2024101_162422.jpg" group-title="AOTG", Rush Hour
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/38c752f8-6651-5fa9-8aea-84ad80e91a8b/default_primary.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2873b3fff09c75bff3b4fa338a24f510:157ff9052ca4072ebcbba34d046d44c9
-#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JNDYO_IVP_LAND_672x378_43CB2_202497_104223.jpg" group-title="AOTG", Rush Hour 2
-https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8550f119-ad1e-5618-b7cc-4c047ffe4431/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d976d272dd52123b6c1bec4d8d395910:a0ef385ca8933ac63fe32ea34e546f7a
@@ -18715,64 +18709,92 @@ https://www.dropbox.com/scl/fi/ougj2p5eh5ch0vzozwhww/e32.mp4?rlkey=iaxc8fgt5wv5w
 
 ######################## THE HAUNTED PALACE
 
-#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Drama",The Haunted Palace-KDrama E1
+#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Top Netflix",The Haunted Palace Full E1
 https://www.dropbox.com/scl/fi/sqiflagxs57qyrxua6xrq/e1.mp4?rlkey=2951i7j01cp3az6zz2k9aru4j&st=aj7uxnrc&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Drama",The Haunted Palace-KDrama E2
+#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Top Netflix",The Haunted Palace Full E2
 https://www.dropbox.com/scl/fi/t9hrc72qw7pzco59g2c30/e2.mp4?rlkey=tw9qx55cvr9ksg8f87urr665r&st=py362e2o&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Drama",The Haunted Palace-KDrama E3
+#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Top Netflix",The Haunted Palace Full E3
 https://www.dropbox.com/scl/fi/r9sq7hpqd8r22fe8xo9j1/e3.mp4?rlkey=10q6opajpx35j5j2j4bqunzfw&st=pmcbmfiy&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Drama",The Haunted Palace-KDrama E4
+#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Top Netflix",The Haunted Palace Full E4
 https://www.dropbox.com/scl/fi/58tpccdbtu3as5csc5a6c/e4.mp4?rlkey=kk4q0ruc2ppg7rj6pgxuztc6w&st=43d1z305&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Drama",The Haunted Palace-KDrama E5
+#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Top Netflix",The Haunted Palace Full E5
 https://www.dropbox.com/scl/fi/yj1jwlmcvrsd5yy61jgut/e5.mp4?rlkey=yg6izww18yd2e6c0z32s9d0ax&st=r2bocygp&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Drama",The Haunted Palace-KDrama E6
+#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Top Netflix",The Haunted Palace Full E6
 https://www.dropbox.com/scl/fi/e6yeczoordrlx1x6fezfq/e6.mp4?rlkey=0xw19djm60snbw0t9x7oafapp&st=hrv302rl&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Drama",The Haunted Palace-KDrama E7
+#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Top Netflix",The Haunted Palace Full E7
 https://www.dropbox.com/scl/fi/3g0b5dgb6u87gurk2o5wc/e7.mp4?rlkey=x07xfmrs37pkao15emqbvtxxu&st=zwjwmief&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Drama",The Haunted Palace-KDrama E8
+#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Top Netflix",The Haunted Palace Full E8
 https://www.dropbox.com/scl/fi/nqfszjbdclzs672fb5jrq/e8.mp4?rlkey=zm1zjax8s7kgsxhnzy65741zu&st=zmhtml5t&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Drama",The Haunted Palace-KDrama E9
+#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Top Netflix",The Haunted Palace Full E9
 https://www.dropbox.com/scl/fi/rheqmjpwab6zy1vrws8j7/e9.mp4?rlkey=ev8l57mknma2hm0opgyp6ovhb&st=p9z6bxtx&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Drama",The Haunted Palace-KDrama E10
+#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Top Netflix",The Haunted Palace Full E10
 https://www.dropbox.com/scl/fi/tmya2rcmow8c86851d9j4/e10.mp4?rlkey=srw930wmxtgt1bniy9z9nmmce&st=yoyp87to&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Drama",The Haunted Palace-KDrama E11
+#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Top Netflix",The Haunted Palace Full E11
 https://www.dropbox.com/scl/fi/s3njrg28wuhk1w5lb6yg9/e11.mp4?rlkey=4d854sv0q9j74odwej5s36fse&st=ujc2a6b6&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Drama",The Haunted Palace-KDrama E12
+#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Top Netflix",The Haunted Palace Full E12
 https://www.dropbox.com/scl/fi/mzoz8r27wve5wqjbfqubl/e12.mp4?rlkey=w54f3uethy5kkuueox7l3qb2b&st=3a235mqq&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Drama",The Haunted Palace-KDrama E13
+#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Top Netflix",The Haunted Palace Full E13
 https://www.dropbox.com/scl/fi/gmywm47uqzmb1droatiih/e13.mp4?rlkey=gcox5qpq16dyg0trmtk62ul8u&st=s6yoq7fw&dl=1
 
+#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Top Netflix",The Haunted Palace Full E14
+https://www.dropbox.com/scl/fi/hwtcylgbcb56ttq3gq208/e14.mp4?rlkey=rvdnshyxxeqiwwbcvs7mj2ovd&st=sr4r22x7&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Top Netflix",The Haunted Palace Full E15
+https://www.dropbox.com/scl/fi/xue7bpgi56csz5kmxdosg/e15.mp4?rlkey=ky706s9ne3wf6lp4y9rinnvpe&st=zn1ad1s2&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="The Haunted Palace" tvg-logo="https://www.dropbox.com/scl/fi/lqhdlautbhlm7nv900qy5/6059862417439048350_121.jpg?rlkey=lxr45q39cljh0mtlwcl14ldv9&st=608svbor&dl=1" group-title="FS-Top Netflix",The Haunted Palace Full E16
+https://www.dropbox.com/scl/fi/st8wbuqsd4znza86nxyvp/e16.mp4?rlkey=98a6lwq4fbw5qhjak5ki1fatn&st=q2ouuiqw&dl=1
+
+######################## LAMBAIAN HUDA
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/3synqmdsqvshhclpzslk5/17487756181668441744539238963913.jpg?rlkey=x7gdwvlmbhn8rarkdt2koyfja&st=zprbrhsq&dl=1" group-title="FS-Drama",Lambaian Huda E1
+https://www.dropbox.com/scl/fi/rvym6wbx1dywoaa2kj5fp/e1.mp4?rlkey=7dw29fj3pmba50bwat52eemy9&st=22bxft7c&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/3synqmdsqvshhclpzslk5/17487756181668441744539238963913.jpg?rlkey=x7gdwvlmbhn8rarkdt2koyfja&st=zprbrhsq&dl=1" group-title="FS-Drama",Lambaian Huda E2
+https://www.dropbox.com/scl/fi/hynaw4dzem3h04cqlru1j/e2.mp4?rlkey=e2nwp9xqsnbzcuc5hvu46wy5y&st=opss1ab5&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/3synqmdsqvshhclpzslk5/17487756181668441744539238963913.jpg?rlkey=x7gdwvlmbhn8rarkdt2koyfja&st=zprbrhsq&dl=1" group-title="FS-Drama",Lambaian Huda E3
+https://www.dropbox.com/scl/fi/o3a6yjlyvbmwka4rlinyl/e3.mp4?rlkey=b1zn79uzn4jj43ook98axtv8x&st=gjwd8d1e&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/3synqmdsqvshhclpzslk5/17487756181668441744539238963913.jpg?rlkey=x7gdwvlmbhn8rarkdt2koyfja&st=zprbrhsq&dl=1" group-title="FS-Drama",Lambaian Huda E4
+https://www.dropbox.com/scl/fi/8a05dagbbwgy7y36c8u9k/e4.mp4?rlkey=fa8vzrcurtfmoo45pyg02vvdq&st=6on8hwm0&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/3synqmdsqvshhclpzslk5/17487756181668441744539238963913.jpg?rlkey=x7gdwvlmbhn8rarkdt2koyfja&st=zprbrhsq&dl=1" group-title="FS-Drama",Lambaian Huda E5
+https://www.dropbox.com/scl/fi/59tfu51tml9arbjtiusbw/e5.mp4?rlkey=ykknv8w0ag2z9mmv1rvoj3sn3&st=qmel9z41&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/3synqmdsqvshhclpzslk5/17487756181668441744539238963913.jpg?rlkey=x7gdwvlmbhn8rarkdt2koyfja&st=zprbrhsq&dl=1" group-title="FS-Drama",Lambaian Huda E6
+https://www.dropbox.com/scl/fi/qglik3qdfcxnuont04ajl/e6.mp4?rlkey=j3c1ass3ahc6mjnkq8m1hnlhi&st=lc6o6e9d&dl=1
 
 ######################## KARMA
 
-#EXTINF:-1 tvg-id="" tvg-name="Karma" tvg-logo="https://www.dropbox.com/scl/fi/ibjmnu8r74rrj9qyzznx0/6305095966184817675_121.jpg?rlkey=j1444hvgz5rvnieuumvkjiaek&st=8k4bv5qi&dl=1" group-title="FS-Drama",Karma-KDrama Full E1
+#EXTINF:-1 tvg-id="" tvg-name="Karma" tvg-logo="https://www.dropbox.com/scl/fi/ibjmnu8r74rrj9qyzznx0/6305095966184817675_121.jpg?rlkey=j1444hvgz5rvnieuumvkjiaek&st=8k4bv5qi&dl=1" group-title="FS-Top Netflix",Karma-KDrama Full E1
 https://www.dropbox.com/scl/fi/ubg2ku4tehxiye50zf3mq/e1.mp4?rlkey=6ww4nuggn3weqq2vch602ndrq&st=t1qlwgx4&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Karma" tvg-logo="https://www.dropbox.com/scl/fi/ibjmnu8r74rrj9qyzznx0/6305095966184817675_121.jpg?rlkey=j1444hvgz5rvnieuumvkjiaek&st=8k4bv5qi&dl=1" group-title="FS-Drama",Karma-KDrama Full E2
+#EXTINF:-1 tvg-id="" tvg-name="Karma" tvg-logo="https://www.dropbox.com/scl/fi/ibjmnu8r74rrj9qyzznx0/6305095966184817675_121.jpg?rlkey=j1444hvgz5rvnieuumvkjiaek&st=8k4bv5qi&dl=1" group-title="FS-Top Netflix",Karma-KDrama Full E2
 https://www.dropbox.com/scl/fi/469efja92eubmaccx747k/e2.mp4?rlkey=69z8iunhaxxbqhbcenk1rpie7&st=rn4hutj7&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Karma" tvg-logo="https://www.dropbox.com/scl/fi/ibjmnu8r74rrj9qyzznx0/6305095966184817675_121.jpg?rlkey=j1444hvgz5rvnieuumvkjiaek&st=8k4bv5qi&dl=1" group-title="FS-Drama",Karma-KDrama Full E3
+#EXTINF:-1 tvg-id="" tvg-name="Karma" tvg-logo="https://www.dropbox.com/scl/fi/ibjmnu8r74rrj9qyzznx0/6305095966184817675_121.jpg?rlkey=j1444hvgz5rvnieuumvkjiaek&st=8k4bv5qi&dl=1" group-title="FS-Top Netflix",Karma-KDrama Full E3
 https://www.dropbox.com/scl/fi/rp35dhks3he7vbxsyk3bl/e3.mp4?rlkey=0sx252rkom9f2xm6cpt7ibosi&st=5pbth9oe&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Karma" tvg-logo="https://www.dropbox.com/scl/fi/ibjmnu8r74rrj9qyzznx0/6305095966184817675_121.jpg?rlkey=j1444hvgz5rvnieuumvkjiaek&st=8k4bv5qi&dl=1" group-title="FS-Drama",Karma-KDrama Full E4
+#EXTINF:-1 tvg-id="" tvg-name="Karma" tvg-logo="https://www.dropbox.com/scl/fi/ibjmnu8r74rrj9qyzznx0/6305095966184817675_121.jpg?rlkey=j1444hvgz5rvnieuumvkjiaek&st=8k4bv5qi&dl=1" group-title="FS-Top Netflix",Karma-KDrama Full E4
 https://www.dropbox.com/scl/fi/ouxiyteijr1xhusp5yg3t/e4.mp4?rlkey=272eg2bv4innulmxn86ncwj3l&st=2e6e9gtq&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Karma" tvg-logo="https://www.dropbox.com/scl/fi/ibjmnu8r74rrj9qyzznx0/6305095966184817675_121.jpg?rlkey=j1444hvgz5rvnieuumvkjiaek&st=8k4bv5qi&dl=1" group-title="FS-Drama",Karma-KDrama Full E5
+#EXTINF:-1 tvg-id="" tvg-name="Karma" tvg-logo="https://www.dropbox.com/scl/fi/ibjmnu8r74rrj9qyzznx0/6305095966184817675_121.jpg?rlkey=j1444hvgz5rvnieuumvkjiaek&st=8k4bv5qi&dl=1" group-title="FS-Top Netflix",Karma-KDrama Full E5
 https://www.dropbox.com/scl/fi/8fz7eypwur5yg7vofs41x/e5.mp4?rlkey=dinas342v4dsvq0zx6bsaz9a2&st=7zn7klp9&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Karma" tvg-logo="https://www.dropbox.com/scl/fi/ibjmnu8r74rrj9qyzznx0/6305095966184817675_121.jpg?rlkey=j1444hvgz5rvnieuumvkjiaek&st=8k4bv5qi&dl=1" group-title="FS-Drama",Karma-KDrama Full E6
+#EXTINF:-1 tvg-id="" tvg-name="Karma" tvg-logo="https://www.dropbox.com/scl/fi/ibjmnu8r74rrj9qyzznx0/6305095966184817675_121.jpg?rlkey=j1444hvgz5rvnieuumvkjiaek&st=8k4bv5qi&dl=1" group-title="FS-Top Netflix",Karma-KDrama Full E6
 https://www.dropbox.com/scl/fi/j3541hz1p1scjnas90934/e6.mp4?rlkey=ezxuplk111v1msbuhd2c5ywre&st=yvcnx4j9&dl=1
 
 
@@ -18996,6 +19018,19 @@ https://www.dropbox.com/scl/fi/uaaut76td963yml7y4e61/e7.mp4?rlkey=4ywoylqw002u6g
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/d6sd1p2ukauurht7vgtbf/facebook_1746942161871_7327206497306111370.jpg?rlkey=or0oy2bxgfo1ywsik6ivnda5p&st=8b4i5gql&dl=1" group-title="FS-Drama",Aku Bukan Ustazah 2 E8
 https://www.dropbox.com/scl/fi/fvqx936a2b7kei5fpbfxq/e8.mp4?rlkey=vqptyhdaww6v3iq7hfz7cj8hs&st=8g897d90&dl=1
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/d6sd1p2ukauurht7vgtbf/facebook_1746942161871_7327206497306111370.jpg?rlkey=or0oy2bxgfo1ywsik6ivnda5p&st=8b4i5gql&dl=1" group-title="FS-Drama",Aku Bukan Ustazah 2 E9
+https://www.dropbox.com/scl/fi/8wqhjcx2wtwu9fw72gu6k/e9.mp4?rlkey=gmnt7cqfkfhdy5dlzweirvugn&st=pnspte1z&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/d6sd1p2ukauurht7vgtbf/facebook_1746942161871_7327206497306111370.jpg?rlkey=or0oy2bxgfo1ywsik6ivnda5p&st=8b4i5gql&dl=1" group-title="FS-Drama",Aku Bukan Ustazah 2 E10
+https://www.dropbox.com/scl/fi/p8oflkfmk7rvc74zh76m2/e10.mp4?rlkey=talnhvc8ihutpft63ahkovsnk&st=uea9lf0w&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/d6sd1p2ukauurht7vgtbf/facebook_1746942161871_7327206497306111370.jpg?rlkey=or0oy2bxgfo1ywsik6ivnda5p&st=8b4i5gql&dl=1" group-title="FS-Drama",Aku Bukan Ustazah 2 E11
+https://www.dropbox.com/scl/fi/clvg35omc6mbrrlqmtzdp/e11.mp4?rlkey=fxch6eleupmx93z2sx8qgd4ww&st=5sbnurpc&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/d6sd1p2ukauurht7vgtbf/facebook_1746942161871_7327206497306111370.jpg?rlkey=or0oy2bxgfo1ywsik6ivnda5p&st=8b4i5gql&dl=1" group-title="FS-Drama",Aku Bukan Ustazah 2 E12
+https://www.dropbox.com/scl/fi/6m3oeyhwxav2mxrc6gkad/e12.mp4?rlkey=m53ts6r9go8njh93vbtohk6cq&st=4rn20sna&dl=1
+
+
 
 
 ######################## PABILA DIA TERSENYUM
@@ -19074,37 +19109,52 @@ https://www.dropbox.com/scl/fi/ijkae3a8cl7sfsdd4mejv/e7.mp4?rlkey=zfdmd4jrk26bsm
 #EXTINF:-1 tvg-id="" tvg-name="Dia Bukan Syurga" tvg-logo="https://www.dropbox.com/scl/fi/l4qkadx5f6o1l5qx5m22q/17477479888253863195097738128744.jpg?rlkey=yc4hj0qaevoqzrlgbrqwhi7qm&st=8pj9gfge&dl=1" group-title="FS-Drama",Dia Bukan Syurga E8
 https://www.dropbox.com/scl/fi/z6k4auz4e066ea2tvt19a/e8.mp4?rlkey=va8fkr729tskdlqrqkjoameuo&st=rk5jpvlq&dl=1
 
+#EXTINF:-1 tvg-id="" tvg-name="Dia Bukan Syurga" tvg-logo="https://www.dropbox.com/scl/fi/l4qkadx5f6o1l5qx5m22q/17477479888253863195097738128744.jpg?rlkey=yc4hj0qaevoqzrlgbrqwhi7qm&st=8pj9gfge&dl=1" group-title="FS-Drama",Dia Bukan Syurga E9
+https://www.dropbox.com/scl/fi/h4yzc1e7pzh7tt2tzbhub/e9.mp4?rlkey=0gwu1jqpj1yl2em405jwaawda&st=z3f2junj&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Dia Bukan Syurga" tvg-logo="https://www.dropbox.com/scl/fi/l4qkadx5f6o1l5qx5m22q/17477479888253863195097738128744.jpg?rlkey=yc4hj0qaevoqzrlgbrqwhi7qm&st=8pj9gfge&dl=1" group-title="FS-Drama",Dia Bukan Syurga E10
+https://www.dropbox.com/scl/fi/fh8eixfl0o3sm883wrhf5/e10.mp4?rlkey=0jhdcsxcjgbsygyi1suuxigtd&st=wnbecoaz&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Dia Bukan Syurga" tvg-logo="https://www.dropbox.com/scl/fi/l4qkadx5f6o1l5qx5m22q/17477479888253863195097738128744.jpg?rlkey=yc4hj0qaevoqzrlgbrqwhi7qm&st=8pj9gfge&dl=1" group-title="FS-Drama",Dia Bukan Syurga E11
+https://www.dropbox.com/scl/fi/blzvze3v6ccysbo5m1i68/e11.mp4?rlkey=olxwiwrzb56o9il4truyb59lx&st=0romlshc&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Dia Bukan Syurga" tvg-logo="https://www.dropbox.com/scl/fi/l4qkadx5f6o1l5qx5m22q/17477479888253863195097738128744.jpg?rlkey=yc4hj0qaevoqzrlgbrqwhi7qm&st=8pj9gfge&dl=1" group-title="FS-Drama",Dia Bukan Syurga E12
+https://www.dropbox.com/scl/fi/rt7uxsew3zv3hppzhfo42/e12.mp4?rlkey=mwlefct1af7uq68351npsg51h&st=6r9lqk15&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Dia Bukan Syurga" tvg-logo="https://www.dropbox.com/scl/fi/l4qkadx5f6o1l5qx5m22q/17477479888253863195097738128744.jpg?rlkey=yc4hj0qaevoqzrlgbrqwhi7qm&st=8pj9gfge&dl=1" group-title="FS-Drama",Dia Bukan Syurga E13
+https://www.dropbox.com/scl/fi/gactxj5h3omwp856wbgxc/e13.mp4?rlkey=wyzalp8crzsx6ni8gr0dm9svx&st=2pss5bg6&dl=1
 
 ######################## BRU
 
-#EXTINF:-1 tvg-id="" tvg-name="Bru" tvg-logo="https://www.dropbox.com/scl/fi/z3sn2udhva9jvd21r7vzo/17479872139545347568242891947734.jpg?rlkey=p082473udfwy96jufgk7dystc&st=2mcaclbj&dl=1" group-title="FS-Drama",Bru E1
+#EXTINF:-1 tvg-id="" tvg-name="Bru" tvg-logo="https://www.dropbox.com/scl/fi/z3sn2udhva9jvd21r7vzo/17479872139545347568242891947734.jpg?rlkey=p082473udfwy96jufgk7dystc&st=2mcaclbj&dl=1" group-title="FS-Drama",Bru Full E1
 https://www.dropbox.com/scl/fi/9sy2iq4jckhc1gw14oum2/e1.mp4?rlkey=3dghqrt8kd68zrb6d1h1udmlv&st=1lnfhuvv&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Bru" tvg-logo="https://www.dropbox.com/scl/fi/z3sn2udhva9jvd21r7vzo/17479872139545347568242891947734.jpg?rlkey=p082473udfwy96jufgk7dystc&st=2mcaclbj&dl=1" group-title="FS-Drama",Bru E2
+#EXTINF:-1 tvg-id="" tvg-name="Bru" tvg-logo="https://www.dropbox.com/scl/fi/z3sn2udhva9jvd21r7vzo/17479872139545347568242891947734.jpg?rlkey=p082473udfwy96jufgk7dystc&st=2mcaclbj&dl=1" group-title="FS-Drama",Bru Full E2
 https://www.dropbox.com/scl/fi/8y458t94mkeaqnz9lmrbz/e2.mp4?rlkey=nzpyn1eb7fwwcso38d05nl8i4&st=9i9653vt&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Bru" tvg-logo="https://www.dropbox.com/scl/fi/z3sn2udhva9jvd21r7vzo/17479872139545347568242891947734.jpg?rlkey=p082473udfwy96jufgk7dystc&st=2mcaclbj&dl=1" group-title="FS-Drama",Bru E3
+#EXTINF:-1 tvg-id="" tvg-name="Bru" tvg-logo="https://www.dropbox.com/scl/fi/z3sn2udhva9jvd21r7vzo/17479872139545347568242891947734.jpg?rlkey=p082473udfwy96jufgk7dystc&st=2mcaclbj&dl=1" group-title="FS-Drama",Bru Full E3
 https://www.dropbox.com/scl/fi/iivfftqkz4tar4ocbue9c/e3.mp4?rlkey=y9w8gne12y2r8hkklei2uh4ef&st=348swiml&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Bru" tvg-logo="https://www.dropbox.com/scl/fi/z3sn2udhva9jvd21r7vzo/17479872139545347568242891947734.jpg?rlkey=p082473udfwy96jufgk7dystc&st=2mcaclbj&dl=1" group-title="FS-Drama",Bru E4
+#EXTINF:-1 tvg-id="" tvg-name="Bru" tvg-logo="https://www.dropbox.com/scl/fi/z3sn2udhva9jvd21r7vzo/17479872139545347568242891947734.jpg?rlkey=p082473udfwy96jufgk7dystc&st=2mcaclbj&dl=1" group-title="FS-Drama",Bru Full E4
 https://www.dropbox.com/scl/fi/cx47lhg8q3v4c9flbtoy7/e4.mp4?rlkey=wj99uqzevorps8w3eisejm0y4&st=w1gy9buo&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Bru" tvg-logo="https://www.dropbox.com/scl/fi/z3sn2udhva9jvd21r7vzo/17479872139545347568242891947734.jpg?rlkey=p082473udfwy96jufgk7dystc&st=2mcaclbj&dl=1" group-title="FS-Drama",Bru E5
+#EXTINF:-1 tvg-id="" tvg-name="Bru" tvg-logo="https://www.dropbox.com/scl/fi/z3sn2udhva9jvd21r7vzo/17479872139545347568242891947734.jpg?rlkey=p082473udfwy96jufgk7dystc&st=2mcaclbj&dl=1" group-title="FS-Drama",Bru Full E5
 https://www.dropbox.com/scl/fi/bs14wn7m5hk3roel37mza/e5.mp4?rlkey=idpcz3fi5dm0z5d6oabdohlba&st=dqoojjfj&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Bru" tvg-logo="https://www.dropbox.com/scl/fi/z3sn2udhva9jvd21r7vzo/17479872139545347568242891947734.jpg?rlkey=p082473udfwy96jufgk7dystc&st=2mcaclbj&dl=1" group-title="FS-Drama",Bru E6
+#EXTINF:-1 tvg-id="" tvg-name="Bru" tvg-logo="https://www.dropbox.com/scl/fi/z3sn2udhva9jvd21r7vzo/17479872139545347568242891947734.jpg?rlkey=p082473udfwy96jufgk7dystc&st=2mcaclbj&dl=1" group-title="FS-Drama",Bru Full E6
 https://www.dropbox.com/scl/fi/ze4g8q11j24ouqe9c9pzv/e6.mp4?rlkey=9kcbh8q12jzd8h364rrru44g0&st=2mepznt7&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Bru" tvg-logo="https://www.dropbox.com/scl/fi/z3sn2udhva9jvd21r7vzo/17479872139545347568242891947734.jpg?rlkey=p082473udfwy96jufgk7dystc&st=2mcaclbj&dl=1" group-title="FS-Drama",Bru E7
+#EXTINF:-1 tvg-id="" tvg-name="Bru" tvg-logo="https://www.dropbox.com/scl/fi/z3sn2udhva9jvd21r7vzo/17479872139545347568242891947734.jpg?rlkey=p082473udfwy96jufgk7dystc&st=2mcaclbj&dl=1" group-title="FS-Drama",Bru Full E7
 https://www.dropbox.com/scl/fi/5twl2830siqz1nh558485/e7.mp4?rlkey=idy05gxu8zdmx965os6fmdwmx&st=xb5cb7uh&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Bru" tvg-logo="https://www.dropbox.com/scl/fi/z3sn2udhva9jvd21r7vzo/17479872139545347568242891947734.jpg?rlkey=p082473udfwy96jufgk7dystc&st=2mcaclbj&dl=1" group-title="FS-Drama",Bru E8
+#EXTINF:-1 tvg-id="" tvg-name="Bru" tvg-logo="https://www.dropbox.com/scl/fi/z3sn2udhva9jvd21r7vzo/17479872139545347568242891947734.jpg?rlkey=p082473udfwy96jufgk7dystc&st=2mcaclbj&dl=1" group-title="FS-Drama",Bru Full E8
 https://www.dropbox.com/scl/fi/8k3mlrnrhrkq2mrukg6p8/E8.mp4?rlkey=vczvx29b3da1e7qe5q2xyxl72&st=kf4ky5v8&dl=1
 
-#EXTINF:-1 tvg-id="" tvg-name="Bru" tvg-logo="https://www.dropbox.com/scl/fi/z3sn2udhva9jvd21r7vzo/17479872139545347568242891947734.jpg?rlkey=p082473udfwy96jufgk7dystc&st=2mcaclbj&dl=1" group-title="FS-Drama",Bru E9
+#EXTINF:-1 tvg-id="" tvg-name="Bru" tvg-logo="https://www.dropbox.com/scl/fi/z3sn2udhva9jvd21r7vzo/17479872139545347568242891947734.jpg?rlkey=p082473udfwy96jufgk7dystc&st=2mcaclbj&dl=1" group-title="FS-Drama",Bru Full E9
 https://www.dropbox.com/scl/fi/esz04tsitpvavoydw5737/e9.mp4?rlkey=g8rlzhhd1f08vv5n5yihkl9kk&st=8l5ffzfj&dl=1
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Bru" tvg-logo="https://www.dropbox.com/scl/fi/z3sn2udhva9jvd21r7vzo/17479872139545347568242891947734.jpg?rlkey=p082473udfwy96jufgk7dystc&st=2mcaclbj&dl=1" group-title="FS-Drama",Bru Full E10
+https://www.dropbox.com/scl/fi/fve3v7jjy05kd4j5m6yp0/e10.mp4?rlkey=3idii8bwqhc3tpmu80auru1h5&st=c02jsx0v&dl=1
 
 ######################## SUGAR DADDY
 
@@ -19138,6 +19188,12 @@ https://www.dropbox.com/scl/fi/ki8chgmurdxcnffhj5b79/e9.mp4?rlkey=qxajsh4pjld4yd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/xxjwnq3f4zdtpdg1wfg5b/1748062467806752478140657788809.jpg?rlkey=10748b47lxlu9hjyh0qjla281&st=ky1dxy6a&dl=1" group-title="FS-Drama",Sugar Daddy E10
 https://www.dropbox.com/scl/fi/h3am76ngouvsa099wrfmp/e10.mp4?rlkey=cak2noxybfbfpw42n1qt0ew6k&st=zw9emwvn&dl=1
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/xxjwnq3f4zdtpdg1wfg5b/1748062467806752478140657788809.jpg?rlkey=10748b47lxlu9hjyh0qjla281&st=ky1dxy6a&dl=1" group-title="FS-Drama",Sugar Daddy E11
+https://www.dropbox.com/scl/fi/j83wyaietx3mtubzt5ojs/e11.mp4?rlkey=87sf15ac4mho1z0iqa1jnru57&st=si4qzhj0&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/xxjwnq3f4zdtpdg1wfg5b/1748062467806752478140657788809.jpg?rlkey=10748b47lxlu9hjyh0qjla281&st=ky1dxy6a&dl=1" group-title="FS-Drama",Sugar Daddy E12
+https://www.dropbox.com/scl/fi/va3k6xaiy3ae8bw9yv3ve/e12.mp4?rlkey=hbwgxxvuv95k3w65jmg8actz3&st=54omqeul&dl=1
+
 
 
 ######################## SEPAHTU REUNION LIVE S10 2025
@@ -19169,13 +19225,96 @@ https://www.dropbox.com/scl/fi/142m23o44tht2jxlfca9z/e8.mp4?rlkey=9g6cmfzwtpy51g
 #EXTINF:-1 tvg-id="" tvg-name="Sepahtu Reunion Live S10 2025" tvg-logo="https://www.dropbox.com/scl/fi/y2cj9itp55mklk3e9n6z8/17478140262085015966581467992748.jpg?rlkey=6x8u33u1o0edi7x4awm0phao2&st=2slb4c0t&dl=1" group-title="FS-Drama",Sepahtu Reunion Live 2025 Full E9
 https://www.dropbox.com/scl/fi/zcdqbllat46w9x2p77vit/e9.mp4?rlkey=82k6s9f39hbl66q48tqg0fv3i&st=vkffs7ya&dl=1
 
+######################## Tastefully Yours-KDrama
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/ckqdn791rahpq9ul56ekd/MV5BZmU2NTcyNTktZDJjZS00MjRmLWEyZWQtZGExYzFmYjcyMzlhXkEyXkFqcGc-._V1_.jpg?rlkey=6n1ddvvl0n2mdi9kt735dsqri&st=netzajq3&dl=1" group-title="FS-Top Netflix", Tastefully Yours-KDrama E1
+https://www.dropbox.com/scl/fi/wtunfeq5ceg01aap3j36p/e1.mp4?rlkey=2tiel9hrhgsuoc1ir15i6z6zc&st=7b7jckak&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/ckqdn791rahpq9ul56ekd/MV5BZmU2NTcyNTktZDJjZS00MjRmLWEyZWQtZGExYzFmYjcyMzlhXkEyXkFqcGc-._V1_.jpg?rlkey=6n1ddvvl0n2mdi9kt735dsqri&st=netzajq3&dl=1" group-title="FS-Top Netflix", Tastefully Yours-KDrama E2
+https://www.dropbox.com/scl/fi/3dujjva4cpexbcfxqjyvi/e2.mp4?rlkey=5daiq56qatzuh6lofiadffpru&st=vyk6bx1j&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/ckqdn791rahpq9ul56ekd/MV5BZmU2NTcyNTktZDJjZS00MjRmLWEyZWQtZGExYzFmYjcyMzlhXkEyXkFqcGc-._V1_.jpg?rlkey=6n1ddvvl0n2mdi9kt735dsqri&st=netzajq3&dl=1" group-title="FS-Top Netflix", Tastefully Yours-KDrama E3
+https://www.dropbox.com/scl/fi/l01i94vqqv4tnepq5dfyk/e3.mp4?rlkey=ifts4a0zojy0r0xg2blwyijgt&st=kzxn96ok&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/ckqdn791rahpq9ul56ekd/MV5BZmU2NTcyNTktZDJjZS00MjRmLWEyZWQtZGExYzFmYjcyMzlhXkEyXkFqcGc-._V1_.jpg?rlkey=6n1ddvvl0n2mdi9kt735dsqri&st=netzajq3&dl=1" group-title="FS-Top Netflix", Tastefully Yours-KDrama E4
+https://www.dropbox.com/scl/fi/8m5wpoznmt76oc7q1hqvv/e4.mp4?rlkey=iihmi4oa8rrpkvifr99or3kq6&st=782m71ar&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/ckqdn791rahpq9ul56ekd/MV5BZmU2NTcyNTktZDJjZS00MjRmLWEyZWQtZGExYzFmYjcyMzlhXkEyXkFqcGc-._V1_.jpg?rlkey=6n1ddvvl0n2mdi9kt735dsqri&st=netzajq3&dl=1" group-title="FS-Top Netflix", Tastefully Yours-KDrama E5
+https://www.dropbox.com/scl/fi/95k69h1i7t7t9qrxt8jq9/e5.mp4?rlkey=gzaiifxptz4oeey7jc7ihsrvq&st=trxgdo7u&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/ckqdn791rahpq9ul56ekd/MV5BZmU2NTcyNTktZDJjZS00MjRmLWEyZWQtZGExYzFmYjcyMzlhXkEyXkFqcGc-._V1_.jpg?rlkey=6n1ddvvl0n2mdi9kt735dsqri&st=netzajq3&dl=1" group-title="FS-Top Netflix", Tastefully Yours-KDrama E6
+https://www.dropbox.com/scl/fi/th16d672trh1297877yxu/e6.mp4?rlkey=2lhbupdoe50dwqwz09gkdya8r&st=2wcw7hch&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/ckqdn791rahpq9ul56ekd/MV5BZmU2NTcyNTktZDJjZS00MjRmLWEyZWQtZGExYzFmYjcyMzlhXkEyXkFqcGc-._V1_.jpg?rlkey=6n1ddvvl0n2mdi9kt735dsqri&st=netzajq3&dl=1" group-title="FS-Top Netflix", Tastefully Yours-KDrama E7
+https://www.dropbox.com/scl/fi/qkxt2x2ua27o55jo108g5/e7.mp4?rlkey=e6lbeyygk8ugeld4yfueqgngh&st=ssc1z6wl&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/ckqdn791rahpq9ul56ekd/MV5BZmU2NTcyNTktZDJjZS00MjRmLWEyZWQtZGExYzFmYjcyMzlhXkEyXkFqcGc-._V1_.jpg?rlkey=6n1ddvvl0n2mdi9kt735dsqri&st=netzajq3&dl=1" group-title="FS-Top Netflix", Tastefully Yours-KDrama E8
+https://www.dropbox.com/scl/fi/t00qzi6uoulhjb145zwwt/e8.mp4?rlkey=pztlou694su7l29odtgbhd8ci&st=fl10qpt3&dl=1
+
+
+######################### OH MY GHOST CLIENT
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/1albs66kcy6nx5q6c19ig/17495625270103598065470274522397.jpg?rlkey=xude5mj5wr3ro06ukf6g1zux9&st=omkpoiud&dl=1" group-title="FS-Top Netflix", Oh My Ghost Client E1
+https://www.dropbox.com/scl/fi/vpbnd4bf6kfjefv8iboo5/e1.mp4?rlkey=g97d2nl6qojbb45lal813m1hl&st=qazxqale&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/1albs66kcy6nx5q6c19ig/17495625270103598065470274522397.jpg?rlkey=xude5mj5wr3ro06ukf6g1zux9&st=omkpoiud&dl=1" group-title="FS-Top Netflix", Oh My Ghost Client E2
+https://www.dropbox.com/scl/fi/tt69bjlbmgg9v61udhl9k/e2.mp4?rlkey=yzuyh97lknkgkeklwjmwdoh0u&st=xsw3r6l8&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/1albs66kcy6nx5q6c19ig/17495625270103598065470274522397.jpg?rlkey=xude5mj5wr3ro06ukf6g1zux9&st=omkpoiud&dl=1" group-title="FS-Top Netflix", Oh My Ghost Client E3
+https://www.dropbox.com/scl/fi/e8fduzhmayy3twyp9z3mj/e3.mp4?rlkey=cm7qithczxnso1kkl98gqknnc&st=iykz48vs&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/1albs66kcy6nx5q6c19ig/17495625270103598065470274522397.jpg?rlkey=xude5mj5wr3ro06ukf6g1zux9&st=omkpoiud&dl=1" group-title="FS-Top Netflix", Oh My Ghost Client E4
+https://www.dropbox.com/scl/fi/kw0sovnzszof37x8ou6x5/e4.mp4?rlkey=ng6zj0unzdbdcb03ljd32bugj&st=r1xjxto4&dl=1
+
+
+
+
+######################### AMERICAN MANHUNT OSAMA BIN LADEN
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/62zkuy63my81kok8wfw81/17488785646594781915435241496052.jpg?rlkey=ozfqp6w5olub3ubd2pdjwyg07&st=874l5712&dl=1" group-title="FS-Top Netflix", American Manhunt Osama Bin Laden Full E1
+https://www.dropbox.com/scl/fi/mn3ikb7ybvt0qytrs002b/e1.mp4?rlkey=r3ccxmupc9y2ptfpophvkdshg&st=hla9b6r8&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/62zkuy63my81kok8wfw81/17488785646594781915435241496052.jpg?rlkey=ozfqp6w5olub3ubd2pdjwyg07&st=874l5712&dl=1" group-title="FS-Top Netflix", American Manhunt Osama Bin Laden Full E2
+https://www.dropbox.com/scl/fi/135zr0i6udqj72mi4te1z/e2.mp4?rlkey=t496a0p0n7rpwlkcq9kffl6ix&st=ppa5lw93&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/62zkuy63my81kok8wfw81/17488785646594781915435241496052.jpg?rlkey=ozfqp6w5olub3ubd2pdjwyg07&st=874l5712&dl=1" group-title="FS-Top Netflix", American Manhunt Osama Bin Laden Full E3
+https://www.dropbox.com/scl/fi/v3ny3kife8r6nqdlnutfn/e3.mp4?rlkey=nyilbwu0yzuyo1jgcxvcyd7um&st=740dzd67&dl=1
+
+######################## JACKIE CHAN MOVIE
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/54gkhzmce5eagr1ebo2zm/174955208534737703002491515674.jpg?rlkey=28e0f94y93qy8neobcs6gbs6c&st=hldrtad0&dl=1" group-title="FS-Jackie Chan Top Movie", Police Story 1985
+https://www.dropbox.com/scl/fi/a11mhlyg79ju8pigjcwgx/police-story-1985.mp4?rlkey=0psikibu94yyukeyoxf5jfme4&st=q5nhwwj7&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/9r57q8bru1d0c1vfriouw/17495522006326314403727776956720.jpg?rlkey=hpbniu5fgx5ksd5tvn02n5iwn&st=j9vmxrvx&dl=1" group-title="FS-Jackie Chan Top Movie", Police Story 2 1988
+https://www.dropbox.com/scl/fi/vmvdq61h9awvy1xxesj86/police-story-2-1988.mp4?rlkey=0v7zbvtb4gnvwpv7zpiiy5421&st=l8f2ovr9&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/0yl4244c2o1b0mvj33ryp/1749552421926125549684954501091.jpg?rlkey=tzwfwydl576bsuixnkmu7b7a7&st=4znhbquy&dl=1" group-title="FS-Jackie Chan Top Movie", Police Story 3 Supercop 1992
+https://www.dropbox.com/scl/fi/hhxgep0q74x8xh4bjb47o/police-story-3-1992.mp4?rlkey=pbsjsef8xdm510vunr8xh83q6&st=wix0oj3d&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/ucansih7yayziwzvt6dl6/17495525180511511107193129690501.jpg?rlkey=y3ykogoovcwz2lbt0x4byard5&st=gfrrhs17&dl=1" group-title="FS-Jackie Chan Top Movie", New Police Story 2004
+https://www.dropbox.com/scl/fi/6uo3fd5rl61sj4jju0zny/new-police-story-2004.mp4?rlkey=kxtm0k42k8r5hw37jz3ydache&st=6v042hxa&dl=1
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5f9b04f676fba43e8ea687b866a2610:2dabcf512fa19883746ff256babc5c77
+#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/m46wgmu0f3d61os699qus/17495531630426827125626236089550.jpg?rlkey=tqi6343hxd7u16utag61fhp8g&st=zdsoprbi&dl=1" group-title="FS-Jackie Chan Top Movie", Rush Hour
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/38c752f8-6651-5fa9-8aea-84ad80e91a8b/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2873b3fff09c75bff3b4fa338a24f510:157ff9052ca4072ebcbba34d046d44c9
+#EXTINF:-1 type="movie" tvg-logo="https://www.dropbox.com/scl/fi/lnnrjhzmihegjkgtdnmko/17495532002652834685997164511257.jpg?rlkey=pdh9ckg4v8glokyv4sqj48kug&st=q1vcboz0&dl=1" group-title="FS-Jackie Chan Top Movie", Rush Hour 2
+https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8550f119-ad1e-5618-b7cc-4c047ffe4431/default_primary.mpd
+
+
+
 ######################## ONE 172
 
 #EXTINF:-1 type="movie" group-title="ONE 172 Latest Match" tvg-logo="https://www.dropbox.com/scl/fi/bmwnph16k1e3aklep6k1g/17427494296301146868231700561222.jpg?rlkey=9wwxnozwz6x5xh3ij563w7th6&st=bpe6s6s1&dl=1",Takeru VS Rodtang
 #https://www.dropbox.com/scl/fi/s4cf94rk83k5drfgtgqvv/ONE-172_-Takeru-vs.-Rodtang-_-First-2-Fights-720P_HD.mp4?rlkey=4wlp8ih4udq85t1x6vjrd1uq2&st=l7wncu1y&dl=1
 
 
+######################### JACKIE CHAN
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/6semrojs1t9khkr0y8qgw/17489589170548649981053255056468.jpg?rlkey=tnk9e1kio5fjn347lqm1892vu&st=m8jeezsu&dl=1" group-title="FS-Jackie Chan", Police Story 1985
 
 
 
@@ -19473,7 +19612,9 @@ https://www.dropbox.com/scl/fi/s83w1gb0xjbpg99pj07ik/final-destination-blood-lin
 https://www.dropbox.com/scl/fi/qkd6eid3ktt7l6hadgcl8/snow-white-2025.mp4?rlkey=zplhawaqzgs0x5qi0aq4gdhtr&st=kuiy4kk0&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="FS-Top Netflix" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/gk1uzrl7mzgrqr1zag5bp/1747926058924747499757635511790.jpg?rlkey=c9d2uqglnr4sa1rbfew8aot34&st=vmnh02s3&dl=1", Almarhum 2025
-https://www.dropbox.com/scl/fi/lzfp1879di3j95d021933/almarhum.mp4?rlkey=s7j7itfxj1s0xweqlbp3lea5f&st=v7albrrr&dl=1
+#https://www.dropbox.com/scl/fi/lzfp1879di3j95d021933/almarhum.mp4?rlkey=s7j7itfxj1s0xweqlbp3lea5f&st=v7albrrr&dl=1
+#https://www.dropbox.com/scl/fi/5liu4so7kxsrts9bzis09/almarhum2.mp4?rlkey=8yxcy9egls49pxp5tca0wnq9n&st=p62hsz90&dl=1
+https://www.dropbox.com/scl/fi/rfpan3gp390xy4ao4ohg0/almarhum720.mp4?rlkey=jjsbhsxmqn9bzq8so6vdlwko3&st=q6gjph55&dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="FS-Top Netflix" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/t7wuixy10lnrv7oe515ao/17480579121976099032835148315038.png?rlkey=xpbb1h3tyyk1uk8g1a847k6sh&st=oo6obx1q&dl=1", Pengantin Setan 2025
 https://www.dropbox.com/scl/fi/nw3mqduzcwrieuzafy89p/Pengantin-setan.mp4?rlkey=vu1bqzl4i7q2fkj6ks3mkrk2i&st=huhinbvh&dl=1
@@ -19483,3 +19624,21 @@ https://www.dropbox.com/scl/fi/tyndsifusk2g8olp1vtrd/ejen-ali-the-movie-2019.mkv
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="FS-Top Netflix" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/890wyth8l5kk5dravcqha/17486926960227887356308488251146.jpg?rlkey=ntj2sntrmtxlvuhdcon2trkwt&st=xtbr9x8a&dl=1", Ghost Game 2024
 https://www.dropbox.com/scl/fi/092tix5y3wpy2gdocgj0c/ghost-game.mp4?rlkey=7qmvs6atfu98qgk425uts4u3r&st=56fbfjcx&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="FS-Top Netflix" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/2knw9w1ishw6vudniuxyu/17487935954636086084310299090159.jpg?rlkey=ad5slogw8toayjxwts1tc0vqd&st=8345fhrp&dl=1", Bullet Train Explosion 2025
+https://www.dropbox.com/scl/fi/paamrkjujdhjm8eslg6i1/Bullet-Train-Explosion.mp4?rlkey=iq3g71tx9dgqeyc54b01zhq7p&st=5knagdzo&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="FS-Top Netflix" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/e73phcjp95ea8yty0pqgh/17488798640176813464450784698860.jpg?rlkey=hoyipp8k0sx5r6vi37pb6yj5j&st=6242venh&dl=1", KKN Desa Penari 2022
+https://www.dropbox.com/scl/fi/00ibzxq7tghysmkjg3qqp/kkn-desa-penari.mp4?rlkey=4qa69iozwwbis2ai8nv4o086j&st=c4tmmp77&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="FS-Top Netflix" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/761k0w8t4uzu1uaxmbshl/17492283324544965573313292000766.jpg?rlkey=diayz4scxwcsbkcax8js01r00&st=qgt62tdx&dl=1", Paris In Bali 2025
+https://www.dropbox.com/scl/fi/7msx63l2oo8r8lmw3zvoi/paris-in-bali.mp4?rlkey=otcbcmjhku604dc5de4qovvt9&st=9n51hbyj&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="FS-Top Netflix" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/8hbzoidmzkb2kd4n9n3j5/17495516260216032648705358424420.jpg?rlkey=qewor8s29cnoq4khjhfbx3rvc&st=wygtfdnz&dl=1", Sewu Dino
+https://www.dropbox.com/scl/fi/hpj30d23ljgecdrh11vo0/sewu-dino.mp4?rlkey=8cz68eg28esto9pbcp40750ui&st=2b5jj7oi&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="FS-Top Netflix" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/jd0s1ix1wpp8spydv72v1/17495629392672410628313401630913.jpg?rlkey=uk08zqt80hyoi5vxfm456twxz&st=j6wz22jp&dl=1", Popeye The Slayer Man 2025
+https://www.dropbox.com/scl/fi/vjob5chf9ju9r3cfp375s/popeye-the-slayer-man-2025.mp4?rlkey=zjnj8g32z3hcsfpghyj0wq551&st=psjsbkoq&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="FS-Top Netflix" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/om6upz1z33d59azz7990g/17495630677607997926970693181703.jpg?rlkey=hxgjhrkouadhm637688gdz6rl&st=214x53x2&dl=1", Holy Night Demon Hunter 2025
+https://www.dropbox.com/scl/fi/ab5d3pjdtif0uv21lcxwk/holy-night-demon-hunter.mp4?rlkey=dj99zvwk1l585vb676pckbyso&st=ly7jod6h&dl=1
