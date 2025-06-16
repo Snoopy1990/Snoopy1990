@@ -1,6 +1,3 @@
-#EXTINF:-1 type="" tvg-logo="https://i.ibb.co/6W55D3S/OTT-Navigator-logo-removebg-prev.png" group-title="",CARA OPEN IN EXTERNAL PLAYER
-https://www.dropbox.com/scl/fi/x2quppnwlxdemo0uo21dm/cara-guna-vlc.mp4?rlkey=t8li3z3u4qwwoupahbs5ku6ut&st=aq81etnn&dl=1
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bda739927fb39c94c7020475e3ae6110:81001b9e5c7e03e3b945adce2bca8e0e
 #EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JPJXT_IVP_LAND_171x96_5044C_2024313_17232.jpg" group-title="FS-First", 10 Tips Tipu Bini
@@ -18777,6 +18774,17 @@ https://www.dropbox.com/scl/fi/59tfu51tml9arbjtiusbw/e5.mp4?rlkey=ykknv8w0ag2z9m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/3synqmdsqvshhclpzslk5/17487756181668441744539238963913.jpg?rlkey=x7gdwvlmbhn8rarkdt2koyfja&st=zprbrhsq&dl=1" group-title="FS-Drama",Lambaian Huda E6
 https://www.dropbox.com/scl/fi/qglik3qdfcxnuont04ajl/e6.mp4?rlkey=j3c1ass3ahc6mjnkq8m1hnlhi&st=lc6o6e9d&dl=1
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/3synqmdsqvshhclpzslk5/17487756181668441744539238963913.jpg?rlkey=x7gdwvlmbhn8rarkdt2koyfja&st=zprbrhsq&dl=1" group-title="FS-Drama",Lambaian Huda E7
+https://www.dropbox.com/scl/fi/35ahlzbft447n2v01n8yq/e7.mp4?rlkey=ivm9lfx8ytqdaiqb481peg0ar&st=vlbr5kk3&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/3synqmdsqvshhclpzslk5/17487756181668441744539238963913.jpg?rlkey=x7gdwvlmbhn8rarkdt2koyfja&st=zprbrhsq&dl=1" group-title="FS-Drama",Lambaian Huda E8
+https://www.dropbox.com/scl/fi/n2yyg3z759gcmccw8wl6d/e8.mp4?rlkey=9qj2xf804tio3l5p3jxn8gjeq&st=fmbkinze&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/3synqmdsqvshhclpzslk5/17487756181668441744539238963913.jpg?rlkey=x7gdwvlmbhn8rarkdt2koyfja&st=zprbrhsq&dl=1" group-title="FS-Drama",Lambaian Huda E9
+https://www.dropbox.com/scl/fi/95w5cjl2b6tno42539lmq/e9.mp4?rlkey=vphob6e6zmqm5bxuiyft922ov&st=7fqqd56s&dl=1
+
+
+
 ######################## KARMA
 
 #EXTINF:-1 tvg-id="" tvg-name="Karma" tvg-logo="https://www.dropbox.com/scl/fi/ibjmnu8r74rrj9qyzznx0/6305095966184817675_121.jpg?rlkey=j1444hvgz5rvnieuumvkjiaek&st=8k4bv5qi&dl=1" group-title="FS-Top Netflix",Karma-KDrama Full E1
@@ -19030,8 +19038,8 @@ https://www.dropbox.com/scl/fi/clvg35omc6mbrrlqmtzdp/e11.mp4?rlkey=fxch6eleupmx9
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/d6sd1p2ukauurht7vgtbf/facebook_1746942161871_7327206497306111370.jpg?rlkey=or0oy2bxgfo1ywsik6ivnda5p&st=8b4i5gql&dl=1" group-title="FS-Drama",Aku Bukan Ustazah 2 E12
 https://www.dropbox.com/scl/fi/6m3oeyhwxav2mxrc6gkad/e12.mp4?rlkey=m53ts6r9go8njh93vbtohk6cq&st=4rn20sna&dl=1
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dropbox.com/scl/fi/d6sd1p2ukauurht7vgtbf/facebook_1746942161871_7327206497306111370.jpg?rlkey=or0oy2bxgfo1ywsik6ivnda5p&st=8b4i5gql&dl=1" group-title="FS-Drama",Aku Bukan Ustazah 2 E13
+https://www.dropbox.com/scl/fi/a07naghhzs4mn4j5jsb9j/e13.mp4?rlkey=8fepzv7q1nb01qv5yc0lb7fog&st=g8vr0sbg&dl=1
 
 ######################## PABILA DIA TERSENYUM
 
@@ -19123,6 +19131,16 @@ https://www.dropbox.com/scl/fi/rt7uxsew3zv3hppzhfo42/e12.mp4?rlkey=mwlefct1af7uq
 
 #EXTINF:-1 tvg-id="" tvg-name="Dia Bukan Syurga" tvg-logo="https://www.dropbox.com/scl/fi/l4qkadx5f6o1l5qx5m22q/17477479888253863195097738128744.jpg?rlkey=yc4hj0qaevoqzrlgbrqwhi7qm&st=8pj9gfge&dl=1" group-title="FS-Drama",Dia Bukan Syurga E13
 https://www.dropbox.com/scl/fi/gactxj5h3omwp856wbgxc/e13.mp4?rlkey=wyzalp8crzsx6ni8gr0dm9svx&st=2pss5bg6&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Dia Bukan Syurga" tvg-logo="https://www.dropbox.com/scl/fi/l4qkadx5f6o1l5qx5m22q/17477479888253863195097738128744.jpg?rlkey=yc4hj0qaevoqzrlgbrqwhi7qm&st=8pj9gfge&dl=1" group-title="FS-Drama",Dia Bukan Syurga E14
+https://www.dropbox.com/scl/fi/pu7givvyqrcfqzkjn1dde/e14.mp4?rlkey=hjx97zoti4629czptcujanb7w&st=2xofqm2x&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Dia Bukan Syurga" tvg-logo="https://www.dropbox.com/scl/fi/l4qkadx5f6o1l5qx5m22q/17477479888253863195097738128744.jpg?rlkey=yc4hj0qaevoqzrlgbrqwhi7qm&st=8pj9gfge&dl=1" group-title="FS-Drama",Dia Bukan Syurga E15
+https://www.dropbox.com/scl/fi/v7x0swmp3emxd8pj72uww/e15.mp4?rlkey=6bs1km0yuvn1ov61pttgmvpuu&st=5orvu30e&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="Dia Bukan Syurga" tvg-logo="https://www.dropbox.com/scl/fi/l4qkadx5f6o1l5qx5m22q/17477479888253863195097738128744.jpg?rlkey=yc4hj0qaevoqzrlgbrqwhi7qm&st=8pj9gfge&dl=1" group-title="FS-Drama",Dia Bukan Syurga E16
+https://www.dropbox.com/scl/fi/v0ju4v9nsmrwt2bq9mo0d/e16.mp4?rlkey=xrtuqm6l6k4dnj1gor0eq6z9v&st=rw8yjayx&dl=1
+
 
 ######################## BRU
 
@@ -19642,3 +19660,12 @@ https://www.dropbox.com/scl/fi/vjob5chf9ju9r3cfp375s/popeye-the-slayer-man-2025.
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="FS-Top Netflix" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/om6upz1z33d59azz7990g/17495630677607997926970693181703.jpg?rlkey=hxgjhrkouadhm637688gdz6rl&st=214x53x2&dl=1", Holy Night Demon Hunter 2025
 https://www.dropbox.com/scl/fi/ab5d3pjdtif0uv21lcxwk/holy-night-demon-hunter.mp4?rlkey=dj99zvwk1l585vb676pckbyso&st=ly7jod6h&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="FS-Top Netflix" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/iedadlzam1k57rcgekmi7/17497859127487659155333527254168.jpg?rlkey=h33s20gyjqq7c2dud9nce4ntt&st=fezdvdqp&dl=1", Jaat 2025
+https://www.dropbox.com/scl/fi/2s61gji3en9oib4svcsaj/jaat.mp4?rlkey=tbg5n99hjxd0umc2qsb0y0y4e&st=6sa56la2&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="FS-Top Netflix" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/espm2ou2leufedav3ilxz/17498148499552316916925798981569.jpg?rlkey=3olyenwnfo0g8u0w4msjgxdvr&st=hytnf4ce&dl=1", Sikandar 2025
+https://www.dropbox.com/scl/fi/4max0kmtfaiyajkc35mv0/sikandar.mp4?rlkey=zitl0e4aprmzimve9w61n3qfh&st=t8rjibik&dl=1
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="FS-Top Netflix" group-logo="" tvg-logo="https://www.dropbox.com/scl/fi/umo2pfdzf7jy1eolpyx8i/17499913078812761955911675935195.jpg?rlkey=uefki69t6m2o3f3zsesdro1v4&st=gxqp2vm0&dl=1", The Witch.Part 1.The Subversion 2018
+https://www.dropbox.com/scl/fi/qwsfltzf0vq2qes3nurl3/the-witch-part-1-the-subversion.mp4?rlkey=w2bpqobzhrjhv87nsogh4bq0e&st=t8ud7wev&dl=1
