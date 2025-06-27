@@ -19141,6 +19141,157 @@ https://www.dropbox.com/scl/fi/v7x0swmp3emxd8pj72uww/e15.mp4?rlkey=6bs1km0yuvn1o
 #EXTINF:-1 tvg-id="" tvg-name="Dia Bukan Syurga" tvg-logo="https://www.dropbox.com/scl/fi/l4qkadx5f6o1l5qx5m22q/17477479888253863195097738128744.jpg?rlkey=yc4hj0qaevoqzrlgbrqwhi7qm&st=8pj9gfge&dl=1" group-title="FS-Drama",Dia Bukan Syurga E16
 https://www.dropbox.com/scl/fi/v0ju4v9nsmrwt2bq9mo0d/e16.mp4?rlkey=xrtuqm6l6k4dnj1gor0eq6z9v&st=rw8yjayx&dl=1
 
+########## Dia Bukan Syurga ##############
+
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E01
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=da57b12722eeff0e0da32407b17dce10:3d6a11045b4000c2e3af05e22f9d6685
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe1
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E02
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=88771fd4d8131d73127ab43e9c7aa310:b31d8c40558a5b62d4a2509a46ebe407
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe2
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E03
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=296f9da92244da738cdc9eeaa5d04b10:c18211e7565be7ba858288fb2297ddaf
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe3
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E04
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=63d5ed0240a94d81e2987d19fefbd610:8ddcd12e34684707c6d2c5d05aa613d8
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe4
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E05
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=4c28916972739ccad6cbb40c35b86810:6ca123c64aae4cfc261e98d5e759d788
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe5
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E06
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=b789d2d93af3064095fcb84086899710:b69cc3637db07b5b677e1c15832efb67
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe6
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E07
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=e109069c3253e5bbb0a3963ac58e3210:c9fbf06a280a035b2397458a049ea886
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe7
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E08
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=9c0b297d165f352e6410bc68a1c20410:8f339dd2d78642154e0a331c7a56e8eb
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E09
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=88f0227a3f98f472d57a2cd127b7f910:6a7362c4b7f89ff0fa8f1da74b966ca9
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe9
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E10
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=4d65bceb4485a14b2479f6f6e260b910:27d0bd21972bf2e74aaef8535ee0fb81
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe10
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E11
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=4cc4aa629227acfa53d743b08e478110:0c0221cddf1b9824a25a82ffd13a15ca
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe11
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E12
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=9f76cf93c16586119db8ba7025db2610:e1e17c7cc184f7eed66f94c8ec5a8bb5
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe12
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E13
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=5e59848787f30df06ba43a6978073910:913f391a57cdf848be99a7c43cd217f2
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe13
+
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E14
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=068f655519f69110fce65fee93b57610:df3b1a21e4c3578b44f7cb4c97e55e99
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe14
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E15
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=74fdb87f4fd5b62409711cbc4fc92a10:714a3e38663c1613b0780450f3e6e514
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe15
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E16
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=47fd70f7a0b9d02ba69d784e5fa06c10:7aef1617b244ec012b8b5795b94c94c0
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe16
+
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E17
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=6815a5fddd0b7470b2a6953ec9f32c10:380253c591a172507b8e8ff6f0dbb26e
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe17
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E18
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=8880d30d067423e1c24131d71d9b6a10:f7621fe6147d4260270d5688f0778a3d
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe18
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E19
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=2fbe5e0f5a3065ddf4288b1198c6df10:51670ea842aa640cd41abd2a29b22e29
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe19
+
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E20
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=bdb612935a4a013bdc61e2a9ec91eb10:e482cd295a6774129b5c7015aa3b2790
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe20
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E21
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=7367e530aa71c9d8bc8ebbf94bdc0510:5321108eceb156bde3e335a62ef2ec12
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe21
+
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E22
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=eaabb11feca581301b397ae1a95ef310:5a4a1821c1b64ae4dfaa8cacf838c396
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe22
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E23
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=1a8de4cb183f5e647f9e5ac95f951510:072bb18ae7ae5ff10c8bbe4f9636bae4
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe23
+
+#EXTINF:-1 tvg-id="" tvg-name="●Dia Bukan Syurga" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/794737KSEHN_series.jpg" group-title="FS-Drama",Dia Bukan Syurga S01 E24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=968c2be6c39a82867c8b286b69f52610:649730b52e93269b38a4d513c2498146
+https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe24
 
 ######################## BRU
 
