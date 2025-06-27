@@ -8163,10 +8163,6 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2701.ts
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2700.ts
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://get.perfecttv.net/logo/sctv.png" group-title="INDONESIA",SCTV
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2699.ts
-#EXTINF:-1 tvg-id="" tvg-name="809 Astro Grandstand" tvg-logo="https://get.perfecttv.net/logo/grandstand.png" group-title="⚽︎ SPORTS",809 Astro Grandstand
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2698.ts
-#EXTINF:-1 tvg-id="" tvg-name="149 Galaxy Premium" tvg-logo="https://get.perfecttv.net/logo/galaxypremium.png" group-title="MOVIES",149 Galaxy Premium
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2695.ts
 #EXTINF:-1 tvg-id="" tvg-name="148 Galaxy" tvg-logo="https://get.perfecttv.net/logo/galaxy.png" group-title="MOVIES",148 Galaxy
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2694.ts
 #EXTINF:-1 tvg-id="" tvg-name="152 Star Movies" tvg-logo="https://get.perfecttv.net/logo/starmovies.png" group-title="MOVIES",152 Star Movies
@@ -8179,14 +8175,6 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2686.ts
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2685.ts
 #EXTINF:-1 tvg-id="" tvg-name="127 QJ" tvg-logo="https://get.perfecttv.net/logo/qj.png" group-title="CHINESE",127 QJ
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2684.ts
-#EXTINF:-1 tvg-id="" tvg-name="807 Premier League 2 (A)" tvg-logo="https://get.perfecttv.net/logo/premierleague2A.png" group-title="⚽︎ SPORTS",807 Premier League 2 (A)
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2683.ts
-#EXTINF:-1 tvg-id="" tvg-name="806 Premier League (A)" tvg-logo="https://get.perfecttv.net/logo/premierleagueA.png" group-title="⚽︎ SPORTS",806 Premier League (A)
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2682.ts
-#EXTINF:-1 tvg-id="" tvg-name="804 Arena Bola 2" tvg-logo="https://get.perfecttv.net/logo/arenabola2A.png" group-title="⚽︎ SPORTS",804 Arena Bola 2
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2681.ts
-#EXTINF:-1 tvg-id="" tvg-name="803 Arena Bola" tvg-logo="https://get.perfecttv.net/logo/arenabolaA.png" group-title="⚽︎ SPORTS",803 Arena Bola
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2680.ts
 #EXTINF:-1 tvg-id="" tvg-name="121 Citra(B)" tvg-logo="https://get.perfecttv.net/logo/citra.png" group-title="MALAYSIA",121 Citra(B)
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
 #EXTINF:-1 tvg-id="" tvg-name="119 Ria(B)" tvg-logo="https://get.perfecttv.net/logo/ria.png" group-title="MALAYSIA",119 Ria(B)
