@@ -19451,37 +19451,37 @@ https://www.dropbox.com/scl/fi/v3ny3kife8r6nqdlnutfn/e3.mp4?rlkey=nyilbwu0yzuyo1
 
 ######################### Squid Game
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/season1e1.jpg" group-title="FS-Top Netflix",Squid Game S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="FS-Top Netflix",Squid Game S01 E01
 http://83.142.30.171:8080/series/vip_3klp0es8/wg3piwEs/2650.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w300/uacNwki3PqXEFk9Pal9Ng5NwwAI.jpg" group-title="FS-Top Netflix",Squid Game S01 E02
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="FS-Top Netflix",Squid Game S01 E02
 http://83.142.30.171:8080/series/vip_3klp0es8/wg3piwEs/2651.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w300/xNtgrNEsMXvmRQQtcFuJdbXOjmP.jpg" group-title="FS-Top Netflix",Squid Game S01 E03
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="FS-Top Netflix",Squid Game S01 E03
 http://83.142.30.171:8080/series/vip_3klp0es8/wg3piwEs/2652.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w300/9cUGOdLN4gmnf3b9ILArnJsJI8Q.jpg" group-title="FS-Top Netflix",Squid Game S01 E04
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="FS-Top Netflix",Squid Game S01 E04
 http://83.142.30.171:8080/series/vip_3klp0es8/wg3piwEs/2653.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w300/2pE9f6drlF7y9rwUw6dh1w6jF5M.jpg" group-title="FS-Top Netflix",Squid Game S01 E05
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="FS-Top Netflix",Squid Game S01 E05
 http://83.142.30.171:8080/series/vip_3klp0es8/wg3piwEs/2654.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w300/cohCCQzTe2ncdQczJDUsO0vzxPR.jpg" group-title="FS-Top Netflix",Squid Game S01 E06
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="FS-Top Netflix",Squid Game S01 E06
 http://83.142.30.171:8080/series/vip_3klp0es8/wg3piwEs/2655.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w300/4pVfv4HaM5QpFJTHm19p2UI0StN.jpg" group-title="FS-Top Netflix",Squid Game S01 E07
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="FS-Top Netflix",Squid Game S01 E07
 http://83.142.30.171:8080/series/vip_3klp0es8/wg3piwEs/2656.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w300/lOgFVmykN9qlpAoiBSIV2lu7XCS.jpg" group-title="FS-Top Netflix",Squid Game S01 E08
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="FS-Top Netflix",Squid Game S01 E08
 http://83.142.30.171:8080/series/vip_3klp0es8/wg3piwEs/2657.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w300/sKeQbHeEUQLyoSdopa0QXm604cz.jpg" group-title="FS-Top Netflix",Squid Game S01 E09
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://resizing.flixster.com/0YRVUosK6uMdBxlFF-9qM592HCk=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20492218_b_h9_ad.jpg" group-title="FS-Top Netflix",Squid Game S01 E09
 http://83.142.30.171:8080/series/vip_3klp0es8/wg3piwEs/2658.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/season2e1.jpg" group-title="FS-Top Netflix",Squid Game S02 E01
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wixstatic.com/media/c83d10_38e6d22bb0584c87984c6c8d6eec10a9~mv2.png/v1/fill/w_568,h_710,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/c83d10_38e6d22bb0584c87984c6c8d6eec10a9~mv2.png" group-title="FS-Top Netflix",Squid Game S02 E01
 http://83.142.30.171:8080/series/vip_3klp0es8/wg3piwEs/2659.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w300/qtAhq9RZnVRqooQfLW7JZOEzrbS.jpg" group-title="FS-Top Netflix",Squid Game S02 E02
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wixstatic.com/media/c83d10_38e6d22bb0584c87984c6c8d6eec10a9~mv2.png/v1/fill/w_568,h_710,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/c83d10_38e6d22bb0584c87984c6c8d6eec10a9~mv2.png" group-title="FS-Top Netflix",Squid Game S02 E02
 http://83.142.30.171:8080/series/vip_3klp0es8/wg3piwEs/2660.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w300/yL7phVQmwbBr0IVrDnqsNiPrpwQ.jpg" group-title="FS-Top Netflix",Squid Game S02 E03
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wixstatic.com/media/c83d10_38e6d22bb0584c87984c6c8d6eec10a9~mv2.png/v1/fill/w_568,h_710,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/c83d10_38e6d22bb0584c87984c6c8d6eec10a9~mv2.png" group-title="FS-Top Netflix",Squid Game S02 E03
 http://83.142.30.171:8080/series/vip_3klp0es8/wg3piwEs/2661.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w300/gbtaPIZeFwViB25zigpU42UALEE.jpg" group-title="FS-Top Netflix",Squid Game S02 E04
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wixstatic.com/media/c83d10_38e6d22bb0584c87984c6c8d6eec10a9~mv2.png/v1/fill/w_568,h_710,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/c83d10_38e6d22bb0584c87984c6c8d6eec10a9~mv2.png" group-title="FS-Top Netflix",Squid Game S02 E04
 http://83.142.30.171:8080/series/vip_3klp0es8/wg3piwEs/2662.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w300/575R0zTaCUtmLjLSsBp3hLl1DQn.jpg" group-title="FS-Top Netflix",Squid Game S02 E05
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wixstatic.com/media/c83d10_38e6d22bb0584c87984c6c8d6eec10a9~mv2.png/v1/fill/w_568,h_710,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/c83d10_38e6d22bb0584c87984c6c8d6eec10a9~mv2.png" group-title="FS-Top Netflix",Squid Game S02 E05
 http://83.142.30.171:8080/series/vip_3klp0es8/wg3piwEs/2663.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w300/jlzRf80aoGnKrEcREmsFA5WvzAM.jpg" group-title="FS-Top Netflix",Squid Game S02 E06
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wixstatic.com/media/c83d10_38e6d22bb0584c87984c6c8d6eec10a9~mv2.png/v1/fill/w_568,h_710,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/c83d10_38e6d22bb0584c87984c6c8d6eec10a9~mv2.png" group-title="FS-Top Netflix",Squid Game S02 E06
 http://83.142.30.171:8080/series/vip_3klp0es8/wg3piwEs/2664.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w300/tO8hO3jWp4JveXmBbPikd4IQbss.jpg" group-title="FS-Top Netflix",Squid Game S02 E07
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wixstatic.com/media/c83d10_38e6d22bb0584c87984c6c8d6eec10a9~mv2.png/v1/fill/w_568,h_710,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/c83d10_38e6d22bb0584c87984c6c8d6eec10a9~mv2.png" group-title="FS-Top Netflix",Squid Game S02 E07
 http://83.142.30.171:8080/series/vip_3klp0es8/wg3piwEs/2665.mp4
 
 ######################## JACKIE CHAN MOVIE
