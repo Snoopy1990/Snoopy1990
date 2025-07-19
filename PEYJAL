@@ -918,6 +918,9 @@ https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&c
 
 ############# Running man  ######################
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/2639897091/9a88d2b2691f3e47ae6a499b5aa676c4804698f7" group-title="● Running Man", 72-Ep760
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166252818&quality=s240p&product_id=2644878&lang=ms
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://prod-images.viu.com/2639897091/9a88d2b2691f3e47ae6a499b5aa676c4804698f7" group-title="● Running Man", 73-Ep759
 https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166251925&quality=s240p&product_id=2642673&lang=ms
 
@@ -1021,6 +1024,12 @@ https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&c
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e53cc330a8aaba88065875ce7301b110:9b50da796a0082b8ce93c359ed2c1cf9
 https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtuReunionE4
+
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/4fa938KQVTV.jpg", 96-Sepahtu Reunion Pt2 E5
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a4285ea5d36e0dad57d884b82367810:42b5d4c2ce01ac13bd04e070626a76c4
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtuReunionE5
 
 ##########98-Sepahtu Live tour###################
 
@@ -1224,6 +1233,32 @@ https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/listdramaastro4.jpg" group-title="● Astro Series",01-List Drama Astro
 https://get.perfecttv.net
 
+########## Mandul Bukan Pilihan ##############
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series",88-Mandul Bukan Pilihan S01 E01
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=ca9c413c353bf0e573c0a3fef230e410:559e8d262e7242dfba834b039ca1ed14
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE1
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series",88-Mandul Bukan Pilihan S01 E02
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=ff46b2e5a3db3491d407b53a32027210:9589258f28c254a6b58d2a0dbe28e46a
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series",88-Mandul Bukan Pilihan S01 E03
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=be523837998f8eb3d171fd5dbd103f10:1cc7e400c3583f25c8873295ae41d851
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series",88-Mandul Bukan Pilihan S01 E04
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=da9b87bba554e07c8bca97f345dd7a10:ca1f31de921d7213e8422cfcb08459f3
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE4
+
 ########## Di Sebalik Reda ##############
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series",89-Di Sebalik Reda S01 E01
@@ -1287,6 +1322,31 @@ https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&c
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c941766e7fc65b3f7a7852d73e4c9610:cfac980a5474816c92cd0105b7ed731d
 https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE10
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series",89-Di Sebalik Reda S01E11
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=f0ce956629b3874d7ad58149c7ae0a10:b832ca109d9ad65cbc313778eb037e87
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE11
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series",89-Di Sebalik Reda S01E12
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=88409f3f92e5b95d2d385a831169eb10:b22f5703b4b7d85c8d3c5f7d1cd1f636
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE12
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series",89-Di Sebalik Reda S01E13
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=4f8caedf19ae7f699ca5d8bf27e04710:b8dd1a089bff8030d99290024f037311
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE13
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series",89-Di Sebalik Reda S01E14
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=f6601764f0714387e31f53c6b6f09710:5ebdc7923650f90f4ebb1a653a2a0f0f
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE14
+
 
 ########## Honey Trap ##############
 
@@ -1406,6 +1466,18 @@ https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&c
 #KODIPROP:inputstream.adaptive.license_key=65466c3018893619152f56b190395410:c3ce8626d2074c7ad16971c6bad35e07
 https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE14
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEJE_series_p_IVP_PORT_390x585_85F18_2025528_103325.jpg" group-title="● Astro Series",91-Si Bakhil Dengan Bunganya S01 E15
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=186b3f5dbbef78e48ad67810e7c9b710:df2ad3238bf8e0dbde6048c13432af37
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE15
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEJE_series_p_IVP_PORT_390x585_85F18_2025528_103325.jpg" group-title="● Astro Series",91-Si Bakhil Dengan Bunganya S01 E16
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=41e6d3b277a1223cf9c0923344b8b210:64f54e47ee4ac977cbf66360d125df2b
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE16
+
 ########## Dia Bukan Syurga ##############
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E01
@@ -1497,15 +1569,14 @@ https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E15
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=74fdb87f4fd5b62409711cbc4fc92a10:714a3e38663c1613b0780450f3e6e514
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe15
+#KODIPROP:inputstream.adaptive.license_key=b479e37c3e4f9a92587d46a42b4c0110:886a50c40d22e0311b17326cb6f1c3c0
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe15
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E16
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=47fd70f7a0b9d02ba69d784e5fa06c10:7aef1617b244ec012b8b5795b94c94c0
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe16
-
+#KODIPROP:inputstream.adaptive.license_key=e08940aa31ce1f66edaa0331e74d4810:75e557862b550d5f4dac76ffa3a8b302
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe16
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E17
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1671,39 +1742,39 @@ https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E11
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=fd096de580f188fdaa695839c1a2a910:e066b87256e9b88d4db94a599c55df68
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire11
+#KODIPROP:inputstream.adaptive.license_key=07a8e063b1083fae06606f5fc7620610:1ce174414da192e14a69e10c08ead910
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire11
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E12
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=e23df26da73d87dd47466b38ece4bf10:9cb995a8bb973821420f75fc7900e6d7
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire12
+#KODIPROP:inputstream.adaptive.license_key=1e8ccea71133e5ba2f29b9e94d691d10:f60a30dd8f85e4284ac621a9038383a5
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire12
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E13
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=917183b51db5b15f18276a1f140b5810:3d949cc3819381d5a3442558c1706750
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire13
+#KODIPROP:inputstream.adaptive.license_key=16d6709a5cebdbde6597ed26dbe09a10:189014c0ef735467900a377068519d3b
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire13
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E14
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=817c1075428996154d6ed7d185c51910:5309e5321ea048db083377f5c1932e7c
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire14
+#KODIPROP:inputstream.adaptive.license_key=82793cc5843cbc479f47d47a32b17110:3580f1da4a5f9e4913c85a66b9c9b250
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire14
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E15
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=0489682fd4038e8c153eda1e7f1fce10:ebcffca26097decd09455671dd99d0db
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire15
+#KODIPROP:inputstream.adaptive.license_key=40014861dbe82a74ad9b382f74f1db10:68b2108ffc66e01f153e07266c43c767
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire15
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E16
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=1a53f048c2c77cdc49ef82848dccdd10:076c8593eb6aa1a4974b20f828f2459d
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire16
+#KODIPROP:inputstream.adaptive.license_key=e041728e512610b7c24f7c4eda2e8410:7dafdb92dbf671e4ac6c4ea2a70c3a43
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire16
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E17
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -5670,92 +5741,92 @@ https://get.perfecttv.net/720.mpd?channel=ATDRaya|authorization=Bearer eyJhbGciO
 #EXTINF:-1 tvg-id="" ch-number="8993" tvg-name="" group-title="▶ VOD SOOKA"  group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/953e95KRSQL_P.jpg", 8993- Setia Di Hujung Ingatan
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f773ec17333b511983aad8d98df65321:fc2c8c2b2da9182c62e9fc0274a3c843
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8993|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzUsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiYWIzYmY2MDE5YmFhOGE1NzQ5Y2QzYmVmM2QwOTc3MGMtOGI1ZjE4ZDA0YTA2YTkzMThjMDktMiJ9.1cXrXgT9FT25XM4bpB0tcVva4IS0GUDBhQfHRsDFFN4
+https://get.perfecttv.net/vod_jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8993
 
 #EXTINF:-1 tvg-id="" ch-number="8994" tvg-name="" group-title="▶ VOD SOOKA"  group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/beb9abKROWP_p.jpg", 8994- Dia Punya Hati
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c80f124c12ab52ac84bc4bfa883f5578:d6191f59af6fafe78710fd74116df23a
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8994|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzUsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiZGY4MTczYTdhNGUxNGMxNzNmMGRkNzA3YWMxZjUwYTUtMzkzZTA2YjgwOTc0ZWU5ZTQ4NjgtMSJ9.DWnHMcU_-UrXp_O9FeE6bZ0jHcoGgBATD1-UYsfG9mc
+https://get.perfecttv.net/vod_jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8994
 
 #EXTINF:-1 tvg-id="" ch-number="8995" tvg-name="" group-title="▶ VOD SOOKA"  group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/316c1fKROTA_p.jpg", 8995- Rapun
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b8799c7fa085bd38bbc1bd70e4c70cf:48df297ffaf362a5c6b3b57153366324
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8995|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzYsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiZDk0ZWYyYWY1MzA4OTE1ZDA5NmNhMWFlNjFiYTcxZTAtM2I4ZGY1ODBiN2NiY2NiYmM0MjgtMSJ9.MPx_oAgBO7z7Il8m7wX9sDJXw6s17cPXLBLeQLr-2b8
+https://get.perfecttv.net/vod_jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8995
 
 #EXTINF:-1 tvg-id="" ch-number="8996" tvg-name="" group-title="▶ VOD SOOKA"  group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/ad293eKRNYV_p.jpg", 8996- Cinta Untuk Sekali Lagi Raya
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=49515265683357a1addbadfdece15afc:4868cbec96b143d998dfdef16c612300
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8996|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzYsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiODY5NzI2ZDk4MzM4MDczNGQwNWEzZWFlNDdhZDA2OTEtYzY0N2FkYTI1ZGM5NGUzMTRhMDgtMSJ9.rMjkBaLt4iNrsvjFw9pr832smZLCXGf4fuRZDtuW5EU
+https://get.perfecttv.net/vod_jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8996|authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzYsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiODY5NzI2ZDk4MzM4MDczNGQwNWEzZWFlNDdhZDA2OTEtYzY0N2FkYTI1ZGM5NGUzMTRhMDgtMSJ9.rMjkBaLt4iNrsvjFw9pr832smZLCXGf4fuRZDtuW5EU
 
 #EXTINF:-1 tvg-id="" ch-number="8998" tvg-name="" group-title="▶ VOD SOOKA"  group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/6d399bKRSQJ_P.jpg", 8998- Ayah Jangan Nangis
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=04a0db085f0e5bf9afff16fc50596c19:d74ce6bc102853c205b45b51c6944e08
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8998|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzcsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNjg5NjUxY2RjOTVmMTVjZGU4OGY4Njg5ZDg2NjBjOTctYmIyODIxNjkwNmExOThkNGQ0NGQtNCJ9.MBReM49rv8WdS1fDR_hJ7jFpU_Rf4-QGhTYSqREL7KI
+https://get.perfecttv.net/vod_jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8998|authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzcsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNjg5NjUxY2RjOTVmMTVjZGU4OGY4Njg5ZDg2NjBjOTctYmIyODIxNjkwNmExOThkNGQ0NGQtNCJ9.MBReM49rv8WdS1fDR_hJ7jFpU_Rf4-QGhTYSqREL7KI
 
 #EXTINF:-1 tvg-id="" ch-number="8999" tvg-name="" group-title="▶ VOD SOOKA"  group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/606bfdKRSQT_p.jpg", 8999- Terculik Sana Tertukar Sini
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c3d2cbc4f5453c3863ff4c4b7cf793f:c1da13827cb3abfa9cffa28da7756145
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8999|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzcsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiYTE4MDlmZDUzMzU3OTVhN2IyN2Y0ZmE5NmE2ZTA2OTItNGI1ODRkNjBlMWI2MzQxYjBlN2UtMiJ9.ykUKRkRZFuWY00eQdznHfeKUBU1b1sb81D7JUPsK2TQ
+https://get.perfecttv.net/vod_jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=8999|authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzcsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiYTE4MDlmZDUzMzU3OTVhN2IyN2Y0ZmE5NmE2ZTA2OTItNGI1ODRkNjBlMWI2MzQxYjBlN2UtMiJ9.ykUKRkRZFuWY00eQdznHfeKUBU1b1sb81D7JUPsK2TQ
 
 
 #EXTINF:-1 tvg-id="" ch-number="9000" tvg-name="" group-title="▶ VOD SOOKA"  group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/da41faIUNNP_p.jpg", 9000- Asam Pedas Cendol Sejoli
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d2ee13a114159899b838f238f1855fe:7b45c5d058c04490ad32e421013f9fa4
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9000|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzcsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiOWIyZGQxYzc5YzcxNTlhMjYxZWMxYmZkZGJmZWJkZjUtODg4MDFjOTIxNDJhZmQ1YzQ0YTktNSJ9.IbAvAToDpRBfbsassOrfuALtc-CNIm2_t9Bq3H0tVTc
+https://get.perfecttv.net/vod_jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9000|authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzcsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiOWIyZGQxYzc5YzcxNTlhMjYxZWMxYmZkZGJmZWJkZjUtODg4MDFjOTIxNDJhZmQ1YzQ0YTktNSJ9.IbAvAToDpRBfbsassOrfuALtc-CNIm2_t9Bq3H0tVTc
 
 #EXTINF:-1 tvg-id="" ch-number="9001" tvg-name="" group-title="▶ VOD SOOKA"  group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/9193aaIYTWE_p.jpg", 9001- Dato S
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=42d920ab34f65222b7b827c739b89238:b062c6ea2059509d51aa3ec56d679afa
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9001|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzgsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiYTY2MTNkMjAzODNlMTExODY3YzZmYWU2NDRkMGNiNjEtOWMyMzk3MjU5OTQzYTNmYjgzYTQtNCJ9.18BDmmeYWbHsvTnZzmvJnxLydM9jJ0iSakGceR73He4
+https://get.perfecttv.net/vod_jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9001|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzgsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiYTY2MTNkMjAzODNlMTExODY3YzZmYWU2NDRkMGNiNjEtOWMyMzk3MjU5OTQzYTNmYjgzYTQtNCJ9.18BDmmeYWbHsvTnZzmvJnxLydM9jJ0iSakGceR73He4
 
 #EXTINF:-1 tvg-id="" ch-number="9002" tvg-name="" group-title="▶ VOD SOOKA"  group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/54c82aILLEM_p.jpg", 9002- 3 Bahalol
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8d138b7a547553299c24e460c76f9e9c:f4fb4fe0abfbac98099a316b875246b9
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9002|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzgsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTRhN2E5NTQ2NWUxY2U2NjhhOWZhZDBlNmZmOWQ5NmUtNmI3ZTc5MWNjYmU5OTQ5OTc4NGEtMSJ9.-UKJfaDrxw0GREOKB1S-VKxITY5AmIGDZn_VAp2tdmQ
+https://get.perfecttv.net/vod_jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9002|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzgsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTRhN2E5NTQ2NWUxY2U2NjhhOWZhZDBlNmZmOWQ5NmUtNmI3ZTc5MWNjYmU5OTQ5OTc4NGEtMSJ9.-UKJfaDrxw0GREOKB1S-VKxITY5AmIGDZn_VAp2tdmQ
 
 
 #EXTINF:-1 tvg-id="" ch-number="9003" tvg-name="" group-title="▶ VOD SOOKA" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/404041JPJXT_p.jpg", 9003- 10 Tips Tipu Bini
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=687067563d805f4a85d3c85a4beeb28f:36700753d5d09208ae4d830d75952382
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9003|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzgsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNWQyMmE5YTgxYmY2ZjYyNGM2YjYzM2VjYWMzN2VjNzAtZmM1NzhlYzE5YzNjZWJlZWUyNWEtNCJ9.iVRSFGYcB9MunWZ3pLGSDN3U16DklmJlW6y5ihcZJZY
+https://get.perfecttv.net/vod_jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9003|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzgsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNWQyMmE5YTgxYmY2ZjYyNGM2YjYzM2VjYWMzN2VjNzAtZmM1NzhlYzE5YzNjZWJlZWUyNWEtNCJ9.iVRSFGYcB9MunWZ3pLGSDN3U16DklmJlW6y5ihcZJZY
 
 
 #EXTINF:-1 tvg-id="" ch-number="9005" tvg-name="" group-title="▶ VOD SOOKA" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/51e20aIDMVZ_p.jpg", 9005- 16 Puasa
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=245bfd025ed25d0ca60ee07efe64db17:0447e55cd4454d8439daaae4a27d5fac
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9005|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzksImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNzdlZTgzZmUyMGM2MDNmODU1ZTE1MTgyMGEzYjM1ZWUtYzAwYTIwZjdmYzM1NDVkNzRiYjUtNCJ9.FhbsMKqdDy6sXbsot_dqZLMO5uqI6v9e59yVXHeZR0A
+https://get.perfecttv.net/vod_jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9005|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzksImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNzdlZTgzZmUyMGM2MDNmODU1ZTE1MTgyMGEzYjM1ZWUtYzAwYTIwZjdmYzM1NDVkNzRiYjUtNCJ9.FhbsMKqdDy6sXbsot_dqZLMO5uqI6v9e59yVXHeZR0A
 
 #EXTINF:-1 tvg-id="" ch-number="9006" tvg-name="" group-title="▶ VOD SOOKA" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/635fccIVIHW_p.jpg", 9006- 17 Puasa
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=83ef446df2655b9281c7f3fef503de8c:c686b8c3c81e4942c37ada594ba7f204
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9006|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzksImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiZjEyODA1OTk0ZDI5ZGZlMDJkMDU0YWI1Y2I5NTgxYWEtOTkwNTI4NmRmZWYzMDkwODUyYmMtNCJ9.-8F21ERh9286catp8c0lBxxuykj-pb8H_FuFNIk8_Ac
+https://get.perfecttv.net/vod_jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9006|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzksImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiZjEyODA1OTk0ZDI5ZGZlMDJkMDU0YWI1Y2I5NTgxYWEtOTkwNTI4NmRmZWYzMDkwODUyYmMtNCJ9.-8F21ERh9286catp8c0lBxxuykj-pb8H_FuFNIk8_Ac
 
 #EXTINF:-1 tvg-id="" ch-number="9007" tvg-name="" group-title="▶ VOD SOOKA" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/744797IPOKG_p.jpg", 9007- 30 Hari Membunuh Cinta
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=932ad42661a957f89c63cb48884a87cb:63061c410d8dfed48388f1734aaa24ca
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9007|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5ODAsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiOTE3ZjFhYzc5YWRmYjQyNjFjZjI4N2Q3ZDcxM2Y0OWMtZmFiY2UyNTQ2NzcwY2RhMGE3ZTEtMSJ9.xW0pdqIK5BsMmB6iGhQXRJmgEu03d5ezaYMaXt-_uqY
+https://get.perfecttv.net/vod_jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9007|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5ODAsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiOTE3ZjFhYzc5YWRmYjQyNjFjZjI4N2Q3ZDcxM2Y0OWMtZmFiY2UyNTQ2NzcwY2RhMGE3ZTEtMSJ9.xW0pdqIK5BsMmB6iGhQXRJmgEu03d5ezaYMaXt-_uqY
 
 #EXTINF:-1 tvg-id="" ch-number="9008" tvg-name="" group-title="▶ VOD SOOKA" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/2e7c9eIVP_IKTMQ_p.jpg", 9008- Enam
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=191024df3b5c5c33973c88fb88fab883:f270adab8e69a7983600ccb5f67df20e
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9008|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ3ODQ4ODYsImlzcyI6IlZSIiwiZXhwIjoxNzQ0ODQyNjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjczYzhkOWEtOGMxYy00ZDVhLWJkYjctMWFjMDYxNWViZGM3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.ENUf2GYjs4ulpSil6HEvi79MDSqTSgSSIR5aus8fvac
+https://get.perfecttv.net/vod_jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9008|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDQ3ODQ4ODYsImlzcyI6IlZSIiwiZXhwIjoxNzQ0ODQyNjAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiZjczYzhkOWEtOGMxYy00ZDVhLWJkYjctMWFjMDYxNWViZGM3IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NzIwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikifQ.ENUf2GYjs4ulpSil6HEvi79MDSqTSgSSIR5aus8fvac
 
 #EXTINF:-1 tvg-id="" ch-number="9009" tvg-name="" group-title="▶ VOD SOOKA" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/7b2ffeJKKJS_P.jpg", 9009- 6 Hari
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6981591bda7594085741911405aae93:76e1bc7e7c3dadf2162587e2ea8bcc5c
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9009|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5ODAsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMzA2MzJkMzk1NTZhNjgwOTY3NTJlMThmZTYxMGE0YmMtZDQ2ZTQwZWUxZjJlNzA1YzdjY2YtNCJ9.dGPMcluxn_z1qLyJl50nXGsdXS7q2uBRtx6HBk6xO2A
+https://get.perfecttv.net/vod_jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9009|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5ODAsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMzA2MzJkMzk1NTZhNjgwOTY3NTJlMThmZTYxMGE0YmMtZDQ2ZTQwZWUxZjJlNzA1YzdjY2YtNCJ9.dGPMcluxn_z1qLyJl50nXGsdXS7q2uBRtx6HBk6xO2A
 
 #EXTINF:-1 tvg-id="" ch-number="9010" tvg-name="" group-title="▶ VOD SOOKA" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/5b523bJAFAA_p.jpg", 9010- 7 hari kisah cinta langkawi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=be4d0cab41c65552977379c259aebd1b:554c5d3b55ffaa2a11ee2c696687e6ed
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9010|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5ODAsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTg5YmJiN2UzMmVhMDlkOGVjZTA2ZGI1MTg2ZWIzMDAtZGVmYmIzNTQ0YTBkMDM2MGEyYTgtNCJ9.7Sx06lrWbBPUPuAhRpVHuLm_fr-VWRe7KHO9yEdc3Xw
+https://get.perfecttv.net/vod_jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9010|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5ODAsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTg5YmJiN2UzMmVhMDlkOGVjZTA2ZGI1MTg2ZWIzMDAtZGVmYmIzNTQ0YTBkMDM2MGEyYTgtNCJ9.7Sx06lrWbBPUPuAhRpVHuLm_fr-VWRe7KHO9yEdc3Xw
 
 #EXTINF:-1 tvg-id="" ch-number="9011" tvg-name="" group-title="▶ VOD SOOKA" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/ad4a30IZWMU_p.jpg", 9011- 7 Netizen
 #KODIPROP:inputstream=inputstream.adaptive
