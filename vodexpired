@@ -1,0 +1,4 @@
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bda739927fb39c94c7020475e3ae6110:81001b9e5c7e03e3b945adce2bca8e0e
+#EXTINF:-1 type="movie" tvg-logo="http://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JPJXT_IVP_LAND_171x96_5044C_2024313_17232.jpg" group-title="FS-First", 10 Tips Tipu Bini
+https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/d30f6691-13a0-53f4-b911-76bb8a0c8eb8/default_primary.mpd
