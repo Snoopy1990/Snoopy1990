@@ -1501,116 +1501,120 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" group-logo="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSMRY_series_IVP_LAND_586x330_85E8E_2025530_1784.jpg", 97-Sepahtu Live Tour E1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cf13681df7f700a39cf6af132cdac010:6a0cde925f771f98845ec04bfad29097
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtutourE1
+#KODIPROP:inputstream.adaptive.license_key=d314dd195a97604561ffb42c67653610:95a6ae293d4063b96acbe6bba434bbf5
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtutourE1
 
 
 #EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" group-logo="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSMRY_series_IVP_LAND_586x330_85E8E_2025530_1784.jpg", 97-Sepahtu Live Tour E2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=df3fab9c76bbcf2710bce204efd31110:258df025205de589154b478f417f22dc
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtutourE2
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtutourE2
 
 ##########ssepahtu reunion kecoh raya###################
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/2475faKRUDY_series.jpg", 99-Sepahtu Kecoh Raya E01
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/2475faKRUDY_series.jpg", 99-Kecoh Raya E01
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ce801e8707f55ea8508a9e7f64242c2:b0e2bd08c6e737ef0b7500b5bdf73fce
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtuRayaE1|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NTksImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNjcwN2I0YzRjYmY1ZjJiN2NlNDg1YTNmOTUwMzU4NTAtNDE2MDdlNDJjMzViZGMwNDE1ODktMiJ9.dr3igDIFC_Iaxei_9-R22Zf97hEd7_iWuLEfnSqGCNY
+#KODIPROP:inputstream.adaptive.license_key=76b4edae92b74db565a17d92a6cbf210:281a82f320f146e521090945863e2ea7
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtuRayaE1
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/2475faKRUDY_series.jpg", 99-Sepahtu Kecoh Raya E02
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/2475faKRUDY_series.jpg", 99-Kecoh Raya E02
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d6a0a6d092db5c6dbf67d4d911a99143:8a60998b6e12dd917d682b374e9759a9
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtuRayaE2|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NTksImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiODU0MDQ2Mjc2NDk3MzUwYWIxMzVkNmU0NWE2Njk5NTItNzQyMWU3MmVkNDljMDVlOTcwNDctMiJ9.RneseiMlk2KpYf9PKttA83LlDWX_SlmL6FzA3Kdep1I
+#KODIPROP:inputstream.adaptive.license_key=54330054d8d2baa56b6e7e543ba1eb10:3132bad72307cc7218fed014b0a07bad
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtuRayaE2
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/2475faKRUDY_series.jpg", 99-Sepahtu Kecoh Raya E03
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/2475faKRUDY_series.jpg", 99-Kecoh Raya E03
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f89c131ebc7c586ba3848dd8885ca4af:de358756b4cacd8fb1a45add4c016619
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtuRayaE3|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NjAsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiZDkzN2I0MDZkOThhMzM3NDVhNWVlNzQyYzc3NmI1MDQtNDVkNzMwYWYxMzEzOWUxYzRkYTEtMiJ9.nfb0SXSGEOcaUkEB1GTNr_p8CtEZWwmg9y7CRaUYHBw
+#KODIPROP:inputstream.adaptive.license_key=529f1d5db111808c7bd9246bfe1c9a10:a1c16d824eb0cedc73329a52e3af08af
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtuRayaE3
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/2475faKRUDY_series.jpg", 99-Sepahtu Kecoh Raya E04
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/2475faKRUDY_series.jpg", 99-Kecoh Raya E04
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=15cee49c6508555487ef3656525eee51:08d4f19e161d45250189201d8cfb5f43
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtuRayaE4|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NjAsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiZDJjZTAwZDYyMzFiYmE3MjQ5ZTllZjY1MzVhNDUxZDAtOGEwZGUzMzU5NmE4ZTRkNTg4ZjctMyJ9.LKz9TY86m93UZO8zQib7zek-4iM6VKqpKtIZq_T7ECU
+#KODIPROP:inputstream.adaptive.license_key=0cdd55fdbcba454f449b1ef55e310310:9038a6a405e1476bfe795da384801df7
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtuRayaE4
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/2475faKRUDY_series.jpg", 99-Sepahtu Kecoh Raya E05
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/2475faKRUDY_series.jpg", 99-Kecoh Raya E05
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d3b6c07a152153c693519ae82abfb9fb:cbcd2c0b86fef5b21af6cab14f261018
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtuRayaE5|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NjAsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiOGU3MzgxNWY0OGNlZTdhNDIyNjk4MmQ1ZmQ5MGVmY2YtM2YxNGFlYjg0OTFhZjY4MDg1M2QtMiJ9.7PQ2rzwDFWBIkC3WTCWGXhTplFcFTW3u_4m0GFG1D4k
+#KODIPROP:inputstream.adaptive.license_key=44c3d088ba2738820d1221a149a5a910:4338227295d4ca865268be0ca5157bbb
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtuRayaE5
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/2475faKRUDY_series.jpg", 99-Sepahtu Kecoh Raya E06
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/2475faKRUDY_series.jpg", 99-Kecoh Raya E06
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e64fcddeb0ea58e4969d546dc0fde9fb:3098175388255fe39852f35f5c872379
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtuRayaE6|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NjEsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiYzYxZDViYjljMmFjYTNiNjUyMGJlMTM2OTE0MWVkNDgtNjJiNzYzYWRhNTAxYWFkZTMzMjEtMyJ9.PAl1lSEJ5D7N718g7DUxSDJItxKLkxyG7y6LGjuvSU8
-
+#KODIPROP:inputstream.adaptive.license_key=176c7923d00ac82b65ec40dbe858ae10:19c34f7dc1e1e39cff1390d7591d4912
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtuRayaE6
 
 ##########sepahtu##################
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/4fa938KQVTV.jpg", 98-Sepahtu Live E01
+
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/4fa938KQVTV.jpg", 98-98-Sepahtu Live E01
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=09c62634de9753e0b80cb72f60aab8a3:8bd17e1d38a6e9a0effe36e629660751
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtu10e1|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzMsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiYzVhNTAxYmM0OTJlZDQ3NTc5MzBiYTZkN2VhYzc4YzQtMGExNDdjNjRmMDBjNmRlNjk4OWYtMyJ9.ELI4PCkYTPJxHRrXgYSmkmiZQweyooQJGiuFAdBFmj4
+#KODIPROP:inputstream.adaptive.license_key=3332fdc0d2b97f51ce9f67f71acd2810:7b60f9d161b25c91296403ac21cefd7b
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtu10e1
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025"" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/4fa938KQVTV.jpg", 98-Sepahtu Live E02
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/4fa938KQVTV.jpg", 98-Sepahtu Live E02
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3491b0c37d75a878b94c66a6d8bdb22:44a4ddd1c2b74f2625bec3b88a71a12b
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtu10e2|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzMsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNGIyOTgyZmQ1OGViYmUyY2JmYTE1YzA3MjE5Yjc5YjQtY2Q2NDk5YTdjMWI3MzdjNzIzMGEtMyJ9.8AMXfte-Cx7kFhwr0hvGo0jj_3gR3Bdqwg2msIEGtHM
+#KODIPROP:inputstream.adaptive.license_key=955bbf09fbf9a181181b58968dc8eb10:727a9257e4e0d9489a7496835313969b
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtu10e2
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025"" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/4fa938KQVTV.jpg", 98-Sepahtu Live E03
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/4fa938KQVTV.jpg", 98-Sepahtu Live E03
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=827127a420f1574faf9eea15d866a035:2b1d0a4fcef4d90d9ff8b9c373680fca
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtu10e3|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzQsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiN2MxY2M2ZTk0MjU1NDIxMjU1YjI3MmYxY2YxYmJlMjQtZWVkM2I4NGZhNjc1NDcyYmRmMWQtMyJ9.ecAoYopGEoXuVVpkjrSOrr3Q8ii4gc_Ln8yn-68pLQc
+#KODIPROP:inputstream.adaptive.license_key=4f10bbd74f6579f849ce37d75a492c10:afda4f3f90d1dee1f750034981be11ae
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtu10e3
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025"" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/4fa938KQVTV.jpg", 98-Sepahtu Live E04
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/4fa938KQVTV.jpg", 98-Sepahtu Live E04
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1429192b390e5576b7521b4894d7a8a6:55593a2cf9d8c14c72e83a9593eb176c
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtu10e4|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzQsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiZDUwNGQ4MjZiYmE4NzY5NWIyNDQxZWE0NDJlYWViZmQtZDU3NTJhY2JlNmY2YTExOTY5YWYtMSJ9.pHChDhGATDKyxaILQDn3qLO1BgkuLs0LQuA0HPowSRg
+#KODIPROP:inputstream.adaptive.license_key=e66f08c91041cdd55a28135acad34e10:bbb6d178e82cf82e9dae3b331d819553
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtu10e4
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025"" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/4fa938KQVTV.jpg", 98-Sepahtu Live E05
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/4fa938KQVTV.jpg", 98-Sepahtu Live E05
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8eaafd3caa0256569c9c6563cb358dcf:0ae1a56a14bee7907f5cbdbcf48ad483
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtu10e5|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzQsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiYTE2MzFhY2QxZGU1Y2NjNTA1NjhlNTQ2Nzc0YzVjMjgtNjY3OGUwNzRjMDE1ZmFlM2JjYjktMiJ9.De1wbfevJzmiJAnMg89XTEJ34iNCN17934ORjNFQ40g
+#KODIPROP:inputstream.adaptive.license_key=e7b19697110e0c0a9cada39e4b20bc10:584b22896d2e21403bf169e20b64f406
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtu10e5
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025"" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/4fa938KQVTV.jpg", 98-Sepahtu Live E06
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/4fa938KQVTV.jpg", 98-Sepahtu Live E06
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3f0ccf9553a58229f1039357ca5d18e:8359f3ac396ea1b63ae6bb4d0e42c2d2
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtu10e6|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5NzUsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTI2NjZiNzM3ZTU1MmFhNTJjZDUxNjQ5NzEyZmVmMjMtYTcyYWQzMTBmNTA2NTgwNWZjMTQtNCJ9.Q-k3cC6wW6DYalBmC-_uCcB980gaFdGVZov587qTHpw
+#KODIPROP:inputstream.adaptive.license_key=f160a10868de01f1e7a7e4f832fcff10:dc9d83f4ee901133d26906b83865e6ea
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtu10e6
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025"" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/4fa938KQVTV.jpg", 98-Sepahtu Live E07
+
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/4fa938KQVTV.jpg", 98-Sepahtu Live E07
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d8efea494a7e656efe8555e2909b610:4614a428e3fa432937fcc3c6e767e0e2
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtu10e7
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtu10e7
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025"" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/4fa938KQVTV.jpg", 98-Sepahtu Live E08
+
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/4fa938KQVTV.jpg", 98-Sepahtu Live E08
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=931dccb5f2ef5efa35fa47f6ce031d10:b3dddcb58e4d2fefdf7df6d3d8f00a44
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtu10e8
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtu10e8
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025"" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/4fa938KQVTV.jpg", 98-Sepahtu Live E09
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/4fa938KQVTV.jpg", 98-Sepahtu Live E09
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0206f63e43826b11ddd41ffe1a654e10:28bd1e1e6c8e182f7b31e46febc82d3d
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtu10e9
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtu10e9
 
-#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025"" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/4fa938KQVTV.jpg", 98-Sepahtu Live E10
+#EXTINF:-1 tvg-id="" ch-number="" tvg-name="" group-title="● Sepahtu 2025" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/4fa938KQVTV.jpg", 98-Sepahtu Live E10
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eead9d0d5f8d929480f8c27224dd4310:6792cb07a6d069d1266de497dda99fb4
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtu10e10
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sepahtu10e10
+
+
 
 ########## Kilauan Emas ##########
 
@@ -1757,7 +1761,36 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_key=b5a269b2e9bf8dfa3f5cd823ba081f10:4152db6e5ddcd9a36a9c62c40552803d
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series",86-Kerana Seorang Lelaki S01 E09
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=dcaee449be477ebcf4008d040bcad110:270813aa74c77c193de9ca98058c22b9
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE9
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series",86-Kerana Seorang Lelaki S01 E10
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=5f09072fa560af95530e8499404d4e10:e2b0a5138ab9595b1f5c58cdb8cc20e8
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE10
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series",86-Kerana Seorang Lelaki S01 E11
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=da0d8e5307146413f885dbbf40827810:f947220e78210c165c0c93fc3ed8b8b8
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE11
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series",86-Kerana Seorang Lelaki S01 E12
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=55d908b9987e62d06ebbe3214da5ab10:f6ec3c3d1a9f9d66e3f2129b57cc8911
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE12
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series",86-Kerana Seorang Lelaki S01 E13
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=1af5d3d0aa3002a54cb2a528c683b010:456682c9965e8cc67be3fdc6f78bfbd9
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE13
 
 ######## Thariq Ridzuwan His Treasure ##############
 
@@ -1814,6 +1847,18 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2211efadb202fb4183099933759fc110:3293b8e6fd70025254b857e38b71c7a3
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TRHTreasureE9
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVHR_series_p_IVP_PORT_390x585_879CB_2025724_123745.jpg" group-title="● Astro Series",87-Thariq Ridzuwan His Treasure S01 E10
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=5c27276cfe3391a346018cf6d76eba10:1ed7a2e7f0270eae98f132baecaee5ed
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TRHTreasureE10
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVHR_series_p_IVP_PORT_390x585_879CB_2025724_123745.jpg" group-title="● Astro Series",87-Thariq Ridzuwan His Treasure S01 E11
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=0a7d211bb8b0c460825f396ea4f70010:5d6bfbf3ba583807f986105c126f3540
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TRHTreasureE11
 
 
 ########## Mandul Bukan Pilihan ##############
@@ -1953,12 +1998,36 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_key=fbe23b76b5a9fe93fd9b7057d4c03310:809196b31bd6126fe01fc61a6a13881d
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE22
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series",88-Mandul Bukan Pilihan S01E23
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=10712c61031c50699e23902624416d10:9ecaf9e2aefdf3b5f4c9597dbb110292
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE23
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series",88-Mandul Bukan Pilihan S01E24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=a69a1c496448f5aa36d41deaf8ca2e10:44d797163cf4d0d9dafcffa2bb879e09
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE24
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series",88-Mandul Bukan Pilihan S01E25
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=abd776403a2f49f1d09216b62ed61510:d4651587dc30156482d453b86eef373f
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE25
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series",88-Mandul Bukan Pilihan S01E26
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=8927344dae33a3765f927793e11fdf10:56b6465380cf191c17ec50a86c981a3c
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE26
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series",88-Mandul Bukan Pilihan S01E27
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=d9aa52a4f68b3db2785ecbb347846910:8a7b12a2f275059b6c92b60f7d03109e
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE27
 
 
 ########## Di Sebalik Reda ##############
@@ -1967,63 +2036,63 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=31117d2617a4376065b4026531574b10:5187021d2ef0a025c9dc08eec877f368
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE1
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE1
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series",89-Di Sebalik Reda S01 E02
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=dd515eae90999893aae1ff2a5d23de10:28571cb733e6922b156d6618e002b75d
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE2
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series",89-Di Sebalik Reda S01 E03
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=21fb3e820e8985cc571f75adc4e31310:da56cdc777f8288251f79f7a79b4470d
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE3
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series",89-Di Sebalik Reda S01 E04
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ba7e805c2589ea3726df9f77eda30a10:b4f93a63136a66e81969c452ba48821f
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE4
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series",89-Di Sebalik Reda S01 E05
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=f355c430bac5fe9bf90c9c4d01b95410:8de33e04a1ad8b9dedffa87add3037f4
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE5
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE5
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series",89-Di Sebalik Reda S01 E06
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=5694d74bf9bc53fc8aa2cc85d1bf8510:593cba51da6a59c3ab1b7bf3898ef573
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE6
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series",89-Di Sebalik Reda S01 E07
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=9ab49efb543314574c23464159b67d10:a4bbd52a4ea245e5902ec2e3a6ea4987
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE7
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE7
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series",89-Di Sebalik Reda S01 E08
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=1bba6ad2d78c1418ed3c2fdff1ccaf10:881bf06d686f050d3fc05171f5f2ea21
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE8
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series",89-Di Sebalik Reda S01 E09
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=e32c653f36de3aa38dead12b02569710:a1b51f0629b8aa1df72a5f5999227659
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE9
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE9
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series",89-Di Sebalik Reda S01E10
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c941766e7fc65b3f7a7852d73e4c9610:cfac980a5474816c92cd0105b7ed731d
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE10
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE10
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series",89-Di Sebalik Reda S01E11
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2202,6 +2271,12 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_key=806329b750e468cf0a1b0c18e2e93010:a9d08be64aacbef9182a7698a0057b1a
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HoneyTrapE9
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSIUC_series_p_IVP_PORT_390x585_86852_2025618_10309.jpg" group-title="● Astro Series",90-Honey Trap S01 E10
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_key=d3470d5c9cdc6836dd8d7fa07cd4cb10:76f98e95cab19cb66a2d8c36f8c2f146
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=HoneyTrapE10
+
 
 
 ########## Si Bakhil Dengan Bunganya ##############
@@ -2210,85 +2285,85 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=e30650b91bca15a9cc285ba94a61ba10:7d2ea389e78871b460f8aca54fe66d39
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE1
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEJE_series_p_IVP_PORT_390x585_85F18_2025528_103325.jpg" group-title="● Astro Series",91-Si Bakhil Dengan Bunganya S01 E02
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ae9e92c0f43391996c7818144c2dcc10:95a10a6f131b99623fb002de3ae49a06
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE2
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEJE_series_p_IVP_PORT_390x585_85F18_2025528_103325.jpg" group-title="● Astro Series",91-Si Bakhil Dengan Bunganya S01 E03
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=1992fddb759857adac8b1b6cbcad4810:b0cdd228321b3ffff55029becda88d42
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE3
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEJE_series_p_IVP_PORT_390x585_85F18_2025528_103325.jpg" group-title="● Astro Series",91-Si Bakhil Dengan Bunganya S01 E04
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=96534686f0feb522596d5c199e103510:720a0eb7c5b0ffb24041c97478d42a9c
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE4
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEJE_series_p_IVP_PORT_390x585_85F18_2025528_103325.jpg" group-title="● Astro Series",91-Si Bakhil Dengan Bunganya S01 E05
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a1ba9e9f91d3d59d221fe94976dee410:a84efc2217bf3376f169f5b2f9ae3aa3
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE5
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE5
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEJE_series_p_IVP_PORT_390x585_85F18_2025528_103325.jpg" group-title="● Astro Series",91-Si Bakhil Dengan Bunganya S01 E06
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a5f242a6057d0d61e66ab5a31fdb8810:ecc94f7b15b55b4ae994c19011de18d7
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE6
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEJE_series_p_IVP_PORT_390x585_85F18_2025528_103325.jpg" group-title="● Astro Series",91-Si Bakhil Dengan Bunganya S01 E07
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=719b4dbdc29384442368e7f66cd10f10:7bddbb9cf8240468c479c0c067e4c653
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE7
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE7
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEJE_series_p_IVP_PORT_390x585_85F18_2025528_103325.jpg" group-title="● Astro Series",91-Si Bakhil Dengan Bunganya S01 E08
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a8e25e41c5c41f9f244c17b0e8174510:d628b0044cba2dd0e291da33b903112a
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE8
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEJE_series_p_IVP_PORT_390x585_85F18_2025528_103325.jpg" group-title="● Astro Series",91-Si Bakhil Dengan Bunganya S01 E09
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=25c4eebc3f2af99721e909f1da208110:a7db3c83d8da5cd3265c71c39fe9c659
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE9
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE9
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEJE_series_p_IVP_PORT_390x585_85F18_2025528_103325.jpg" group-title="● Astro Series",91-Si Bakhil Dengan Bunganya S01 E10
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=4680db91125e5894de11cb925191a210:81383b5bb8c20cdae455d35f052e29ef
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE10
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE10
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEJE_series_p_IVP_PORT_390x585_85F18_2025528_103325.jpg" group-title="● Astro Series",91-Si Bakhil Dengan Bunganya S01 E11
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=8f7866993b9ead71f0188efa43dc3510:01a257c8dd185663981fd8af7247870c
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE11
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE11
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEJE_series_p_IVP_PORT_390x585_85F18_2025528_103325.jpg" group-title="● Astro Series",91-Si Bakhil Dengan Bunganya S01 E12
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d392fd41c1c9c792897cde8fb0602110:df06fbeb39e5e348d0f0d4bfb9870851
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE12
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE12
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEJE_series_p_IVP_PORT_390x585_85F18_2025528_103325.jpg" group-title="● Astro Series",91-Si Bakhil Dengan Bunganya S01 E13
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=cdfb7e73873847452690f7c8c6393510:2c5e4f72083d1ab422c27f15a6aba342
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE13
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE13
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEJE_series_p_IVP_PORT_390x585_85F18_2025528_103325.jpg" group-title="● Astro Series",91-Si Bakhil Dengan Bunganya S01 E14
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=65466c3018893619152f56b190395410:c3ce8626d2074c7ad16971c6bad35e07
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE14
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sbdbE14
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEJE_series_p_IVP_PORT_390x585_85F18_2025528_103325.jpg" group-title="● Astro Series",91-Si Bakhil Dengan Bunganya S01 E15
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2308,87 +2383,87 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=da57b12722eeff0e0da32407b17dce10:3d6a11045b4000c2e3af05e22f9d6685
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe1
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E02
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=88771fd4d8131d73127ab43e9c7aa310:b31d8c40558a5b62d4a2509a46ebe407
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe2
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E03
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=3d36e4314952140e3b01684e100e3410:e20a3ebe5888c10ae34e64a5aeafb7cc
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe3
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E04
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=63d5ed0240a94d81e2987d19fefbd610:8ddcd12e34684707c6d2c5d05aa613d8
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe4
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E05
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=4c28916972739ccad6cbb40c35b86810:6ca123c64aae4cfc261e98d5e759d788
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe5
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe5
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E06
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=b789d2d93af3064095fcb84086899710:b69cc3637db07b5b677e1c15832efb67
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe6
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E07
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=01f698b996b619a54bcdb9cf0a3ee910:7b69f08348e2f618142ce175adafc515
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe7
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe7
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E08
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=b789d2d93af3064095fcb84086899710:b69cc3637db07b5b677e1c15832efb67
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe8
+#KODIPROP:inputstream.adaptive.license_key=0d407015c11e8501ccd8eb549fece310:7ad658322e61955fe28a44e8778d4d07
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E09
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=fb7559c44bb9d361d31e44781fe46a10:701420272b1ae1c3b51334ab3421e70a
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe9
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe9
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E10
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=fec2e3d7fcb4074d745ea4c58c710e10:8b96c5251ed34187fc1f0d9a01697201
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe10
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe10
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E11
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=44ca81a3be08696646d865fe8a288410:a436b3d75d18c1c37de41f04ba088c1a
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe11
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe11
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E12
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=b5a9bcdaf8591623692aa70332a26d10:ae54047bea6ccac0ae1b034458a7e67c
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe12
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe12
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E13
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c5692de7309fed993d6f2a186dd49710:57d42359b2eea31566c860d526edf5c5
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe13
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe13
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E14
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=0f49133ce40f1ab517e47a33baabcc10:dff75e89468781552ba218280d6765e5
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe14
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe14
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E15
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2455,51 +2530,51 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E25
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=cd7d0f2ecacdbb2b2b06820935116d10:c419e8598806e3566d0184d8002dd93c
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe25
+#KODIPROP:inputstream.adaptive.license_key=606c69a04098f74c1c90a799ffd18210:56c87d7fa236d1cc8a6205297d9b6e13
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe25
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E26
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=eb673d31c2c74add9ef28cbc31939910:90179e360e382b9e5e0dedafc398a6fa
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe26
+#KODIPROP:inputstream.adaptive.license_key=f6c495c496eb50b30ce448046ee4a910:873954d51e10cb59320cb235a08855ca
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe26
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E27
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=15914d6f6524344180394d4f9ae75610:6606acc1cd9f2dbccfabf7aa728a7fdf
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe27
+#KODIPROP:inputstream.adaptive.license_key=61c1f88c45cd1eb6cc30391310e8be10:d7bb02f36fdcb2c7f211e4549d6f1ff7
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe27
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E28
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a6ce3569b0d089f36a57091f280d2f10:8908a617d93ad7e39543d2d7ffcf19e0
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe28
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe28
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E29
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=c5e5d4817e682b56ccb408e2624e7210:1ebe0c5d168fd43e2c79f8b72d858dd7
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe29
+#KODIPROP:inputstream.adaptive.license_key=3acf1ed9e7cf6d511a3a50ab64fa3810:9166af87ed783241169139f3ef9f225d
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe29
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E30
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=1f0f82aae16080563aca6d0e9609f610:66a9b8de54c61d9b3312550b051c60e7
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe30
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe30
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E31
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=f5037458cfa870e81e80ffe6d3952410:bba7378a6c6f9b99ccd7135e0f730e7f
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe31
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe31
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSEHN_series_p_IVP_PORT_390x585_85AB3_2025528_112150.jpg" group-title="● Astro Series",92-Dia Bukan Syurga S01 E32
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=6fd1a3d9b26130571ee03f47cf56e110:3ad30f757d5f480532a05c587aa664ac
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe32
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DBSe32
 
 ########## Dzikir ##############
 
@@ -2507,61 +2582,61 @@ https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&c
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c380dad7ab9a9586d62568d90ea5d210:ea3259a0ae83f656c1b1286261150c06
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire1
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E02
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=3d1955961d8b310bcc338d3505541310:eff44286cc6fe69ac2806fa3acca2a52
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire2
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E03
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=edcdeec722244f341e97692d1e1a5f10:9caeaea673b47a02589e441c0deacd78
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire3
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E04
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=9bec41b88f702b85021bf8509b9b3210:f23cff2bdb7713572e981787a3b1fa00
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire4
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E05
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=f81d704988ec1dcdfb39ced7e8be4d10:2856a63acd87b4bbde97157dc57c06ee
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire5
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire5
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E06
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=3eee69f1d9347762c5f5db670917dc10:bd2178271f31c9d6511680a23a376b93
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire6
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E07
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=79d773db2dd5fc945ad506d89b785a10:b57420b8c4770f3b133719503837a48d
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire7
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire7
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E08
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=1f9cb3bd1429986943f32bd06e5f9810:f07b48552659a65f454a5d5c919a8f84
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire8
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E09
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=7fc9ce1746f02ab6a4f0e8f03d911610:8f389c3788ea7d5205e1d9555aa5c2da
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire9
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire9
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E10
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=cd43e3bc06ffb90c5c81eeba00210510:9b2f4ea0aaa4469a5d6c4fe60d72527c
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire10
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire10
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E11
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2604,13 +2679,13 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=058aced5dd87930b9870fcc246ab1510:bfe5b2330e226fb7010619097a349d35
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire17
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire17
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E18
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=f2e8cf60c95a53dc08c8fb5a5bd8d610:5bedebd29e722d2f4641193a1efbfa4d
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire18
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire18
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E19
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2640,51 +2715,52 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=20eab7409fc61bbc1a22dc5e1aa55210:f25a6a0367287fa87d60c0d2e98ff717
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire23
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire23
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=e1f94a907ccb93e1bbbd54d1941d5710:924220deaa9427dd05871c4577bfbc1b
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire24
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire24
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E25
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=37c64f76bb8ee85b4e90173035da2b10:918f12bf8eebd34c731e85f5fac7d5bf
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire25
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire25
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E26
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c614d6bda1a9009e258f059152115510:8eb82faeb46d79be49a167f602d28b2e
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire26
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire26
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E27
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ec6dd1251d15444e7b524bd4af5dde10:aa80908068c8ac631b6e9585acd238aa
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire27
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire27
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E28
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=4a536fa6ee4746d23ac79e35998add10:f7a4ebd3b6100f94840f5d3e9c8cee2a
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire28
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire28
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E29
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d4795832a686df4b3cf42cd9395d6e10:a97adbc76d7325e359d3cb6c8e74d73e
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire29
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire29
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQCDX_series_p_IVP_PORT_390x585_85B3C_2025519_154351.jpg" group-title="● Astro Series",93-Dzikir S01 E30
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d7a10f0f56c0ed3676d20f147a110f10:4ff382f71303711823ffca202edd5c8d
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire30
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Dzikire30
+
 
 
 ########## DIA IMAMKU #################
@@ -2693,327 +2769,346 @@ https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&c
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E01
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=9a391dee75f65b4dbf0965a61e580355:045586acec935669cc1f171ff4968fdf
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue1|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTAsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiZDBhMTQ3NzdlMDA0YzZkZDNhYTdmYmIzMWRhOWRjMzYtZmU4NDA5YzU0Zjc4MzQ4YjM5M2UtMSJ9.CH-9dlqko-RtgiiAIlDXuKmk-EBx16wO35AoWL8U7OA
+#KODIPROP:inputstream.adaptive.license_key=5e65aca168004c9758e59416ecf24f10:ce276fc81e3413cc34373bbd4701bcba
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E02
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=101c42d6b3d95c0c8cd6a97801235f36:6c67289a3f9e2073966d78ded45623ed
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue2|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTEsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiZjNkNzk2OTRhZDI4NjI0YWZlMDNlYzdhOWVmNWVkZTEtZjM4OWE3NWQ5YTAzMWMwZjEzZjItMSJ9.2dNBnmKG71n4Lizd4tM8KrxSy2wvMQLmsiNLXsB8F6U
+#KODIPROP:inputstream.adaptive.license_key=fef36fff61718c6d0203899033697210:ce96be480155878e2ebc8295874ca828
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E03
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=93f1ac2711645c868aaf5960a1d73b19:a1f1ab7666776dc1ffb5a326238a4941
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue3|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTEsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMjdmYzRmOTYxZWRkNjAwMWM3MWRkZDlmMjA2NTI1NTEtOTliNTkyZjBjYjYyNzA4NmM0N2UtMSJ9.eaIye4BOh5qG_oFg-igTAu4m5RDoA-Fy4XbAJ_473uQ
+#KODIPROP:inputstream.adaptive.license_key=f3d630b178f37f1dbe2b456bbe0e8210:d7f50e098615d6ba79ed8f9751e708fe
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E04
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=6059517775cb52a180eb1818706adca9:5ba32dc88240ef6aa1c8f3c8d145661f
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue4|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTEsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiYWJkNDFkNDA4OWMzZmQwYmE0YjdiYmFiZGY1NjBlNTctNjM4OGJjYTBiNDIyMjMwMWYyOTgtMyJ9._vpQfEy5DmfYcHBJlXap9_O16TbMI1odIXIj8cRCaFg
+#KODIPROP:inputstream.adaptive.license_key=314507bb284577ea03a9df1dd0e4b810:a7a850726147209806a19dd6a37a6a95
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E05
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=a61aaa6fa9b455b891c817c3a61a72a5:c8bc700f0a073f0b5dd67d69d50a0458
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue5|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTIsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMzJhNWQ2NTNkM2I3ZWQyYmUwNjEwMmUzNTA3NGRjMDYtNjZlY2IxNGUzNDZkNjNhMjU1ZDYtMSJ9.zjgtuPKnBkqBv4d5rTwlcmYXPI0pyXYb0ZCiZTowd48
+#KODIPROP:inputstream.adaptive.license_key=9afdf0d88131fee54857894243d6b410:49fdfc978ce141fc77c49634c86f442a
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue5|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTIsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMzJhNWQ2NTNkM2I3ZWQyYmUwNjEwMmUzNTA3NGRjMDYtNjZlY2IxNGUzNDZkNjNhMjU1ZDYtMSJ9.zjgtuPKnBkqBv4d5rTwlcmYXPI0pyXYb0ZCiZTowd48
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E06
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=1bc5909e74415c2ea5f170efda3daa00:c5f4c8adda4241c03948a5a8aa09f865
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue6|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTIsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTM3YzMwZjc4NTllNjhjNGQwNTgwYzE1MmY5ZDY3N2YtODViM2FiZDc3MzYyYmQxY2U0ZjAtMSJ9.QVqLP3Gh-KzOavyoySiu9IMKxAyvcEy23i9ytxW7o1Y
+#KODIPROP:inputstream.adaptive.license_key=958bf15737bb3d9e0edd4bc16cb2a810:64e66106eb88821223b3bea87bfce842
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E07
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=abf901f7800b593ab900e563aca58dc4:a8e0e79e486cdea58cf2e56df9b8b883
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue7|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTMsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMTIzNGY4NjI0ZTk3YWJlZmM5MDg4N2E4NjRiMDFiNTUtZDA1YzU4ZjE2YWIzYjVlODdhNGYtMiJ9.USlAd0TC1xFr4kjhiWsn_KTVjmueYKeNUbs0_fbJfSc
+#KODIPROP:inputstream.adaptive.license_key=3215a2e9c2c14b11a8a597ba87a76f10:8f7648a4704ce4218728b16a81699c43
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue7
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E08
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=af988a1b3c165bed9fb499629fadea10:fa56fff45485804f2c1f230d0e1d8972
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue8|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTMsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiZGEzZDMyYTNjZGFjZjQwNGVlM2NmMDI3ZDYxNjEyMzQtNDQ5M2NhNGFmZmEzYzI4ZjZjMzEtMSJ9.ATGpZ7qvsme-C1H74E8Eq9O2sb0fJS1iW9KY_ZY5ifk
+#KODIPROP:inputstream.adaptive.license_key=708a5b45c9af37416fb3db6459c3e710:2392a581e4be5c19439b1fc2a8075101
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E09
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=9b5e56f92322591c91ab111c96644b0d:b38f92516cc56815aed0763253f1ee08
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue9|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTMsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiZWNhZjNjMTU2ZmFmYWMxZmNmYWFiZDkxYTY4ODFlYjktYmJiNjliNzViZDVkNGZiYTcxOGQtMSJ9.ropEzujQPKXVXbCUSlzHDG-sF7osfI0J9zG6zOk5LZA
+#KODIPROP:inputstream.adaptive.license_key=47e09f28d841f0edb08a40ff4af36110:c32de29ed3f42019cc47b7d48086f93e
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue9
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E10
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=3584e0947c5856e99e3e4a25cbf6b1ec:d8ba078519058e13415a4be757de64bb
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue10|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTQsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNmE4MmFkOWIyMmZhYTk4ZjM4MTRhZmUxZDcyM2U3YmYtZGUzOGRhZjQyMTk1ZDE1ZjczODctMSJ9.yFbp_7GytXbh22WHdMWgfXm-4pSW-cJzI-zxgQXRrQc
+#KODIPROP:inputstream.adaptive.license_key=b7ee551b35512019af4c5a627eec7d10:a154f7376dd1e121291d633c7e4a311d
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue10
+
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E11
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=18120eabd3cb53038e4e2caa703830f3:e8a13356178976c6595985ae86c2591b
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue11|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTQsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiODY3NGEzMDNmN2FkNWI2NDE4Y2QyODc1YzJjMzY2ZjgtNGQ0OWU1MzczNTgxOTM0OTJiNDgtMSJ9.SyJplfwsHWa33SWP0hzOOBcB9ipkFyj6fbgzL6MX5OY
+#KODIPROP:inputstream.adaptive.license_key=9cc2c078bac5ef82e8b8c5fd905a8410:05ae015eb387e090dabb628a07d4ecd6
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue11
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E12
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=1f6afef69afe5786adbe865a2ebe1631:95dfc9d4d326d184237a349941caedc8
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue12|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTQsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMmE1MjFmNjMwN2VmMzNiOTA4OGMyNjk5ZWMyZjE2MTgtODdjNjkxYjM2MjhmNGE2NTFiMjktMSJ9.USepYJ5sPXpJjgbjSMNqLwCjMDuPzePPa9f3bBaAfzI
+#KODIPROP:inputstream.adaptive.license_key=5ac0ac565517a46b0227e75f02890410:db083f3749a1a3b33d9dc50b67a39dd8
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue12
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E13
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=60208395932c5ffdbae4441ac70e6fc4:210c67abb722a352a54bf7100c406247
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue13|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTUsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMDdkY2NmZjMyNzA3Y2ZjMWRlMDc0YzBlZDVkYmJlZDEtYWIyMjk0Y2RhYTQ0ODYzMjU1YWQtMSJ9.I3GGc4VmVMCauF9-khmRTl7b7KyhxPpC5wVbuLlsKAE
+#KODIPROP:inputstream.adaptive.license_key=0b00d3ec26b0f89e67783a667d650710:72376f39349b7e62b510a12d2126784c
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue13
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E14
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=bc1431120daf52e59ab1af0e8f6445d3:bf1471e8aa9406bb724caa3561df265f
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue14|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTUsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNDEyNDc3NGE1ZGM1MTk0ZGU5NTM4YTcwNzEzMGQ2YWYtMDdmYjcwNTcxZGYzMDc1MGM2N2UtMyJ9.4o9AHk6OckeNGJSKOOAvihhiGvFwo6tdtxeurHU8rgM
+#KODIPROP:inputstream.adaptive.license_key=35626a0b43f9d213527c6f1c788b6d10:bb34bf644a859b04dad957a0035a48a4
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue14
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E15
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=1c3cbfceeb5f5296932970c96630e6f2:2f9ce8a1f027e44e305becb2d1cef0da
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue15|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTYsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiYWVlZWZmMDNmYjMxYTYzMGEyNTYyYjY1NDhjOWE1MjktOTE5NjE0YjQ0ZWQ4ZGQxMDg3MTQtMSJ9.B7a0wyH21kwiGhu3xmfZiH_CCvvCvI6EgKUMRxf44rs
+#KODIPROP:inputstream.adaptive.license_key=ab72a9b67acd657edc9d513c04169110:b73a165478eac9e878c129e962ff115e
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue15
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E16
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=f28365274fac5a498788f5053b091de7:6bd7c6aa22088fd46fa7c0bc2e04c8e4
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue16|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTYsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNGQyNWQ0OGJlYzMwNmUzZTFjZGNkNzFlMmZmOGI3MjEtNTM0OTg0MzRiODYwMGVhODhkMDctMSJ9.sMa3Fyq-XYy_BMRpWn6wSaOQ7x8v0uiqe1rCk6PZh7U
+#KODIPROP:inputstream.adaptive.license_key=cd31d456bffdb25ffe57cec8207f5510:3a9c220a96438eae4ffecd8332302024
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue16
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E17
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=1702d03dc5c75d109588c91c74d9d79b:55557059b6585fdb28dfdda006783869
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue17|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTYsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNmExNzZlZGNhZTg3MzU1MGI4NWRjOWNhYjcxZmE0NTMtOTdiZmM4MDZkNDJkZmExOTFjYmItMyJ9.tU8IbqUrnZO4IQyoPrLKS8XPmJnWIxEr0LemcKEczIk
+#KODIPROP:inputstream.adaptive.license_key=868ffc57adf8a742aad430945ea9d110:ba7cda509873cee730a2c9bd1c3dae53
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue17
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E18
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=5de43176a01550619d6ddde246af2d4c:b6726b86516abb0c12b0a3e76adbddcc
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue18|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTcsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiYjZmYWZkMjMyZWNlMTRlNzhiNDVhODUwMTc0ZWY3YjAtMWFlN2YxNWMyYTI3N2MxOTg2ODktMSJ9.aOM4scspUq3QyYM9IQdbwTwpsHGAh-1xaMRegPuVAnE
+#KODIPROP:inputstream.adaptive.license_key=b843a4654a54d3ddb5b287f71ac56510:943b0fa5b1f7611c0b0ebe739586da5d
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue18
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E19
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=a3d8c0ae44e358218e1950f0849acd08:f7386fcc9934ebe0b9d6ef6b44ccce16
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue19|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTcsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiOTBkYzY3YzFhMTlkMjQ0N2NhOTg3NmUzZDIzNDA4NWYtOWZiZGEyMWMxODNiZjk5ODQxNWItMSJ9._lJuZ80fBl23Saq6eEZdP_yOeXy1xOv9YdUeUDn1U5I
+#KODIPROP:inputstream.adaptive.license_key=12e844eae7a4574929fa05f36da13c10:d007c7083ba0a821a7ab91afb27fb840
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue19
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E20
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=bd8ddb6168ea5384bd196564acccf9f7:6ee2497bdc0c861a51806df5d9af8e3e
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue20|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTcsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiYThmMzkwYWFlZmE4ODFmMTg3MDBkMGJhYzIxNDI3MmEtM2MzMDc2ZWRhNjMwYjE4ODVkZDktMyJ9.iBWj3EnnXi7a8VDlwbH57URzThSL5gQvmHRi7T8Ft14
+#KODIPROP:inputstream.adaptive.license_key=664427af4b2ce24e3f40fc850bf9f310:68a1cd5542cdce090bc7f7d0cb9d50aa
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue20
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E21
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=1bee8ff9771558b69d5c1e1a7b724781:348ff0f2fcb7006ff5191b4ef8f1e81d
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue21|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTgsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNzFhMGYwMjMzNDcyYmFiZWUxNDVkOGMwOWYyNmNkNjEtNmZkNWI2NWM1MzRhZmEyMGEzZDktMSJ9.F45WhQ4ADoUE7MdeAxHZktYX2s8-YdZN_eVoaVb8cfE
+#KODIPROP:inputstream.adaptive.license_key=e4810acc5aac4050ba74443b97bda310:2c1f54eb1b0935ccd94f1e8dcbbf5a0a
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue21
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E22
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=83fe9e55f6445e7fa4aae88998ce4d49:ad8f6d504d03642ee9ca732b7a73b9b6
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue22|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTgsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNWEyOThkYTE3YmI1OGRiOWJmNjdmOGJlYzFlMzI4MTYtNzA3ZDlkOTIzZDY2NjU3ZjhkYmItMSJ9.a-JItLtcuRT229d2-AnMEIpZw1tBx3KzsRXTeMGY6vA
+#KODIPROP:inputstream.adaptive.license_key=f4e25e6d55a211faf506aa2e5f5f3910:c320f385aef9904d3b77002acb7edfec
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue22
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E23
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=b30ef99f10ed5a51b029c2a09f025703:38564d900d78b5086e528c3747a456a5
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue23|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTksImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiZWE3MTcwYzZiMjg4MDViOGNhZDY1MTcxOTAyNzkwMTQtOTEzNzFiNTZlYTA3NmFiNTQzMzYtMSJ9.mGVRuU-gfFmZ_u7oaTVsjJLYSe3PewMw-y5AhRNNSiM
+#KODIPROP:inputstream.adaptive.license_key=1739dbf54f5ba8b4e695d769cc8d9c10:b8f2fd8d4fd70a80fa8828a38096194d
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue23
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=b75c4471aec151228532bf93cf1eb884:12cc29d756c177a54cd770ab761f49e1
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue24|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTksImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiZWU5OGZiOWJiNTM1OWE0NWJjMzZmNDExMTlkZTVkODgtMTBhNWFiMzRiOGU0NjIzNzI3NzMtMSJ9.IOYoV5ZQMJ_huSJqnrcVlFx9we5wGmFZ5PA-mhdytJY
+#KODIPROP:inputstream.adaptive.license_key=86a7586857c0a5cac8476bdf40570510:e71a8b0be71d068a7d526c472836108b
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue24
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E25
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=4efe944b81c95dbcaa2e74fa3fc1ccd7:91459bb17ef67a45e80b731fe0915d62
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue25|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MTksImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMGUwYTM1OTY2ZDc2ZWE2ZGM5MWMyMTMxNThmZDIzNGYtOTMxYjExODZkZmNhOGEwOWMwNmQtMyJ9.Dz6nEofTGPJYggVWeoOYtXwU1-Sil5Aqn20qcNCEBLg
+#KODIPROP:inputstream.adaptive.license_key=3ab40fe0bc42cc14b0f730b8ebdf4a10:155724edfe422dd1c164ba1856b9f5e0
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue25|
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E26
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=40dffccddbb059a8861480acfb2e352f:645752e606f268b3a91cb2a70c91c8be
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue26|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MjAsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNWI3ODVmMjBiNGZkZDllYzlkZjFiYzZhZTE4ODdjMGYtNzFmNzMzYzY1MjZhYzQ1Y2Y2ZmUtMSJ9.NDYYPIbfrnWc7l-SCuI6YQY5NQIaDQ1MZ65La-7NK_w
+#KODIPROP:inputstream.adaptive.license_key=b447ff4d3f0808425027879f9c92e810:aca91df96627c4fb8464ac61a094d008
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue26
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E27
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=c0f94b64f7d05265bd91a2e6c9922095:33b938f820b0630a8be4642261ea74b3
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue27|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MjAsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiYWQ3OTdmYzA2ZTQyYTI2ZjhlODljZmE3YTlhM2ZjNmYtY2U1YjhjNThkZDFiM2NkNTQ0NDItMiJ9.B4IIRrcm8nhY85m4hNNYx47gRQm5dAsn1tb_q4GvN54
+#KODIPROP:inputstream.adaptive.license_key=72c28b99351b8a37b208cca067c69010:0183b6c04dada950c25e74deb45ffca6
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue27
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E28
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=a6f846ec4eeb530fa8c1a70c0b184f7f:d16146cae7822ccaca52317f17deaeb0
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue28|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MjAsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiZDg5ZWRlODBlZDk5MmVhMTdhODlhOWQ1MzRmZTc1ZjktOGE0NWRlNTVjNjA2YWM1N2E1ODQtMSJ9.yvofcVUJzKRAKEHQ2HoGg3wwy2A6si6SGeypn9gbB-Y
+#KODIPROP:inputstream.adaptive.license_key=640c3314aa100413fb9b9e132010bf10:5e10880d4b1b54a02a04d3b31c6af59e
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue28
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E29
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=08b3f2a8c07c5f9e8ece6e10f06fe158:029fadf10637d6df04dc29183011c388
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue29|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MjEsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMzZiMmIxNWZiMDY1OTg3NDQzYmU1ZjE0YTYzZGJiZjQtMTBiMjFkZjBlYjUxNjNkYjcxNDYtMSJ9.Uy6E0w2S2Q3x255drc93G9qyIv2601xSvIP2ZRzz2A4
+#KODIPROP:inputstream.adaptive.license_key=5fbd98ecb5cfb651faf9d54bf2a51c10:c9dd7d678059d10ec271beb3664a5dbe
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue29
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E30
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=193b1432542b59ea95a4a6ff5dafec82:d67cbe78abc6b1ab45687e91716dbd4e
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue30|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MjEsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiODgxNzk1OWY1YmEyNDc1MzgxM2FiY2I2ZDRlNTc4MzMtYTk0MzI0YjMzNDA4M2JjZTAyN2EtMSJ9.FJezfluXT2Z4PuFfkunDid2Kdi-kHT87C9SKHmFskiU
+#KODIPROP:inputstream.adaptive.license_key=7a8a95d4e516542019189a3033917210:b4810226e7c352471cd3fdacbda2862d
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue30
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E31
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=9d7f620d8bfd5b1fb0111e9b891d0a39:fc1c9ac53fe6f8cded78899d72f01e4f
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue31|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MjEsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiMWQ5MDk4MGU0N2ZiYzA3YjQwMGJmYjllZGExN2YyNjktN2IzOTVmN2VmMzVkMzFlOGU0ZmUtMiJ9.nMaU7DvrE-C0w31Nn9jIX9XIgyOUDQH623NnfiSRbfo
+#KODIPROP:inputstream.adaptive.license_key=6a0b185e323afd90d3cdd3cb1769af10:a94777455e1c86cb83f898abc5360352
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue31
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E32
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=bbeaab26580953dba27d2a72d80aaec9:114d5c747e92a012cce8ee4417e386ce
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue32|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MjIsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiZmRlMDU0MGY4ZmQxYzEwMzFlNmRkNmI4NjU5OTk1NzktOWRlZGI5YzcxZDg5OTZmZDI5MmEtMSJ9.DvlP224mGosz8fpsLj2EaPBpOzZQPBGeQ6K9PfsFJ78
+#KODIPROP:inputstream.adaptive.license_key=7634f00a5e945754c35f1ad009b9b410:94e9e1b3d10086e65cf8584cfb6ae31c
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue32
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E33
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=221f7d9813b753aabd0a7f94da08af50:8f0b70ddcaa61a94f3575ac45e0fe5d4
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue33|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MjIsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNmI1NDIyYTI4YmYwY2E5ZjFmMTVkZTc0YTIzODI1YzQtYzJkZTVkNjhlOTEzMDcyZDUxNzQtMiJ9.Vg1GZ_akty5LmU5G8YYue4Lxy9Vmgi-W2D_zo0OVsCQ
+#KODIPROP:inputstream.adaptive.license_key=8b666f1c0d68f45f3b43641f998b8610:41f1715405f74bef5c50d817fe7d04df
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue33
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E34
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=0c1868d6c7c455f9a358d0d6ba6d87d4:f5e8c483ec626ff459b6afcd85433a9d
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue34|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MjMsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiYjQ0MDEwNjMzOWRjMjJkNTBhNWRlNDljMGE2Y2VmMjEtOGE3ZGJkMDhlZGZjNDU0MWEzOGItMSJ9.mM_3ljmFTwBm2MZSKoT0_MkTNKXe_2EjpaKuALatAVU
+#KODIPROP:inputstream.adaptive.license_key=2a9b78799941f3339253d48aaa377810:3cc466050e21d6cd5e64ac34f5b2da74
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue34
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E35
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=4fabed1df2ee567782ebbacd8d3c4769:807bf2b4f21b27757779d75c9b97874a
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue35|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MjMsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNDIzOTc0OTQ0OWFiZWJmMjU1Mzg3NGFjMTBjNDkxOTUtNGUzOGVlZmY2YzVmYzQ5MjNmMmUtMSJ9.QahYNMZ7qmMUjtaIUCwMUFAYuwuc2YJnXaJnODkARi0
+#KODIPROP:inputstream.adaptive.license_key=496b709ec825aafba6e14007a910e410:b295bcc1a3257c5fcf4d496a754cc541
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue35
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=8346534574bc58f8a1365fd3f119aed4:c985e3e6c6e23845d398bc951da952f8
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue36|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MjMsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiZDdkMTE2NTI2OTE4ODMxNGFkNjY1ZWMwN2ViYmUzMjEtOGE2NmU1NzFhYWFhNDg0OTgxNWItMyJ9.gqD81S54n-l3Ts2byBH0HjtlrvKu4v-_ngfoz6zHwus
+#KODIPROP:inputstream.adaptive.license_key=ebc7fd3e170b634f5b06671dd2574210:67147137d082808bd7fe249fff880580
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue36
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E37
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=b7c418f751c25927acf011eca2654eb6:8c2fd658201b372a28841fdf3ee0e7f7
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue37|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MjQsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiODM4YzQxYWVkMzM1Y2MxM2QzNTRmMDk0NWYzODY0NmEtZGI2Y2JhMTNhMTZmMjliNjk1NmUtMSJ9.Dfquow7oxKAOFro2JQIw-cThoxpop7pcNrKzdZqT-0E
+#KODIPROP:inputstream.adaptive.license_key=9ba2beac53ec7e72493222385771ee10:11896edb995186846bd76f3d35c6b764
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue37
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E38
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=86bd191ce89650f4800ac74d59126d76:1eeb1819f01a740e4c84d73471a74642
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue38|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MjQsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTMxNmYyZGUwOTU1MTE2NDY3Mjc4ZWJmOWRiOTYyMDMtZjIzYjgxNDBjMGJmNGE1NTliMTItMSJ9.E_cg5nVYPctwCCILoty6jk7L1QkJ8Tf64OPiMojGpmU
+#KODIPROP:inputstream.adaptive.license_key=ebe2fd4d05684c23797e3b643cd31810:35dbd1a5fd107dd43e0d8413bdfe38a4
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue38
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E39
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=186995602ea95a5eb6f7377353ba364b:243e10526b49f548629e38ec3f25906f
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue39|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MjQsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNTkyNzExYzI5ZjA3NzFjN2ZhZDkyZjQ3ODIyMDRhM2MtOGYwOWE0OGIyYzE2ZWMxZjFkN2ItMSJ9.F21na4jo94ayz2MyW_XG78_kHwKM8yvyGrWnRoKHVXc
+#KODIPROP:inputstream.adaptive.license_key=a2ed1a28d234da48edca65c5514a2310:4fe778a1fcfb9955814009d44dc2ecb6
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue39
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E40
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=652c754d62a2510aa4df6778932c42a0:d515138ef719d2516013034d80af1169
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue40|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MjUsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiYmYyYmJkYzFmYTA3YjkwNWI2ZTJhOWMyZDFjNDRmZWEtNzlkZmE4MzYxYWU3NjBiNWUxM2EtMSJ9.__uHnrPI_5iYEJ5ycuSEQ4wHWSFWpz8mQWMAHYfjebg
+#KODIPROP:inputstream.adaptive.license_key=6f9f5d397b8189a35024000db6447d10:22b03fddb4546697754774bb4e21a9d3
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue40
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E41
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=769b2455a13e5e90b11f6d20dc8a4dd6:5da05b2c79e9dc7cbb78b0cd84f911a5
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue41|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MjUsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiODcwMzMxYWMxMDBiZTZiNDQyNDFhMzU2NTI1ZmQ0ZWMtZDMyYzI1MmY0ODZkMjhjMjhiMGUtMSJ9.EdCU_5r4wRcvucP30bvqd_4fz7VPS417DyKy5FH99v0
+#KODIPROP:inputstream.adaptive.license_key=8951a5344090adbafb4c5da15db44e10:3df09b7e2a80971ee287145a3546af31
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E42
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=191b0876859c522b8c5dcbf87e48a6da:81ad857a6659ea96bfb622ffa1fb9306
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue42|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MjYsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiYWMyMTMyNDVlOWE3N2QyZTJmZDBhMmI0MzgxMmY2ZjItOWE0YTc3OWI1MDZiYWYxMmNjOWEtMSJ9._znVKl691trLczom3EeU4asyxPi7_XGoIJlTaHrS6Uc
+#KODIPROP:inputstream.adaptive.license_key=597ee983192e8dec62b87c0abb867b10:e3768b8fe8127f7bba5a1f4a5ea79bb9
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue42
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E43
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=3e703cc0c843583f892118a007f5d5a7:91f5c117ff6ff46785ac218b9dbb94b9
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue43|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MjYsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiNzdhOWNiNmRjZTFkOTlkYmVhZTc5MGNkMmNkYmQxMmEtYTU2ZWFkMmEwMmQ4N2I3YWJkMzgtMSJ9.JTajhUzuNW-HAHpCr5yDb9u74DfmEnXn6PpqSaiVSVc
+#KODIPROP:inputstream.adaptive.license_key=567935d1a7b498de385ac91c315b7f10:bcb56ec365c77c79f9b1ac19df7049eb
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue43
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E44
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=f2f52bc2744c50269747392e11945d4b:91d86f84b73c4a91dc74012ef9bb0755
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue44|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MjYsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiZGVmNWY0YmJmNTdhZTAzMDBmZjYyZDExNDg0NjFhZDctZjMzNGIyZDkzNTg2MmYyNDY5MTgtMSJ9.GDO11dxbfgJUoqHxbm7J6ETWn2ai3Xxtm8HHIYfrHHc
+#KODIPROP:inputstream.adaptive.license_key=7d009c72d6e8479d7f725765c36ab910:fcd6867d1d133feae99ae7c348bec78b
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue44
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E45
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_key=cf9c1ad5c3dd5b4c89afd82dbea5588d:802d64bc61c18d690dfd91de683efb73
-https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue45|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NTIyNzU5MjcsImlzcyI6IlZSIiwiZXhwIjoxNzUyMzU5NDAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNjgzNTc4MTctNzJkNy00ODBhLTliZmItNTYxOTliOGNiNGY1IiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9NDgwKXx8KHR5cGU9PVwiYXVkaW9cIiYmZm91ckNDIT1cImFjLTNcIil8fCh0eXBlIT1cInZpZGVvXCImJnR5cGUhPVwiYXVkaW9cIikiLCJwYXR0ZXJuIjoiYmRhYzIwYjAwOGNmMTJlMzVlMzhmYTE3MjkxYjM4NmEtMTVkZTcxZDI5MjdiNDEwNTE5OGQtMSJ9.L1Rdtykp8jGdHRwJ9Cz6AusXKS8OXo6-MUVxYNEhpio
+#KODIPROP:inputstream.adaptive.license_key=5b537f409a776b9acbd98c9aee499210:560919c47e5e742119d429e58775b043
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue45
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E46
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=087894db693260bff228e6e2d32ee510:94411c2e1be79deaaf2857ea26509885
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue46
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue46
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E47
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=3f1cf93b6cc079a4e6c464116ff57110:880caf167fbc3008dacb57a8c1f35e3a
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue47
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue47
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E48
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=3497f4f6b5d23f34d694b006de272b10:ff3eecf888932d7fc4539d25cf9d52c3
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue48
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue48
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E49
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2917e6c84f21f381da971775642f6410:64eba9e1329b8e1f6a33bf25d573fd1d
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue49
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue49
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E50
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=efc06da7c191c92497755cd278cc6310:f502963152318ae76aa5ae6f9f7c07ae
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue50
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue50
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E51
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=51a5c1e6d02ec97ebeb7463874f4c610:f88d0e5eadf2668b89337d50d4f27617
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue51
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue51
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E52
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=6079a37845556de69c369795fa25a510:8f8197d64a60da716cf8c23f8591e71b
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue52
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue52
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQNST_series_p_IVP_PORT_390x585_829D5_202553_133458.jpg" group-title="● Astro Series",94-Dia Imamku S01 E53
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=8d9c146658d6a30e6184d114da1e7f10:eac37519949c54dee1023fab9c05b851
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue53
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=dimamkue53
+
+
 
 #############First Wives ###################
 
@@ -3021,49 +3116,49 @@ https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&c
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a36fe0a7c069d25db4c4e662f8f6e210:a31bf3567cf87a360e11776d1e3d7419
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=FirstWifesE1
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=FirstWifesE1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPVTI_series_p_IVP_PORT_390x585_84A8D_2025411_93952.jpg" group-title="● Astro Series",95-First Wives S01 E2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2113ac5e579b24229c54adb9183e5010:a19fd216fdc32a6cee6be92f3a1054ae
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=FirstWifesE2
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=FirstWifesE2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPVTI_series_p_IVP_PORT_390x585_84A8D_2025411_93952.jpg" group-title="● Astro Series",95-First Wives S01 E3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=fc6bfb5009c8e790251591f84389b210:b36f8b5ec7791ae5e6f12a01cb4b0ac7
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=FirstWifesE3
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=FirstWifesE3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPVTI_series_p_IVP_PORT_390x585_84A8D_2025411_93952.jpg" group-title="● Astro Series",95-First Wives S01 E4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=6b182bec49f771cd86ab5c3305f83610:6e331704504de065903bf5f562bffadd
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=FirstWifesE4
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=FirstWifesE4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPVTI_series_p_IVP_PORT_390x585_84A8D_2025411_93952.jpg" group-title="● Astro Series",95-First Wives S01 E5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=e45d1a11244f2edee633ca84422b8910:bf4bd2675bae5d46dcca12de89c95713
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=FirstWifesE5
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=FirstWifesE5
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPVTI_series_p_IVP_PORT_390x585_84A8D_2025411_93952.jpg" group-title="● Astro Series",95-First Wives S01 E6
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=14bc2615c36b6d7f888c11d18d18f410:0bfb59a9494be180d9d091803a773978
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=FirstWifesE6
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=FirstWifesE6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPVTI_series_p_IVP_PORT_390x585_84A8D_2025411_93952.jpg" group-title="● Astro Series",95-First Wives S01 E7
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=8c6602df2db496ddfe5a8d8e75051210:ba12317e369bed49aee7dafcd9274350
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=FirstWifesE7
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=FirstWifesE7
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KPVTI_series_p_IVP_PORT_390x585_84A8D_2025411_93952.jpg" group-title="● Astro Series",95-First Wives S01 E8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=841725eacbc0226761d7816b63ff6710:274166919e06e73213a93bbe439fa19a
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=FirstWifesE8
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=FirstWifesE8
 
 #############Seribu Tahun ###################
 
@@ -3180,37 +3275,37 @@ https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=81d644fb63d40d700b04805c6074b910:70e9a286db77688da70e7c46163cc5b0
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=seributahunE19
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=seributahunE19
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQSNX_series_p_IVP_PORT_390x585_83210_2025317_13936.jpg" group-title="● Astro Series",96-Seribu Tahun S01E20
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=05baa2b5af3f2d0b8951faf1c73dd110:48d82914f4239a8ca787a65041f8cd55
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=seributahunE20
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=seributahunE20
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQSNX_series_p_IVP_PORT_390x585_83210_2025317_13936.jpg" group-title="● Astro Series",96-Seribu Tahun S01E21
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=e975cb4dde56c5b582267509429fbf10:9ab41b81e0fa6f27d584d0a03f1c4955
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=seributahunE21
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=seributahunE21
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQSNX_series_p_IVP_PORT_390x585_83210_2025317_13936.jpg" group-title="● Astro Series",96-Seribu Tahun S01E22
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ecd01d0bfd23eee797c169b7e98d8110:d56c987b1d7bc5d7fdaec9d363db053c
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=seributahunE22
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=seributahunE22
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQSNX_series_p_IVP_PORT_390x585_83210_2025317_13936.jpg" group-title="● Astro Series",96-Seribu Tahun S01E23
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=cbe3744ba1857fa4af0fc2dad9ca9a10:72431bc0a43faa0533dc780fd8b64ee2
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=seributahunE23
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=seributahunE23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KQSNX_series_p_IVP_PORT_390x585_83210_2025317_13936.jpg" group-title="● Astro Series",96-Seribu Tahun S01E24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=caadfcdd5f73d4775fe871a4445bec10:917cad2195d78a097b6a387d3cb24ba0
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=seributahunE24
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=seributahunE24
 
 #############Dendam Seorang Madu ###################
 
@@ -3429,7 +3524,7 @@ https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=1fc742b99ca8625b59f083b7405aad10:a2f7ef9d4ca05c35a3b2345e538b20fa
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe36
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe36
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRDTL_series_p_IVP_PORT_390x585_8321B_2025228_17951.jpg" group-title="● Astro Series",97-Dendam Seorang Madu S01E37
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3485,76 +3580,80 @@ https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=5ab6ef95e74826974bafb4e6f7488610:eaafc19a15878cbd5d7f406c7b5b10ba
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe45
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe45
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRDTL_series_p_IVP_PORT_390x585_8321B_2025228_17951.jpg" group-title="● Astro Series",97-Dendam Seorang Madu S01E46
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=cc60cd0707ac2d8bae6df93aab101410:c28ba79e7ce966453348cb65aa10785d
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe46
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe46
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRDTL_series_p_IVP_PORT_390x585_8321B_2025228_17951.jpg" group-title="● Astro Series",97-Dendam Seorang Madu S01E47
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=cd72ae4f1ef6d4b25cff227b154c2810:6de33c4335425bd2572dfdf81b8138a0
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe47
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe47
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRDTL_series_p_IVP_PORT_390x585_8321B_2025228_17951.jpg" group-title="● Astro Series",97-Dendam Seorang Madu S01E48
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c5d5ee9e78216286d50a08bd70b92d10:2dd073e51ade1fd54016c9938e3f4fed
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe48
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe48
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRDTL_series_p_IVP_PORT_390x585_8321B_2025228_17951.jpg" group-title="● Astro Series",97-Dendam Seorang Madu S01E49
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=b62d9198b1e5cd2bc961a1e2732f5a10:a56843736b82badf253ab990bc34076b
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe49
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe49
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRDTL_series_p_IVP_PORT_390x585_8321B_2025228_17951.jpg" group-title="● Astro Series",97-Dendam Seorang Madu S01E50
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=73b425b7cc16c332cc824cf692e07310:fa9e0ead92ac25f859a9a34cd5dd9f2a
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe50
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe50
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRDTL_series_p_IVP_PORT_390x585_8321B_2025228_17951.jpg" group-title="● Astro Series",97-Dendam Seorang Madu S01E51
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=79bc5c1fea2fd22def12eef8a035d810:8614a1442f5102142565698999baa2a7
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe51
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe51
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRDTL_series_p_IVP_PORT_390x585_8321B_2025228_17951.jpg" group-title="● Astro Series",97-Dendam Seorang Madu S01E52
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=24566117891135d8d28a4d1511991410:a06e4fc6b8f9f4f5d979f6efe38a4f9c
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe52
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe52
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRDTL_series_p_IVP_PORT_390x585_8321B_2025228_17951.jpg" group-title="● Astro Series",97-Dendam Seorang Madu S01E53
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=07b7d8f13495e7a7a23179ade2c74e10:ca813c2f48560010c7bbbcfd99b90457
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe53
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe53
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRDTL_series_p_IVP_PORT_390x585_8321B_2025228_17951.jpg" group-title="● Astro Series",97-Dendam Seorang Madu S01E54
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ff8e4c8de22c51707838d2141d1bb410:6de52f1a80c6030af09699734e316b50
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe54
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe54
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KRDTL_series_p_IVP_PORT_390x585_8321B_2025228_17951.jpg" group-title="● Astro Series",97-Dendam Seorang Madu S01E55
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=72656590e4f115bc909f41723b32b610:fd2766c646245517eb5bc5c6db26298d
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe55
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSMe55
 
 #============ ● Zona Merah ========================================
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/YX8LZ-lN5gBsWZH49-MaVxuTTXc=/288x416/filters:quality(70)/vidio-media-production/uploads/image/source/15500/9bf88a.jpg" group-title="● Zona Merah", EP01
-https://get.perfecttv.net/get_vidio.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=8407514
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1928c9603b47a438b7bcbd9ea860b3a8:e1fa15cf94c2b2dc6cb62e411b042692
+#https://get.perfecttv.net/get_vidio.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=8407514
+https://get.perfecttv.net/get_vidio.mpd?username=vip_3klp0es8&password=wg3piwEs&video_id=8407514
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://thumbor.prod.vidiocdn.com/YX8LZ-lN5gBsWZH49-MaVxuTTXc=/288x416/filters:quality(70)/vidio-media-production/uploads/image/source/15500/9bf88a.jpg" group-title="● Zona Merah", EP02
 #KODIPROP:inputstream=inputstream.adaptive
@@ -3908,398 +4007,398 @@ https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a58db46151091a2c54fb2215f304ea10:0031d5a535ead6db444998e0a3ce296b
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse1
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse1
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E02
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d7047a4318e6f3b746bb043f9ada6010:72db61378f2fe8aec5588b11422ac723
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse2
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse2
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E03
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=92808e8c50354c81aa3c29bc9221df10:07470a1accff738fbf8f6ee675cb3ef2
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse3
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse3
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E04
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=bb983b0b6567fee9dfb92e30a0476d10:8d18271cbb520bf9521baf89eb10e95a
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse4
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse4
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E05
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a1f0d15eb5a296fddab4fdd2445da110:2ab50d50c888dbf1db97a27886fd1e1c
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse5
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse5
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E06
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=1aa4bc32d30e85c90243b416af455610:9e5b2360318f056e80ac1f8b8d8e83f9
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse6
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse6
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E07
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=94a4d8c2b6b4d2f3a23c7f8805734e10:3a7f3b3aa3741522520ec3354ed6a3b2
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse7
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse7
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E08
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=75f555b622e7ebf52f2c768701237f10:b002065f811980d73323935adf37cf3b
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse8
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse8
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E09
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2696cff2c80d7205626b190dc0550b10:f1970462b5cedb2e8855e0b7c711ee3f
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse9
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse9
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E10
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=f4b9a4bdabc80f07e6bff367a1207d10:dc0e9390a59fc44ff480a9bbebd2efc2
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse10
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse10
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E11
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=869a47e171e95071f9f4c419da066710:36755ddd5dd4313caafee3ca18920f9d
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse11
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse11
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E12
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=7218aa530bc775629227e8b4c86c2010:868b128da94b0bbd86b5d28b1b5534b5
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse12
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse12
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E13
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=6e48129a6185211c4590d392153b1e10:4a407c2101f0385ebd3058f8502ce33f
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse13
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse13
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E14
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c8a90cd5eafe85a918ecd42ec8883710:28be74e0eaae46c506932db857378827
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse14
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse14
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E15
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=b0c27800ec1c72b017770b9b7f2b0410:39e1dde638b4c153d7e315d323024822
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse15
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse15
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E16
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=61f983a228bda71ed66407be82ad5810:a9b3af231b5839b34b6fc7082370c418
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse16
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse16
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E17
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a8610a4a31b59a7f172b514dc9680c10:9d07a807a6ffe68255582fafcac57c1d
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse17
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse17
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E18
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2f5dbf2505680c6b1d28d3db54ae8110:f5d9c81b61edc1e1d8c8c3f0efbd54a3
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse18
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse18
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E19
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=6b47f571f965b90fb5c05ff45351f410:7ec2407294689f6f5892737503712cff
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse19
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse19
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E20
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ecb5f27801a6acd6a1811d807f7e2610:867e7ee7c0f56788679364ddf224fb53
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse20
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse20
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E21
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2547c95aecdfe1967424db4f91342310:12d163be292286972e32d3335bc1c85e
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse21
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse21
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E22
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=6ff2854d29499b89f198633cf2754610:7d2747a67da1ff0f9b7add68a17f6c3e
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse22
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse22
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E23
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a6fdb485cf26742147b77d7db7d3de10:527f8c0e2cc990c2fc62b3dfe6095641
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse23
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse23
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=f0f539eb7548a8f7be529f918e360310:b96e1a62ec60ae6c98e2e361c98f4f84
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse24
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse24
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E25
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d5b468f159d526421ccfb9a8c38bb810:5e3ed49c10a15b901e11cdb2e32d0dd3
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse25
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse25
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E26
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=f5f017fbdbafd706210b73a96be34010:8e6da1f51c6995c4172dd24fe3ff30bb
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse26
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse26
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E27
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=074ba3fd6c68e156672d4cecc383ed10:59b44b2a4a7c63b5a4b7e903b31f85a9
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse27
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse27
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E28
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=49d79b1e3cb4885b1c3e367307923d10:4a3d392bcf7e6bda09534e26ba96f723
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse28
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse28
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E29
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=b08fdaf9e1ea1129b6530d2abf17ca10:160c8ecdc0dfa5f201df608fe669be16
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse29
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse29
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E30
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=7114f3a4d92c91342ef517666d74ad10:997e1ee1063d93adc060792df123bdd3
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse30
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse30
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E31
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=54fb85a5be42d879e0cf12604e369d10:8396af1a6e3cef5df3bbc68e4a68a138
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse31
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse31
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E32
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=49d1399f6f5dc161d3c168e4d6ea1b10:26a0eb123dbb0b098b21a8286c58b9f8
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse32
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse32
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E33
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c74262b3de3ae12e68dda9e11c35f410:43c1e8c2268833d2890af792776998fb
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse33
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse33
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E34
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=f97e535b224869ad1363d52bcc6d0010:d9795e98ffdfdcf33b5d23d6b8d71823
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse34
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse34
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E35
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=9382d86bfbbe687770d310158625ca10:ce9b94c01753402802cfabb6f9e5d5ae
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse35
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse35
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=95cb6748ed72156d1265bf0c8c314a10:6468fbe2e987a3806a72c72666ff9653
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse36
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse36
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E37
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=02b6338eb49b49e90740c0792eab4610:ceb5a38612f58b54ac0c85ea7e462a00
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse37
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse37
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E38
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d0c56cb3b1e7592c1a84f88fc657cf10:97b2918e4e8f0943b0a3575838b281dc
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse38
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse38
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E39
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=75a3dca6b19f59f90777152b7468b010:1972fec87c427d4f75e99007ba3e6f0a
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse39
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse39
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E40
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=7be3668d1d7ffc0f482acfde3852bd10:aaa1c20e3114929b4fa4928bddc91e4e
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse40
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse40
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E41
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=65bf0532e3eebcd9ca6dcf6f6f72e110:2f7dbd437b02654cfde1d407a5da798e
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse41
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse41
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E42
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=9a50fc43c5c6ebcafbcda57e4ee41310:8cca779280b4bdf6b443b442bc711d26
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse42
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse42
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E43
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=add20e6bcbf8ec5e59cd4ae2356ef110:f1a5d4faff659b6d550c19c1b821f98d
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse43
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse43
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E44
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=21b9cfc35e025a3962aaa5daac1af910:c8dcf7cbdb2e27f6e2937e2f6d4ab4a8
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse44
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse44
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E45
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=7595eaab4277f3aebc2e8c57ade34810:72d6b4ab60d0c655af45f45eab8729be
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse45
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse45
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E46
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=52e35a6d941ace8d764ccf83046f2f10:2cb483ce109d0a14b137f35ec7bbc2f1
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse46
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse46
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E47
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=77884db7b4295f4b6d7e7ae9f41e3810:13cd6ccae85c3a6896bc00fd70bfc6cd
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse47
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse47
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E48
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=406d2707454fe4c09fae7edd3d729c10:7f1560a1c668e2e15ea99a6ec2243ef3
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse48
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse48
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E49
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=8b77fc3f5d9406d545cfa8d9b8ce0010:48bf30aafd00508b92543ad8e0696847
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse49
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse49
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E50
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=cea6664a337a1bf7e684940735b4ee10:c2b19237b3fab42dcba1219d728b7a1a
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse50
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse50
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E51
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=9868b9b198a468ffbf7f5b4db5b9c410:2ef165ab437ee351ea2684655d9ac526
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse51
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse51
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E52
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2e1075fb28fbd90cc468efc34d722d10:7eaee0363dc8c79296f87d981530ace0
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse52
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse52
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E53
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=3160f2fcbff0ecc40416e4b972df3110:d3990fd7bb42123343f32ad99dad1758
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse53
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse53
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E54
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=b5b176a1c8cdb7af8d40406145d16d10:42ff23cb64ff160059e8e835b275c2f4
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse54
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse54
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E55
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ef6d019ac12bba8b15e1a5681ae54010:92b7958d1c5336e188aaf30a4c04c067
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse55
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse55
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E56
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d7ade5ced24740034cdb2d33d9490610:7c416a85fe3d9d36200ac2ac745ada27
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse56
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse56
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E57
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=e22971e5aa72aa572a3dbe5fe774f110:a4920757281cc0912826040529a71630
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse57
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse57
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E58
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a64dc2e2100635ad454750d05d9eef10:5d12e24556d6f99612da252bad3052f0
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse58
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse58
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E59
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=3a6cc60417ea2429281301cab026ac10:81e9eba99a7788e6ab89ee7c365c673c
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse59
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse59
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E60
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2bda93d2f6d4c6321793002eea658110:7a4f5bd2959c93373cebe983b5d74852
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse60
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse60
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E61
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=858e8fe4f32149e8ad357bb45a9d7910:c3adbf5c775504f015ef7cf9de628592
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse61
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse61
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E62
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=0629379e1193838177c50dd9de660010:d6572815b42a55836c207957492da11c
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse62
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse62
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E63
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=7b08765418dce7b24f601a35dc3d7910:ad0d2ef4d68e911f1524c15616e399bf
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse63
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse63
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E64
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=269028c7c5191201db98b6520ce8c710:d3f976aaefae9825d5b44c8db97f60d6
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse64
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse64
 
 #EXTINF:-1 tvg-id="" tvg-name="Berbahagi Suami S01 E01" tvg-logo="https://get.perfecttv.net/logo/bbs_port2.jpg" group-title="● Astro Series",99-Berbahagi Suami S01 E65
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=38217aa251bf756ff5909f60e87e5810:8953d85123bbdeb1316e67230044e670
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse65
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bbse65
 
 
 ################# Legend Chinese ##########################
 #EXTINF:-1 tvg-id="" ch-number="601" tvg-name="" tvg-logo="" group-title="▶ Old Chinese", test
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-https://get.perfecttv.net/okayru.m3u8?id=10659654404815
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105173/ZeeBollywoodELE/master.m3u8?hdnea=st=1755858237~exp=1755858537~acl=*~id=b78a49a3-1cde-4a72-828f-cc9f7dedeb9b~hmac=d17b86e161fabbace1d296ce3ad0d15399346da444181b40feb14812c6be95f1&originpath=/linear/hls/pb/event/3gXj7FiqRc26Ym2hrLc_fQ/stream/18ac144e-b986-40c9-9426-986bf7634cc3:SIN2/master.m3u8
 
 #EXTINF:-1 tvg-id="" ch-number="601" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ZmMzY5NzUtYzIyZi00NWMxLWJjNDItY2JkM2VhNzk3NDFiXkEyXkFqcGc@._V1_.jpg" group-title="▶ Old Chinese", 974
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -6464,7 +6563,7 @@ https://get.perfecttv.net
 
 ############# Seadanya Kita ######################3
 
-#EXTINF:-1 tvg-id="Seadanya Kita" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/seandainyakita.jpg" group-title="● Series VIU", 95-Ep01 Seadanya Kita
+#EXTINF:-1 tvg-id="Seadanya Kita" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/seadanyakita.jpg" group-title="● Series VIU", 95-Ep01 Seadanya Kita
 https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166254549&quality=s240p&product_id=2649517&lang=ms
 
 #EXTINF:-1 tvg-id="Seadanya Kita" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166255418/1166256712/ca98e9a3621b470fc29cc467a88d10a2092418b7" group-title="● Series VIU", 95-Ep02 Seadanya Kita
@@ -6475,6 +6574,12 @@ https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&v
 
 #EXTINF:-1 tvg-id="Seadanya Kita" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166256145/1166256854/10fabb13dc41102d3c0e54598a3437b773dfe8d7" group-title="● Series VIU", 95-Ep04 Seadanya Kita
 https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166256145&quality=s240p&product_id=2656923&lang=ms
+
+#EXTINF:-1 tvg-id="Seadanya Kita" tvg-name="" tvg-logo="https://prod-images.viu.com/clip_asset_v6/1166256852/1166258128/b0917b4791dd25ae9bfc9c452dff9c819bbb7f55" group-title="● Series VIU", 95-Ep05 Seadanya Kita
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166256852&quality=s240p&product_id=2659785&lang=ms
+
+#EXTINF:-1 tvg-id="Seadanya Kita" tvg-name="" tvg-logo="https://prod-images.viu.com/866059172/b4f197e670570b88207d56da0337eb04b1b95b09" group-title="● Series VIU", 95-Ep06 Seadanya Kita
+https://get.perfecttv.net/get_viu.m3u8?username=vip_3klp0es8&password=wg3piwEs&video_id=1166256689&quality=s240p&product_id=2659297&lang=ms
 
 
 ############# Mitos Cinta Akira ######################3
@@ -7742,7 +7847,7 @@ https://get.perfecttv.net/720.mpd?username=vip_3klp0es8&password=wg3piwEs&channe
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb898784f3061de10f1e6e1d5209a110:a7aaa93eca00b850c2bec1984a0bc9c6
-https://get.perfecttv.net/xtro_vod.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9231
+https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=9231
 
 #EXTINF:-1 tvg-id="" ch-number="9232" tvg-name="" group-title="▶ VOD SOOKA" group-logo="" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/2457a0ITAOV_p.jpg", 9232 Polis Evo 2
 #KODIPROP:inputstream=inputstream.adaptive
