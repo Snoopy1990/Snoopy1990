@@ -9691,127 +9691,148 @@ https://get.perfecttv.net/okayru.m3u8?id=10629702748879
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6450879
-https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450879|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450879
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6449221%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=960" group-title="▶ VOD TONTON", 57-Malay-Karak
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6449221
-https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6449221|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6449221
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6450968%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=960" group-title="▶ VOD TONTON", 58-Malay-Cinta
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6450968
-https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450968|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450968
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6450823%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=960" group-title="▶ VOD TONTON", 59-Malay-Rasukan Ablasa
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6450823
-https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450823|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450823
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6450967%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=960" group-title="▶ VOD TONTON", 60-Malay-Buli
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6450967
-https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450967|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450967
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6450818%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=960" group-title="▶ VOD TONTON", 61-Malay-Chow Kit
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6450818
-https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450818|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450818
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6449464%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=960" group-title="▶ VOD TONTON", 62-Malay-Hikayat Merong Mahawangsa
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6449464
-https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6449464|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6449464
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6449465%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=960" group-title="▶ VOD TONTON", 63-Malay-Ular
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6449465
-https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6449465|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6449465
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6450680%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=960" group-title="▶ VOD TONTON", 64-Malay-Showdown The Movie
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6450680
-https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450680|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450680
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6450678%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=960" group-title="▶ VOD TONTON", 65-Malay-Rock Bro
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6450678
-https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450678|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450678
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6450676%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=960" group-title="▶ VOD TONTON", 66-Malay-Love Supermoon
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6450676
-https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450676|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450676
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6450987%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=960" group-title="▶ VOD TONTON", 67-Malay-Perempuan Melayu Terakhir
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6450987
-https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450987|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450987
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6450824%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=960" group-title="▶ VOD TONTON", 68-Malay-Rock Ooo
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6450824
-https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450824|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450824
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6450817%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=960" group-title="▶ VOD TONTON", 69-Malay-Bisikan Syaitan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6450817
-https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450817|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450817
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6450977%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=960" group-title="▶ VOD TONTON", 70-Malay-Sepi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6450977
-https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450977|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450977
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6451030%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=960" group-title="▶ VOD TONTON", 71-Malay-Pecah
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6451030
-https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6451030|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6451030
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6450816%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=960" group-title="▶ VOD TONTON", 72-Malay-Balada Pencinta
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6450816
-https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450816|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450816
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6450677%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=960" group-title="▶ VOD TONTON", 73-Malay-Pekak
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6450677
-https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450677|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450677
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6450825%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=960" group-title="▶ VOD TONTON", 74-Malay-Sesuatu yang Tertinggal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6450825
-https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450825|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450825
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6450992%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=960" group-title="▶ VOD TONTON", 75-Malay-Senario xx
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6450992
-https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450992|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450992
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6450985%3A377%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=960" group-title="▶ VOD TONTON", 76-Malay-Senario Lang Buana
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6450985
-https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450985|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6450985
 
 #EXTINF:-1 tvg-id="" tvg-name="Old Guard 2 (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg" group-title="▶ VOD NETFLIX",998-Old Guard 2 (2025)
 https://get.perfecttv.net/okayru.mpd?id=10645922843343
