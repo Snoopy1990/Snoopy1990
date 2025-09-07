@@ -152,105 +152,123 @@ https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs
 #===========Seindah Hujan Cinta===============
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6552412%3A380%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● SERIES TONTON", 91-S1E01 Seindah Hujan Cinta 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 http://83.142.30.171:2192/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6552306
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6552412%3A380%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● SERIES TONTON", 91-S1E02 Seindah Hujan Cinta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/get_tonton2.m3u8?username=vip_3klp0es8&password=wg3piwEs&episode_id=6552307
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6552412%3A380%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● SERIES TONTON", 91-S1E03 Seindah Hujan Cinta
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6551724
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=6551724
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6552412%3A380%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● SERIES TONTON", 91-S1E04 Seindah Hujan Cinta
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6551749
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=6551749
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6552412%3A380%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● SERIES TONTON", 91-S1E05 Seindah Hujan Cinta
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6551762
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=6551762
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6552412%3A380%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● SERIES TONTON", 91-S1E06 Seindah Hujan Cinta
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6552544
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=6552544
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6552412%3A380%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● SERIES TONTON", 91-S1E07 Seindah Hujan Cinta
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6552545
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=6552545
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6552412%3A380%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● SERIES TONTON", 91-S1E08 Seindah Hujan Cinta
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6552546
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=6552546
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6552412%3A380%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● SERIES TONTON", 91-S1E09 Seindah Hujan Cinta
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6553042
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=6553042
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6552412%3A380%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● SERIES TONTON", 91-S1E10 Seindah Hujan Cinta
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6553043
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=6553043
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6552412%3A380%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● SERIES TONTON", 91-S1E11 Seindah Hujan Cinta
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6553566
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=6553566
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6552412%3A380%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● SERIES TONTON", 91-S1E12 Seindah Hujan Cinta
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6553399
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=6553399
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6552412%3A380%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● SERIES TONTON", 91-S1E13 Seindah Hujan Cinta
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6553400
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=6553400
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6552412%3A380%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● SERIES TONTON", 91-S1E14 Seindah Hujan Cinta
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6553949
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=6553949
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6552412%3A380%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● SERIES TONTON", 91-S1E15 Seindah Hujan Cinta
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6554016
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=6554016
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6552412%3A380%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● SERIES TONTON", 91-S1E16 Seindah Hujan Cinta
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6554019
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=6554019
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6552412%3A380%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● SERIES TONTON", 91-S1E17 Seindah Hujan Cinta
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/655026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=655026
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://headend-api.tonton.com.my/v210/imageHelper.php?id=6552412%3A380%3ASTILL%3APORTRAIT&iq=Wifi.1&plt=andr_tablet&appID=TONTON&w=906" group-title="● SERIES TONTON", 91-S1E18 Seindah Hujan Cinta
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://get.perfecttv.net/wvtonton/6555108
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/get_tonton.mpd?username=vip_3klp0es8&password=wg3piwEs&episode_id=6555108
 
 
