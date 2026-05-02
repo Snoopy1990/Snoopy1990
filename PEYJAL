@@ -4,14 +4,14 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2bb892fa91246b11d8522ea6bda28810:1bbd53511bdc9bf8d3b62b3780047572
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=IRUJABBARE01
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWQPN_SERIES_p_IVP_PORT_390x585_91AF6_2026420_10362.jpg" group-title="● Astro Series | Isteri Rahsia Ungku Jabbar",  E02
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=cdfc950bd32fa898ac063e7504d00110:dc0e643ac3a7f3833afe2315af44574f
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=IRUJABBARE02
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWQPN_SERIES_p_IVP_PORT_390x585_91AF6_2026420_10362.jpg" group-title="● Astro Series | Isteri Rahsia Ungku Jabbar",  E03
