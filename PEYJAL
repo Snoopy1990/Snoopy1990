@@ -472,150 +472,175 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=91623b4ef28d929f4fc6f6aef7425c10:fe4877012c9fc6b9a154ba59ed144606
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E02
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=22ef0f06ef6c6c2b3391939b4c4de810:bd7bffb71147c9b7b9719cbd9fd56381
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E03
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a6b9eb8c579aaa16f71ce7377d0eea10:b6388c5b8dfdd849e4798dd1ec6f8589
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E04
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=58529547760aec5fe632811d13e4c910:5fb7511a8fc010d49dfbb9388df7b26a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E05
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=379bdc02a161a52e2456c676a0009f10:da39c522bf5227b852cc0039e9e9387a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe5
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E06
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=5a93f4d12615c4238a2cca5eae73e710:a6e1607cce85f2be900abc3a4b287a55
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E07
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=60eb2c6972149be4dd46afdb2f375d10:02f7f9bbf11da0e49493e9bcc30eaa07
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe7
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E08
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=74f7bd3b7c471f12687fc74bf88b4210:1a388017f2d06410f6e21792e555af7c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E09
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=98c498b1b6739b8ce501528454688c10:3f878db1358a132adcf2cc489404d4e3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe9
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E10
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=5f43d6293ed2baaeff2b4e49f9845d10:4096000b2f1fb5aa5c796a2b7788d05a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe10
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E11
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=41b2b12e3ccf0f2c29d2823bb57a9110:992217711cebbf5e340a8b409c6ddbb0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe11
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E12
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=b3ef898760d92e7505e9a3dcc609e210:77de50ad39f82da1ed3afedc98442727
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe12
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E13
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=7f551657eebee2f3efa88e8dcfa63710:c0a4db9dae388cdfb0c654acad7b263a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe13
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E14
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d955f28402103b3d8a38e91b3192cc10:3648a47e64c2d5ddfb0b93eb6f4f9697
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe14
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E15
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=661a1cdbbcd96b53baaa56190a39ae10:7ec31b9de58208ff8925be869a494211
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe15
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E16
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=0fb10a61e777af3757e1ebf9a696f810:eb685184f2bc8dae04a0f1b0d23f6294
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe16
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E17
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=36a5d882362d9ad78083a38a459d1b10:6d6cca4c1e2040a3496b5ea94bf0f3c7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe17
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E18
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2ca7b5c7aedb7e9ed47ca42055cf3710:d819f18ff55f52ee6bc71d66bd112b7a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe18
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E19
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c16dcf13686d58721d12e5760e1d6e10:9799c48293bbc28d80cfddd5206759b8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe19
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E20
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=dfb0997054ed7f3cce47c4a788462910:077a4ddd73dc0f3ec4c7d3119d301c2e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe20
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E21
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2971ccde82210d03d056c214bdd3c810:864e929f6e2051428bf45ac4809bd0a6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe21
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E22
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=4ad7de15b17d6550d3ee6a9adca5ca10:54c784750e513499488fde0282846106
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe22
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E23
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=346cef4eb3aff04892740839118bb710:d734fff3e633fbcc85212561741689d3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2e93071a9ad4ae21daca92f461349010:5228b25958cd8aa047fa98f125fd01d9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe24
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVTZW_series_p_IVP_PORT_390x585_8E753_2026130_194538.jpg" group-title="● Astro Series | Sujud Terakhir Encik Norman", Sujud Terakhir Encik Norman E25
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d4cf68e3b16cd58d6a7c0edd759f3f10:8269890ba063d8e4bfeebba7062143d5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=STENe25
 
 
@@ -625,12 +650,14 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=1c9a4949d58208334bc1d3a5e26fbd10:63d0fef505a54e5094164896d526436f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E02
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a8066878291a8be3fef9151bd61cd710:e2d85bd1d9ffcc1b4a35f9c99adcfc06
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e2
 
 
@@ -638,6 +665,7 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=374727a40872bc058a2a555906369910:709ede714a96842e22e267a2e6d30ccc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e3
 
 
@@ -645,24 +673,28 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=dc87c7b2496965e12c953ce2f99e3410:2484815e0ad75b10c8bd82a9ab9291d8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E05
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=9f61a6fdad5fdd12a95fc90971768a10:ed06430193f0d6721c55b79b033f9700
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e5
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E06
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=38f1f3d7af1aae6697654f530a69ef10:6972c57f00f52aaa0f2c3ba53ea01cb1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E07
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=eca1eb37eef9721a8e56431cf08b8910:fe497740873a0ccc849f5103c2dd132a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e7
 
 
@@ -670,60 +702,70 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=8e4bfe66131ad345453dd459fd083810:daf2ce2ef114f3c3fe47977e881a4010
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E09
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=40521ba686faff323e9e819bbdd42210:f587cc12c1a1411e7839944715e9a0c8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e9
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E10
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=6a40e8cb09fdac3bf7c13c767dfd7f10:3d64f0eabbbf092fce28b79fe351d11e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e10
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E11
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=54b296483e7887a8e16080bf6c5f8310:90d4998ca93727635dbfa0827dedd1f2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e11
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E12
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=1247ca665a3bbadd2a39baf13f34b510:129e1557a5f0f4bf3af10d49bc6a742d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e12
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E13
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d47875feae4dce3aa0b48285e5008210:29ce5742ef69a3517a36c6da8d94a043
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e13
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E14
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=5d5d89bda1e4a9e750bffc1a8d5ba110:4a67611f7e8862f7f006f922ca399331
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e14
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E15
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=3c979c56903ab7ba2d0d7c5c2eab4410:ac25214fa9307bae607a9808b3e256eb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e15
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E16
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=6b238248a828b8dcbd250caae49ad310:945b4d9fe8703cd182181dfe216060d9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e16
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E17
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2a9c7feb8ba6d44258db30662456ba10:eecb9ce9172dcb0761dc95ce290ef910
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e17
 
 
@@ -731,18 +773,21 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=66634fcbd155e0342ed152d816e33810:a22e47239643e6ae735e96849ce0f43f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e18
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E19
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a4ff27c92f4f74de38ee6db0049cb010:25260205a515245054aa2cea8782cbec
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e19
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E20
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=50e9e11a717a60e6f6c5cfa05b2f8710:184a4057409f931f84a282999dacb80e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e20
 
 
@@ -750,120 +795,140 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ed64170db8fff77e22322230c2270110:cd25f59aff480d700ab0876aaa7838ab
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e21
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E22
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d83461ee53a9e3e12fa466fad9aace10:47f4908a0ecb8a7911f39d6f0bb8a432
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e22
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E23
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=02f27894addd4b4e9cc95d71d3a85b10:7f15d863449a337cb176c96f2988068a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=27f7e3eb83765837581696ab4f252b10:45d5b4165f5a60dc4bd571b9898d1bba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e24
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E25
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=897319f398dffeca1aece7d9b41fe110:e3a680584c75e27dfff51d6eff7b73ab
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e25
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E26
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d63f92ae96629709ae6984aaae969a10:4277a8a7178c4890db9e3c52296a4498
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e26
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E27
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=0191d01f660495828ff20520a37ec410:1b450f7c747b9d4bfeab8f662c6d6fdd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e27
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E28
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2402c326aff04a4b56b3cfdf361afd10:0a1df6717ea14c4ec8da65ea401199c6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e28
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E29
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=cd5c88a494d8bbc0d95a50df0ebdf810:93989f67110c81540f9468d1762a24a7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e29
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E30
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=f042da2bb8fca7180cadec59b1498f10:8d97bb57a05930173e86c91348205e4c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e30
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E31
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=02fbed12d6c84bfc6c27caa7bdafcd10:157a266ba754a5ab96d96b915c4f84e0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e31
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E32
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=79acb667a3617c936aa8479e01d04d10:b48d61022ff847fb5f75a1917202c5ea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e32
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E33
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=3e8f7b77410d1dc7a383955e0eb42610:775d1a5f0bffb3248300451b46142f86
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e33
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E34
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=f4123d30440ae58896e276428d6c7410:f226f0e23fd4dd2808e90f537f8087b1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e34
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E35
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=33cc17543aaf90edc86bef7921b1ed10:85070c17851b21e6f9a11723f8ea830f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e35
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=78e2390ea35f38f4cf67ce63d98ec910:074e983476f83b3c81542c908a8863c0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e36
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E37
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=5fa2399385f94a22aa470fa27e5fef10:f720b2b27583082406f8ea0e0fcdd49c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e37
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E38
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=73d952cf3dc90755b0ec87cca9255c10:ac037a23e769507d684595b8bff1f477
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e38
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E39
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2b8a1ea5a6fef75fd0615d8c754a8e10:cab722d0f6a2e636faca83623c275083
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e39
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVNVP_series_p_IVP_PORT_390x585_8E775_202629_17929.jpg" group-title="● Astro Series | S2 Andai Itu Takdirnya", S2 Andai Itu Takdirnya, S2 Andai Itu Takdirnya E40
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ac242ee62ca01e23024c1ec7283d2d10:3bdb66b53186a7dc2bfde94e05318938
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=AITs2e40
 
 
@@ -878,6 +943,7 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=08555798a5ccd1582da49f7b4a8c5c10:6e557c05a28c3dd6a2c6ae5f666e4424
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE01
 
 
@@ -885,78 +951,91 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d82362ca0ff1d88bdb6f1b14f6a22110:9a6c45aaf403b1e5fd32657465f702f7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE02
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KUDWB_series_p_IVP_PORT_390x585_8A048_2025930_112444.jpg" group-title="● Astro Series | Mutiara Dalam Debuan Kabus",84-Mutiara Dalam Debuan Kabus S01 E03
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2bf05d1e6b078742c4574892ac8bf610:acddd1a2bc81b033d04d4e0c4be43325
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE03
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KUDWB_series_p_IVP_PORT_390x585_8A048_2025930_112444.jpg" group-title="● Astro Series | Mutiara Dalam Debuan Kabus",84-Mutiara Dalam Debuan Kabus S01 E04
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=6330b1276f3843f733da0b6e0a114210:07a6b5dc1a2ba986948b6239c8404f6b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE04
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KUDWB_series_p_IVP_PORT_390x585_8A048_2025930_112444.jpg" group-title="● Astro Series | Mutiara Dalam Debuan Kabus",84-Mutiara Dalam Debuan Kabus S01 E05
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=51a6107a79f6dfa9d052568488414b10:9e85720996fa51197b2850c22b1f9961
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE05
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KUDWB_series_p_IVP_PORT_390x585_8A048_2025930_112444.jpg" group-title="● Astro Series | Mutiara Dalam Debuan Kabus",84-Mutiara Dalam Debuan Kabus S01 E06
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=b96cedd5f61461b829eaaf005ab08710:91fdac1ee7708b2f7d63119f0470950c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE06
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KUDWB_series_p_IVP_PORT_390x585_8A048_2025930_112444.jpg" group-title="● Astro Series | Mutiara Dalam Debuan Kabus",84-Mutiara Dalam Debuan Kabus S01 E07
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=b021ae34d917111a73eff84f6cc99410:593ab587457054b04005e3a12c43a2f9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE07
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KUDWB_series_p_IVP_PORT_390x585_8A048_2025930_112444.jpg" group-title="● Astro Series | Mutiara Dalam Debuan Kabus",84-Mutiara Dalam Debuan Kabus S01 E08
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=e050083069d357a253e555714c09a310:690618fcd1c92fc066acfdf197fac60b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE08
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KUDWB_series_p_IVP_PORT_390x585_8A048_2025930_112444.jpg" group-title="● Astro Series | Mutiara Dalam Debuan Kabus",84-Mutiara Dalam Debuan Kabus S01 E09
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=3416668b385dddef8a60366dec0aeb10:d6cb77bf037897849689b4b395ca1450
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE09
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KUDWB_series_p_IVP_PORT_390x585_8A048_2025930_112444.jpg" group-title="● Astro Series | Mutiara Dalam Debuan Kabus",84-Mutiara Dalam Debuan Kabus S01 E10
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=06839ca4cd3ab3cee7a831ccbf6ab810:29a23884b7df1baa7738896403537dd9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE10
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KUDWB_series_p_IVP_PORT_390x585_8A048_2025930_112444.jpg" group-title="● Astro Series | Mutiara Dalam Debuan Kabus",84-Mutiara Dalam Debuan Kabus S01 E11
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a1f9362d4e0bbb58ae1f3cef5e115610:813cf7bccab6450c40c201b4c74a636d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE11
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KUDWB_series_p_IVP_PORT_390x585_8A048_2025930_112444.jpg" group-title="● Astro Series | Mutiara Dalam Debuan Kabus",84-Mutiara Dalam Debuan Kabus S01 E12
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=151b7ae8910733e7daa5c7b730ceaa10:16b49cb984dba35e3b9a94d3a8464351
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE12
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KUDWB_series_p_IVP_PORT_390x585_8A048_2025930_112444.jpg" group-title="● Astro Series | Mutiara Dalam Debuan Kabus",84-Mutiara Dalam Debuan Kabus S01 E13
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=f3f9f088d770e3783e046d8ddf1e2410:295331b9a9c4277f21be455c9cc87b69
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE13
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KUDWB_series_p_IVP_PORT_390x585_8A048_2025930_112444.jpg" group-title="● Astro Series | Mutiara Dalam Debuan Kabus",84-Mutiara Dalam Debuan Kabus S01 E14
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=0c90bba3d6eef92220aa5a0063188f10:0ddda20838d3ceb39519046d8741b6fb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE14
 
 
@@ -964,42 +1043,49 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=94da566f2861fdff487f8f15167a0210:5e81b7df88969a1aa7484037ee81be1b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE15
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KUDWB_series_p_IVP_PORT_390x585_8A048_2025930_112444.jpg" group-title="● Astro Series | Mutiara Dalam Debuan Kabus",84-Mutiara Dalam Debuan Kabus S01 E16
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=3d61e54f75678a088b9f63a376b80d10:f88cf2c66181e425e933d506bebfa0a3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE16
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KUDWB_series_p_IVP_PORT_390x585_8A048_2025930_112444.jpg" group-title="● Astro Series | Mutiara Dalam Debuan Kabus",84-Mutiara Dalam Debuan Kabus S01 E17
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=7096db3e72e01cac8de398b22dfc2810:9313c85e5463d3b03b7af22c16c2de1d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE17
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KUDWB_series_p_IVP_PORT_390x585_8A048_2025930_112444.jpg" group-title="● Astro Series | Mutiara Dalam Debuan Kabus",84-Mutiara Dalam Debuan Kabus S01 E18
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=8658740aeae40069de9834f2cf258410:c65d3c84274386f8d871741e8946a091
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE18
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KUDWB_series_p_IVP_PORT_390x585_8A048_2025930_112444.jpg" group-title="● Astro Series | Mutiara Dalam Debuan Kabus",84-Mutiara Dalam Debuan Kabus S01 E19
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=3adbf69c670bf8836caee3cc8749e310:b152fec6dad8d93e57174e440067ad98
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE19
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KUDWB_series_p_IVP_PORT_390x585_8A048_2025930_112444.jpg" group-title="● Astro Series | Mutiara Dalam Debuan Kabus",84-Mutiara Dalam Debuan Kabus S01 E20
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=b755325e20a2b7d0e0561d1e9d283c10:8ef14f816a7b211459aed662bdc05d84
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE20
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KUDWB_series_p_IVP_PORT_390x585_8A048_2025930_112444.jpg" group-title="● Astro Series | Mutiara Dalam Debuan Kabus",84-Mutiara Dalam Debuan Kabus S01 E21
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=63cf3345d22b8ea36634962794f65910:20e266553089d6476120301aa49e5423
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE21
 
 
@@ -1007,18 +1093,21 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=447c6d7c63f54fb589c3957785a51710:c276592c6e2d413dba7523e4032a71f2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE22
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KUDWB_series_p_IVP_PORT_390x585_8A048_2025930_112444.jpg" group-title="● Astro Series | Mutiara Dalam Debuan Kabus",84-Mutiara Dalam Debuan Kabus S01 E23
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ae6078e0ae3cb022fd1786c27478bd10:676ee03e90018207b25ed79cb193f393
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KUDWB_series_p_IVP_PORT_390x585_8A048_2025930_112444.jpg" group-title="● Astro Series | Mutiara Dalam Debuan Kabus",84-Mutiara Dalam Debuan Kabus S01 E24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=267124b29cb395a414acfb7e67606710:36e5bbefba2f6eb86af8dbc4da1effa6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MDDKabusE24
 
 
@@ -1028,120 +1117,140 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a60dccbcb20ee1a1a50a76ad84f3ea10:74015b3402ca75c13e7652d98e769618
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series | Rumah Tanpa Luka", Rumah Tanpa Luka S01 E02
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=15371254d9e7682196a7a2985af20810:0064c330db641726499ad429de1c3b98
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series | Rumah Tanpa Luka", Rumah Tanpa Luka S01 E03
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a64f6f983712630ba70ae3f6f1c2a210:975720b9280989d9efc80fd9be366f55
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series | Rumah Tanpa Luka", Rumah Tanpa Luka S01 E04
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=14d82c25b1de689906c9e45aa0648110:de7a23fb3d2bb2a1c21d089d834ed075
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series | Rumah Tanpa Luka", Rumah Tanpa Luka S01 E05
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=28723a176b14e514d56962d68d45b010:87fe454defe2a838de352f295ba5a1e0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE5
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series | Rumah Tanpa Luka", Rumah Tanpa Luka S01 E06
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=47ea733090f98f223f7ca907ced67b10:da4b68350f2d8030259d17cc2814aa3b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series | Rumah Tanpa Luka", Rumah Tanpa Luka S01 E07
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=8f7fb98141f665417fd672968c10ae10:2859e8283e290d613bcabd5d7846932a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE7
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series | Rumah Tanpa Luka", Rumah Tanpa Luka S01 E08
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d1121cecc133f31dd4092395b05d2d10:9ec4e3e9b5b3ca00c0cab94a206979db
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series | Rumah Tanpa Luka", Rumah Tanpa Luka S01 E09
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=49f70f93c6efb8c91f7c82087d7bc810:98a817076650a70d39495cafb56f3181
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE9
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series | Rumah Tanpa Luka", Rumah Tanpa Luka S01 E10
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=e888a8e0287e7342f19edbef34fe5610:f96069ed6f329af46be299be92fc7cff
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE10
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series | Rumah Tanpa Luka", Rumah Tanpa Luka S01 E11
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=5ad7335bb509a4497b51fb4602245b10:84b6ddc96e0ece73769cc4db09d3bf2e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE11
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series | Rumah Tanpa Luka", Rumah Tanpa Luka S01 E12
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=42e4596617847076df8eca82102e3310:2aa4df9be9bcd50ee1769b8f11f7c259
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE12
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series | Rumah Tanpa Luka", Rumah Tanpa Luka S01 E13
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2392320141af2805d0c15b8e6f905910:2b13c41d4266031622f62c3eb1f76d44
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE13
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series | Rumah Tanpa Luka", Rumah Tanpa Luka S01 E14
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d4d198979008963c89de70010759c410:b61c7f89fff28708aa373c251312779e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE14
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series | Rumah Tanpa Luka", Rumah Tanpa Luka S01 E15
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c2a6fcd1d46f9a3b60c3a39ed7a0b410:ca3f53179d4ce9e0f902fc7bb07ae60d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE15
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series | Rumah Tanpa Luka", Rumah Tanpa Luka S01 E16
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=5188fc2fea223f40a60d61327b7df810:53d5e157fce6d331ee8aee26ca28fbdb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE16
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series | Rumah Tanpa Luka", Rumah Tanpa Luka S01 E17
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ad7cb3c7ad5c9a976f3c57364fc47710:c5c16a9d742b04cc12cdc9717baf75cb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE17
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series | Rumah Tanpa Luka", Rumah Tanpa Luka S01 E18
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c264c9e8cf439b044494e5373f487f10:8de713478e901b625ad160f574b50a86
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE18
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series | Rumah Tanpa Luka", Rumah Tanpa Luka S01 E19
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=f419a030b5d0dae51706658c1906b410:7e69a14817ec01771026d67f89b3e93f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE19
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTJGB_series_p_IVP_PORT_390x585_88F05_202592_94431.jpg" group-title="● Astro Series | Rumah Tanpa Luka", Rumah Tanpa Luka S01 E20
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=64469830ec01eb8d7518fd7fdbec8210:645f6c450905bf1f7fc1a914036f5285
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=RTLukaE20
 
 ########### Kerana Seorang Lelaki ##################3
@@ -1150,60 +1259,70 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=0623e6c173e5ef0b972c4faaf117e510:371b552fa050c737a8f62e759b4c1a4e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E02
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=55d908b9987e62d06ebbe3214da5ab10:f6ec3c3d1a9f9d66e3f2129b57cc8911
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E03
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=9802755f3b434a7ba73b9a8ac6212910:6ed3cc1758f919c7a45696f77e6de889
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E04
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=40a0db82f781cac19ffeea57d91b6610:608926f70052ea7e4f28c0287b50a987
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E05
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=bbbd1f46948ab2441bb45ca1f6604710:4aeb17f63514d7d7007c663ef74cf7f0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE5
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E06
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d76171958b4f6598ebf86ca28ae7d410:8526aafd07b93bc20cc3dea64b98c061
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E07
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2f7164aad9538ce3f83c60d607f29a10:10e5bbd956859b98dc43390e6b5931ab
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE7
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E08
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=dbddd2f89d86f78a9ac4014428cf7110:7d2e707218446d6b6990baeb187e7d3d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E09
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=bdca77341008bb7b6f70938188da1a10:b66ed81e8279f9270752b8fc360885f2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE9
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E10
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=5f09072fa560af95530e8499404d4e10:e2b0a5138ab9595b1f5c58cdb8cc20e8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE10
 
 
@@ -1211,180 +1330,210 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=da0d8e5307146413f885dbbf40827810:f947220e78210c165c0c93fc3ed8b8b8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE11
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E12
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=55d908b9987e62d06ebbe3214da5ab10:f6ec3c3d1a9f9d66e3f2129b57cc8911
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE12
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E13
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=1af5d3d0aa3002a54cb2a528c683b010:456682c9965e8cc67be3fdc6f78bfbd9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE13
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E14
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=73cc16cb2282eb8b54d965b5d8267510:074e822b8739ef72af624a97f0cc1f4f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE14
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E15
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=698cfd3156a5112e9d592771554dc110:adc8f16bcf0f476de8252c9c2e7d2064
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE15
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E16
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=44d027f1c1c258bc9a57fd7f6390c010:5c187d41294c51accd01c490abbfbd9e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE16
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E17
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2afb500c6149b3712ae9c54e3b95bd10:ff9e80eda958b9c9ded62c00ddfcff36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE17
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E18
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=828d363235a982f39790e102e2884210:d0afde7dcc7817e275ebf654694dd86a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE18
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E19
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=f83a4ae5eb13b5b11a5c99c6a553a810:7c712cd152bf8d077b9060e989069213
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE19
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E20
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ccd6e12492b27212c919b840b82b7310:4549fd05ee5a56e6aa7f3462e165f1ac
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE20
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E21
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a6e962d19767e94d1123665c2f103510:945d06f88e332dba5332a81809244df6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE21
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E22
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=1ab380876a5a0fd6db83135206028410:c7efe3d344bf11a0a51ee9b483374d18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE22
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E23
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=b790b6f2f300831987b4c8608c335c10:ee4dd33a857e74e21e9b4897de0cfe6b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=cf298cd040c431c8753795fa3ce22b10:1aeb2672ab8ddd54bdd7b9de620bd166
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE24
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E25
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ce44eef7797e85d7734cc230f53a6010:45d6c84f76595cc4dcd4f8ec900acdf0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE25
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E26
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=eeb6d88aeb86bd84a4eccad66c6a1b10:bcba30d7137b4cf5dbf8489335ca432b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE26
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E27
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=4168c768a096f51bef5d6703212aa210:524ca34bcbe386acaea771974e4328e7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE27
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E28
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=346f064511be4ae5c92797746e615a10:b78d3952cf11f60eee9c50d03a997d49
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE28
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E29
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=5e471108f8d56fcbc895350d247f3010:62a0ceeda9e9ca8b307f97e2b32b5c85
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE29
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E30
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=27f3ff89a8eee7e7d906f32584973110:126574245824caefe0c72bd397376614
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE30
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E31
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=56053a851bff1825b3d829ef22bf9710:0dcf0ec82d7b44503985d7b85ac91dcc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE31
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E32
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=98dd99e645f238ee851097f5abb0b710:cad202a2fcf7b7661b3db1d1ed3daa6a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE32
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E33
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=30901f397b2fc19b920be05e6ab26c10:950fb4ebddb8aabd87813239c2f16a63
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE33
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E34
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=9fcf7deda2e5949d4b753b47824e4a10:a981da4f02e09a8690d55648aad1e37a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE34
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E35
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=6c5319694fbf44709ba50eb3c0d5be10:e486e52b2e57580d56c685dd97c4f78f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE35
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=3c699037bbcfb962c4b58fbcb769b410:b820e829443601374b30fb9f6a69d13d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE36
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E37
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=747b19f7a089c2ea762544a5b98b2510:a41df0361fd3bc095b5fc2915ee4d722
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE37
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E38
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=f9305e9f73cf0d6fb74f90bfcf348710:478e6cc0223c87dd6179bd0a206d6d04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE38
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E39
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=f4a066e1636182e920ad451fac60f510:f31239dfddc41aabab7c61cfbe3946bb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE39
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KTPSR_series_p_IVP_PORT_390x585_8859D_202588_184756.jpg" group-title="● Astro Series | Kerana Seorang Lelaki", Kerana Seorang Lelaki S01 E40
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ac624d92e716fb101be957c3c6709b10:33af40611134cbf79110ca05d3b8c4a1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=KSLelakiE40
 
 
@@ -1394,90 +1543,105 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=f3e57ef4c10d058eae2ac5c927e29f10:e86792636b073d67d78648b1ea889571
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TRHTreasureE1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVHR_series_p_IVP_PORT_390x585_879CB_2025724_123745.jpg" group-title="● Astro Series | Thariq Ridzuwan His Treasure", Thariq Ridzuwan His Treasure S01 E02
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=3f78dc603c246e60236212c755e62410:13d3982919790ad93e2c54871d15170a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TRHTreasureE2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVHR_series_p_IVP_PORT_390x585_879CB_2025724_123745.jpg" group-title="● Astro Series | Thariq Ridzuwan His Treasure", Thariq Ridzuwan His Treasure S01 E03
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d55676581c75dae90481b5bc12188510:baf89c526d46f162c525f303e4eee187
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TRHTreasureE3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVHR_series_p_IVP_PORT_390x585_879CB_2025724_123745.jpg" group-title="● Astro Series | Thariq Ridzuwan His Treasure", Thariq Ridzuwan His Treasure S01 E04
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=95a65488d36afa6612e228e3e2670810:d063d95b5d81f512915191a40fee7989
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TRHTreasureE4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVHR_series_p_IVP_PORT_390x585_879CB_2025724_123745.jpg" group-title="● Astro Series | Thariq Ridzuwan His Treasure", Thariq Ridzuwan His Treasure S01 E05
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=cb0e0ce6aaf71ab22341abf59032d210:f7a6c2e825d977440ac1e137c868f73f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TRHTreasureE5
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVHR_series_p_IVP_PORT_390x585_879CB_2025724_123745.jpg" group-title="● Astro Series | Thariq Ridzuwan His Treasure", Thariq Ridzuwan His Treasure S01 E06
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=68af0f570d7bee224782241b092a9410:b783d8b0233664f3255396a0cc161615
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TRHTreasureE6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVHR_series_p_IVP_PORT_390x585_879CB_2025724_123745.jpg" group-title="● Astro Series | Thariq Ridzuwan His Treasure", Thariq Ridzuwan His Treasure S01 E07
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=8aaff6639fbb7663e5274c2f87a77210:1b70812abe55bfcd4a496522d2508f41
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TRHTreasureE7
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVHR_series_p_IVP_PORT_390x585_879CB_2025724_123745.jpg" group-title="● Astro Series | Thariq Ridzuwan His Treasure", Thariq Ridzuwan His Treasure S01 E08
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d2e207cba8d6fdec9533d8e1a2625110:127b93d2aa3796eb2cf92c0f70287506
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TRHTreasureE8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVHR_series_p_IVP_PORT_390x585_879CB_2025724_123745.jpg" group-title="● Astro Series | Thariq Ridzuwan His Treasure", Thariq Ridzuwan His Treasure S01 E09
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2211efadb202fb4183099933759fc110:3293b8e6fd70025254b857e38b71c7a3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TRHTreasureE9
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVHR_series_p_IVP_PORT_390x585_879CB_2025724_123745.jpg" group-title="● Astro Series | Thariq Ridzuwan His Treasure", Thariq Ridzuwan His Treasure S01 E10
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=5c27276cfe3391a346018cf6d76eba10:1ed7a2e7f0270eae98f132baecaee5ed
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TRHTreasureE10
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVHR_series_p_IVP_PORT_390x585_879CB_2025724_123745.jpg" group-title="● Astro Series | Thariq Ridzuwan His Treasure", Thariq Ridzuwan His Treasure S01 E11
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=0a7d211bb8b0c460825f396ea4f70010:5d6bfbf3ba583807f986105c126f3540
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TRHTreasureE11
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVHR_series_p_IVP_PORT_390x585_879CB_2025724_123745.jpg" group-title="● Astro Series | Thariq Ridzuwan His Treasure", Thariq Ridzuwan His Treasure S01 E12
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=1758ee944b3aebdca15a021a94dba410:7fe0a5b1c879e4f37ac1f9c67219e108
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TRHTreasureE12
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVHR_series_p_IVP_PORT_390x585_879CB_2025724_123745.jpg" group-title="● Astro Series | Thariq Ridzuwan His Treasure", Thariq Ridzuwan His Treasure S01 E13
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=8da9f9b5f25ce0ec1bdcab52e9130410:771c009658f565d7351d6db7b3e45b63
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TRHTreasureE13
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVHR_series_p_IVP_PORT_390x585_879CB_2025724_123745.jpg" group-title="● Astro Series | Thariq Ridzuwan His Treasure", Thariq Ridzuwan His Treasure S01 E14
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a4180aeeac0875b25d977ab41b196a10:a2eac04d52150c307bf28de61db1e78a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TRHTreasureE14
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVHR_series_p_IVP_PORT_390x585_879CB_2025724_123745.jpg" group-title="● Astro Series | Thariq Ridzuwan His Treasure", Thariq Ridzuwan His Treasure S01 E15
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=7af65217b008ffd6ed885840fc27c110:bf60f53a46bb74373dc8003d54011dda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TRHTreasureE15
 
 
@@ -1485,6 +1649,7 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2d9b65a8802e953476fc55704d604c10:416c5f5530376c144d8388337efb7e73
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=TRHTreasureE16
 
 ########## Mandul Bukan Pilihan ##############
@@ -1493,42 +1658,49 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ca9c413c353bf0e573c0a3fef230e410:559e8d262e7242dfba834b039ca1ed14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE1
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01 E02
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ff46b2e5a3db3491d407b53a32027210:9589258f28c254a6b58d2a0dbe28e46a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01 E03
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=be523837998f8eb3d171fd5dbd103f10:1cc7e400c3583f25c8873295ae41d851
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01 E04
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=da9b87bba554e07c8bca97f345dd7a10:ca1f31de921d7213e8422cfcb08459f3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01 E05
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=05ccbf79e1232bd5433a8b7c7c85a810:44343e0d8e3df757241a71ecc0a7c563
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE5
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01 E06
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ff0d66fd2f5780983fde89d4b1f8ef10:9c6f89212a48135349f6bc5f17630a5e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01 E07
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d07ab14de31d861eefe78c92b0133f10:7bfd1633899cdcd421ba43a3275a778f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE7
 
 
@@ -1536,90 +1708,105 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=da2e6dd98d3ec5c74ae87531a890dc10:a2041ca433f89a6f272cf29e9cd7a586
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01E09
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=8ab5115756db481dc6c82103ec11f810:5338482bbf536aaf276e5d44b5ca506c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE9
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01E10
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=dd80094dd6beb79d1d5f9c8ecab7fc10:7cb58368e6cdb7e44dd558072bd2c312
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE10
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01E11
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=0047c346e60d8efaa52bda88aae9df10:83292869375d4e3734cd6c23a0e5fe11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE11
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01E12
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=069893212fe40ba29ff79189b8973f10:4bae62d50d95516d43de002e93c6fdc4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE12
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01E13
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=3609210c8ae88c10f3e989a4f868bd10:d223083b7bcf0f8d91dafbdc9dcf099e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE13
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01E14
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=0ee895f7dd847aa18e455727ed704010:bae7c83c3dde704fae10e92027a6c37a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE14
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01E15
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=03b356025ef561559c506ff564d99710:9395460f3f60ed883a9373b433e78b5e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE15
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01E16
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=084bbe3c19b066a5d6919f609d759c10:765dcf124287be96c0bcfa1dae666911
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE16
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01E17
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=4432d77f3fc59fad30e7e7e921028c10:82df5d947e2e5d72f27b8388de84c488
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE17
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01E18
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=8f8c1f2cd6363799a25b1442f6c6d410:640da471396aa8680a74d3923baec86c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE18
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01E19
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=22adbe1b164c1d6eb9241a63429e2910:69b9881ba42526dcf3e120f9e9bce094
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE19
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01E20
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=efc158806376879bbbd154389cc75810:518c5c814466c50bf5d37e31cbbe7817
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE20
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01E21
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=4aac4a2184e7c54a7833947f13e28110:6cd5a8be35c275226dc56b6cfdae3ff7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE21
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01E22
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d87e2412c21947476ca42fecacbd1010:4a3c9d2c993750840429d41600591e03
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE22
 
 
@@ -1627,24 +1814,28 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=1c3b09561f0c47eb3676ca0995edde10:630baad8bfd00bb6d9564df3790719cc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01E24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a69a1c496448f5aa36d41deaf8ca2e10:44d797163cf4d0d9dafcffa2bb879e09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE24
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01E25
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=5acadf3375d16f5f4a0298d20594a610:7676916881269bb27a9ba49b30b315cb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE25
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01E26
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=db66c0748f9a9b2da311d7f544945310:e18cbb98a6200fd36159a5038e74af29
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE26
 
 
@@ -1652,12 +1843,14 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2aeb7ba3434bbd84cf647324430e9410:df67e4a09f1823f78333b40cb1c4ac98
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE27
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSVGP_series_p_IVP_PORT_390x585_876EF_2025713_113848.jpg" group-title="● Astro Series | Mandul Bukan Pilihan", Mandul Bukan Pilihan S01E28
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=265cdd2b679a33cb2638681a0e7b4d10:9772683bf00f7c58c16ca416866e6019
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MBPilihanE28
 
 
@@ -1668,6 +1861,7 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=31117d2617a4376065b4026531574b10:5187021d2ef0a025c9dc08eec877f368
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE1
 
 
@@ -1675,36 +1869,42 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=dd515eae90999893aae1ff2a5d23de10:28571cb733e6922b156d6618e002b75d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE2
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01 E03
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=21fb3e820e8985cc571f75adc4e31310:da56cdc777f8288251f79f7a79b4470d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE3
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01 E04
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ba7e805c2589ea3726df9f77eda30a10:b4f93a63136a66e81969c452ba48821f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01 E05
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=f355c430bac5fe9bf90c9c4d01b95410:8de33e04a1ad8b9dedffa87add3037f4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE5
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01 E06
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=5694d74bf9bc53fc8aa2cc85d1bf8510:593cba51da6a59c3ab1b7bf3898ef573
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE6
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01 E07
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=9ab49efb543314574c23464159b67d10:a4bbd52a4ea245e5902ec2e3a6ea4987
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE7
 
 
@@ -1712,60 +1912,70 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=1bba6ad2d78c1418ed3c2fdff1ccaf10:881bf06d686f050d3fc05171f5f2ea21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01 E09
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=e32c653f36de3aa38dead12b02569710:a1b51f0629b8aa1df72a5f5999227659
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE9
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01E10
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c941766e7fc65b3f7a7852d73e4c9610:cfac980a5474816c92cd0105b7ed731d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE10
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01E11
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=f0ce956629b3874d7ad58149c7ae0a10:b832ca109d9ad65cbc313778eb037e87
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE11
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01E12
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=88409f3f92e5b95d2d385a831169eb10:b22f5703b4b7d85c8d3c5f7d1cd1f636
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE12
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01E13
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=4f8caedf19ae7f699ca5d8bf27e04710:b8dd1a089bff8030d99290024f037311
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE13
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01E14
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=f6601764f0714387e31f53c6b6f09710:5ebdc7923650f90f4ebb1a653a2a0f0f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE14
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01E15
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=04c3a5c83d95c7490e33b888cfa56510:404edc592283c54c9ac883b9faaec321
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE15
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01E16
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=707a4008a66145dd0cc9750f15d59110:80d2f6bef0b4deefcc9084e5fd269d48
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE16
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01E17
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=80c8846e55cbb97899f52ee992f56310:0adeb2fca5b0f81b80f98c5eda02927f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE17
 
 
@@ -1773,78 +1983,91 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=14f9d669459de4b7a5fad2a3dc940710:a468698387a56585311136a11a88c7c7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE18
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01E19
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ff1b2e56baf05a18039360dc1315b910:0be4ff1736616ffad41f51319e8ad616
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE19
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01E20
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=57bc238ba374a2c96eab73ce2c3ca210:5e05dcfa3e8f35919236c512e3f0f006
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE20
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01E21
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=eabe90daba06c2ecc7b85669416bc110:163cb0b0dcd41356fdbf0a3fcf366483
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE21
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01E22
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=6abb4a451e8c40a0e65f03190f128810:efde8fd5a027fe60d889f7cbc311df8e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE22
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01E23
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=af7938c433931a18852cb624c210b310:d30522c197d6d042ec93f27ce73a54b7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01E24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=fe5e2bcf6889dd5d756b6a2d1438e210:50fae818a0b1f965dbb9664303736e49
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE24
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01E25
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=dd98423ba035d08f5e4ac2470788b810:0e00b637e32bfb40d317c0fe3fb273a7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE25
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01E26
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=692c50032c691b66bd67c845546fb410:9c10cb7a36b607c28a3dd0ac9961c2bf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE26
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01E27
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=508078aacc52c4ed1276749371a37e10:f7c278c7f3f1e4accae3b6944c26e08d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE27
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01E28
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2edf5595719cac897efae3112d874f10:14f4f1aaea46df264a9d9f41f629e5e6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE28
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01E29
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2278a497dec93967006c15261b27a910:d5b91a495159075ba7629ab9c5aca3e0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE29
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KSWGQ_series_p_IVP_PORT_390x585_86C80_2025630_162922.jpg" group-title="● Astro Series | Di Sebalik Reda", Di Sebalik Reda S01E30
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c3fa8583cae9f5dacc9847a930167a10:ffc2b727e8a35a8efef43bbee81902d8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=DSRedaE30
 
 ########## Honey Trap ##############
