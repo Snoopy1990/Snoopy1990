@@ -4,42 +4,49 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2bb892fa91246b11d8522ea6bda28810:1bbd53511bdc9bf8d3b62b3780047572
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=IRUJABBARE01
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWQPN_SERIES_p_IVP_PORT_390x585_91AF6_2026420_10362.jpg" group-title="● Astro Series | Isteri Rahsia Ungku Jabbar",  E02
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=cdfc950bd32fa898ac063e7504d00110:dc0e643ac3a7f3833afe2315af44574f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=IRUJABBARE02
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWQPN_SERIES_p_IVP_PORT_390x585_91AF6_2026420_10362.jpg" group-title="● Astro Series | Isteri Rahsia Ungku Jabbar",  E03
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=97daa6bb4a91d9978fe398fcb2eed810:e3f0529c9fb61baba36411259f6c3322
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=IRUJABBARE03
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWQPN_SERIES_p_IVP_PORT_390x585_91AF6_2026420_10362.jpg" group-title="● Astro Series | Isteri Rahsia Ungku Jabbar",  E04
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=fa28e93421fb85f8c76cf3925d839d10:bcaec914500826cc4759c2754323301e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=IRUJABBARE04
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWQPN_SERIES_p_IVP_PORT_390x585_91AF6_2026420_10362.jpg" group-title="● Astro Series | Isteri Rahsia Ungku Jabbar",  E05
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=e27b4efc3c24b9c93918b73809626710:a72f0a379835c55d3d72b14b617e59c3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=IRUJABBARE05
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWQPN_SERIES_p_IVP_PORT_390x585_91AF6_2026420_10362.jpg" group-title="● Astro Series | Isteri Rahsia Ungku Jabbar",  E06
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=539be1a171829fb0858fa3656be80610:84e0c3e970c49b22c1314ef1b4e56c6c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=IRUJABBARE06
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KWQPN_SERIES_p_IVP_PORT_390x585_91AF6_2026420_10362.jpg" group-title="● Astro Series | Isteri Rahsia Ungku Jabbar",  E07
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2a0e2dbbcd131ac52121c8743e295f10:abf8dfadac1570290f47eed8d1a7882e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=IRUJABBARE07
 
 
@@ -50,42 +57,49 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a483f935ceb38abbda1a90dc3baf6210:4980467bf5e1c8a81845b0e743ba99c3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE01
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E02
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=6dd846feaa9eb211d0f800b049763410:f677a0cbffaa04442908b4651e67b8a6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE02
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E03
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=556b8ebfed526f85fe32ff705b218110:9317dcabe11c3a2821f069ce9f8a68a4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE03
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E04
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=593de0fc9cb79aeb1df749ac3aca1c10:6b529281a35761a3bfb04763a85894fb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE04
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E05
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a82cf0226621f26d255571aed943f010:18d5beaac3a7353cab1419bcf0f63d97
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE05
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E06
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=1096a8288662fece5e419171850e8010:8c6453562bdfba399ff9ba12c5d363d8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE06
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E07
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ab7ac381a8749ded5eac648eb0e8b710:88e3013e4d68643221cc2bbe629b3959
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE07
 
 
@@ -93,18 +107,21 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=67f7bb17184065c0320c4140b0ef4510:992724a568dce3f2bc10c87383d4e3d4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE08
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E09
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=15d831c253cb0013eaf24536a0caf410:833cae35504f5039d3c4560b8208b9a1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE09
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E10
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ffe5dacecff2146906d02cdbd740a110:eefd56d29bf0d3a6077a61051aab316e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE10
 
 
@@ -112,6 +129,7 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=c5d6d42f36ca710a207895ecf9024910:f0799ff8d596c7068a1aa5acb6098d40
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE11
 
 
@@ -119,54 +137,63 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=3f6fb638f8a2e5a0a9cf8c3f1a79b210:1694d2e10584aef6ed71a7bdca07f586
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE12
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E13
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=179b940e8da4173133c08ac502b35e10:36db755f3d29276dad2871ea6c34297c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE13
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E14
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=1e0119bb30587e8d47dbf612f2d97c10:f37084812ecc7cbb5a4674201334a698
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE14
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E15
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=cb63010c4b5bdce69dd836c8b939d310:2c6720b6fdd8558f78c02fcfb159c723
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE15
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E16
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=7338727ef37581c21a7da87d5ce00f10:f5bfe489238fc941a02fb6e1366ba64a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE16
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E17
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=7e8a5239d1087c64ea3a6bd3bc536110:2e698ac1f7ad5bdb35170c14e4747274
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE17
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E18
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=dca498ccc941ba6e69dc998ead3dd710:080e04aedc3fd25dbbaaa0d0e07cd6e6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE18
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E19
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=e546bb4acd7db082f22a7152ee491910:288ddc99935102a7c7c802cf40562c53
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE19
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E20
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d5d37401d1aa89114bf871a28a2b4d10:bf72940b8640dd11afce43886daef68c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE20
 
 
@@ -174,42 +201,49 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2d3b396667d8c38d8c4bbd7c5c6c5910:07602a6071875807fbc13fd7652c479e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE21
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E22
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=6d2e05e148aae96d2f2c170373e2a010:03fb0d5c1b53eb5dd741d402ce207807
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE22
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E23
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=4e166077baadb70563cbca339798ed10:4d33602b206b1c226227e2005fae0261
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE23
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E24
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=631766939c3a0fc062ae6482c9197310:66a898113afa4198940f6b8b32623937
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE24
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E25
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=032b093c0776d0b03d887a4d98c32f10:d3dae96f863fa20f258633683471887b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE25
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E26
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=8e0effc669f7f7545d180975e3d80110:4d3bcf16168349cc4defa4bdca118ec2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE26
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E27
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=1d7419614ddd677e8ec872a2af944010:079450a5fecbffa69a1636e91fe9e867
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE27
 
 
@@ -217,30 +251,35 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=31b30175e644e500de634cbac77d9d10:8322a6c83330887cd1c3f76a2f6aea7c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE28
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E29
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=e8a09f897868f724e1dc329108741d10:6e4ee24496a00e8fbd631268f17a42d1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE29
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E30
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=915f9d5de104fd2050dbf4c3a78e8e10:77d3a71d7942780b2712bf71f57a767f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE30
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E31
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2362c97f581748b39cc2fc9a88a79f10:a735f5637b6cf0f64ec55044d639aa0e
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE31
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E32
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=81017412297b94bd3a4f02a8c791f910:f55fff4a3a69460504dcc51bf4b6bb88
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE32
 
 
@@ -248,156 +287,182 @@ https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=eb9b47ae492de82227004acdefae1910:2251b407e7047f466dff273e4c167dab
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE33
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E34
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=58b89f743143bdf86bf3a3270d71d410:9b923c966e6f12afb23af96b6b275632
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE34
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E35
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=8a1e5fe2aa58dfdc22b01bfdc6e1ee10:0f1b1906f53d5393fae26bd5092e9100
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE35
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=b86a7ff19c2ae2741d5460ef4ba1d710:6f3c5bb213c1dca26e0831eeca4d6a00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE36
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E37
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=f07928237b1acbe4bf2e307de6244d10:34848470b708335bcdb61874e08f92fb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE37
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E38
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=85ba1694eeea7e6c59933c8084d08610:5344f644347cc5c26f09a4560bca841a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE38
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E39
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=b26d2129501a3dacebd6667fcb919f10:3dc5c2ed68616bc82b4f17b42aea8506
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE39
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E40
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=1353edab9e7d8283a6365ef2ca174010:8d714b292fdfc1a96e793a207e9c17b3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE40
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E41
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=9957c9c361f21f533da4bceb2b1c7b10:0c8e88d32fe624f22c6da2c8a731c0fa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE41
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E42
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=032bc130c6211e81e049b640fee68210:ebc4e8698f762158876dbf5e786cdef1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE42
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E43
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=d85896a86938f578374a9f51f3755810:b38215bf3b606c8c69e3b86705b4199f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE43
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E44
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=ec868df7a79803ef40ddd6baeb8f4b10:5981c474e890f53915ad53597da40ebd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE44
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E45
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=2cda74af3ddc07d9e980cf59f8f83610:73dafd63a84527c221ae22b0043b57a5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE45
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E46
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=78089650a7019b146c2f3e5c58ef0d10:67c7c963535a1b3198b86a910b0d9206
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE46
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E47
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=13ac780978bfc8a619c621eb978aae10:fb88db8bc661813b14bb0b6c38b450cd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE47
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E48
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=1007009a82b17cfb9593cf3e237e3110:0bf30fe3c23932d184040c4613aeafe5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE48
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E49
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=b3d923f0956f281b6da302102d165710:43e9d954b2fe0e43b38e5eb706008327
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE49
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E50
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=6309aa9e9a4d59ac7b958d96a89f8b10:112e9d540d74f1f8ff95a93e9ef9bd92
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE50
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E51
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=e258f5136d8db222861e9bf8041f5010:c48ea9aa1ce5c2f54b41532904756362
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE51
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E52
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=bf0eca1ea03808bb7f8b2eff0601b310:3444477014fe8594eb115ecc63d71282
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE52
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E53
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=0463c807f7386e29b3b63cfd97abf310:2375fa78ea7cccf5050a97d41f517efe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE53
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E54
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=a4106b2057ca75563876b1d7a2d2e910:ecd5486b52565752c1f378b06484e9fe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE54
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E55
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=cf8b26d7d08926c8910fa6cda71b8410:16f13024c6491b00ae58b335ee432632
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE55
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E56
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=280d50eacd63bd5b8184199761d4de10:fa8fa2dcf3ceac82348bcbac2ccb0c04
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE56
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E57
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=7e84436d7552166cae3b1bd64aec4e10:a71341d22b40da14427f3003ddc04254
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE57
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KVUAK_series_p_IVP_PORT_390x585_8ED34_202626_164158.jpg" group-title="● Astro Series | Mencari Isteri Sempurna", Mencari Isteri Sempurna E58
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_key=59d1640e2a1586df9f736a15e5782f10:db07b10718d5f8f1e3ef63a726456181
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 {bearer} Build/RTM5.220609.199{bearer}; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://get.perfecttv.net/xtro_vod2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=MISempurnaE58
 
 
