@@ -1292,7 +1292,7 @@ http://tv.cloudcdn.me/live.ts?channelId=93744&uid=10223&deviceMac=00:1A:79:07:07
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=136a75130b82cdf89cb5f05d739b663f:0ef360ff75bb11b7f0982a86b86d39ae
-#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Cinemax_Action_2025.svg/revision/latest?cb=20250904230311" group-title="🔴PREMIUM MOVIE",ACTION MAX EAST 
+#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Cinemax_Action_2025.svg/revision/latest?cb=20250904230311" group-logo="https://i.imgur.com/nbRASID.png" group-title="🔴PREMIUM MOVIE",ACTION MAX EAST 
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/995zvakyej/out/v1/3fa049c0afea4a83bb5f508f1859f160/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
