@@ -644,6 +644,23 @@ http://tv.cloudcdn.me:80/live.ts?channelId=93762&uid=10223&deviceMac=00:1A:79:99
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Astro_Ria_Plus_%283D%29.png/revision/latest?cb=20260403170024" group-title="Malaysia",Astro Ria
 http://tv.cloudcdn.me:80/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:99:EC:D3
 
+#EXTINF:-1 tvg-id="stream-0fd02903-5fba-4712-86c8-a9b157d8fcfe" tvg-name="Citra" group-title="Malaysia",Citra
+https://tv123.cc.cd/live.php?ch=1607&sid=c17c5931738db4984bfb7324142e5528&exp=1795487546&sig=f26e574d157556a013c80cd2dbb04d07a531d023926784d9309f1c11646a7621
+#EXTINF:-1 tvg-id="stream-0aba2e11-4d81-44cb-8604-d17b570c6949" tvg-name="Citra backup" group-title="Malaysia",Citra backup
+https://tv123.cc.cd/live.php?ch=1608&sid=c17c5931738db4984bfb7324142e5528&exp=1795487546&sig=ccccdcc4374b88ae28c8c18d206239ab3d2c4d3902b84ff4a673caadb32872d2
+#EXTINF:-1 tvg-id="stream-800c2b34-dd49-4120-a7cb-0b6d7e3a6a2a" tvg-name="Prima" group-title="Malaysia",Prima
+https://tv123.cc.cd/live.php?ch=1609&sid=c17c5931738db4984bfb7324142e5528&exp=1795487546&sig=1c8348d02424f91b32b3df0d66f56291353de809cfb9d2e017b85596c55ed257
+#EXTINF:-1 tvg-id="stream-b0296295-b0d2-4c30-a84a-6b15ba7990b2" tvg-name="Prima backup" group-title="Malaysia",Prima backup
+https://tv123.cc.cd/live.php?ch=1610&sid=c17c5931738db4984bfb7324142e5528&exp=1795487546&sig=045c30c0dfddf789ec0a5851b5f3461d3e0acc1a2f14ab7c581f4b87c2e32719
+#EXTINF:-1 tvg-id="stream-1f5499bd-025f-4fab-a7a4-7a00e1211525" tvg-name="Prima backup_1" group-title="Malaysia",Prima backup_1
+https://tv123.cc.cd/live.php?ch=1611&sid=c17c5931738db4984bfb7324142e5528&exp=1795487546&sig=15e4e1066f9fc29559ced6c32bf2a9a084e67ccd71211a03719fe6021d36401c
+#EXTINF:-1 tvg-id="stream-28cd79ff-0976-4166-b84e-9263aae09410" tvg-name="Ria" group-title="Malaysia",Ria
+https://tv123.cc.cd/live.php?ch=1612&sid=c17c5931738db4984bfb7324142e5528&exp=1795487546&sig=45836d54cfa8934425035424ee31829a8ede1cc83e7cbc5c3d249c90e39e895d
+#EXTINF:-1 tvg-id="stream-1be3a70b-59d0-4ba2-a991-5f044d06a496" tvg-name="Ria-3" group-title="Malaysia",Ria-3
+https://tv123.cc.cd/live.php?ch=1613&sid=c17c5931738db4984bfb7324142e5528&exp=1795487546&sig=483d8aeb6e89003fdd59bc4e68ac7e132d7bb67fc66780efdd6bc80372fd7d0d
+#EXTINF:-1 tvg-id="stream-cd8cd695-9783-448f-a442-67e5eaee479f" tvg-name="Ria backup_1" group-title="Malaysia",Ria backup_1
+https://tv123.cc.cd/live.php?ch=1614&sid=c17c5931738db4984bfb7324142e5528&exp=1795487546&sig=676f3c5808096d5db5e20f466ab35d0cc515155108c2430b3f564cb31fff7c6a
+
 ##Backup##
 
 
